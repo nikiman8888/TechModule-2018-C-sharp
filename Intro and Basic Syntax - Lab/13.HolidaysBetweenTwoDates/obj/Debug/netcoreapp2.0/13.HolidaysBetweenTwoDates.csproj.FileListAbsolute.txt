@@ -1,0 +1,11 @@
+D:\CodeProekts\TechModule2018Practise\13.HolidaysBetweenTwoDates\bin\Debug\netcoreapp2.0\13.HolidaysBetweenTwoDates.deps.json
+D:\CodeProekts\TechModule2018Practise\13.HolidaysBetweenTwoDates\bin\Debug\netcoreapp2.0\13.HolidaysBetweenTwoDates.runtimeconfig.json
+D:\CodeProekts\TechModule2018Practise\13.HolidaysBetweenTwoDates\bin\Debug\netcoreapp2.0\13.HolidaysBetweenTwoDates.runtimeconfig.dev.json
+D:\CodeProekts\TechModule2018Practise\13.HolidaysBetweenTwoDates\bin\Debug\netcoreapp2.0\13.HolidaysBetweenTwoDates.dll
+D:\CodeProekts\TechModule2018Practise\13.HolidaysBetweenTwoDates\bin\Debug\netcoreapp2.0\13.HolidaysBetweenTwoDates.pdb
+D:\CodeProekts\TechModule2018Practise\13.HolidaysBetweenTwoDates\obj\Debug\netcoreapp2.0\13.HolidaysBetweenTwoDates.csproj.CoreCompileInputs.cache
+D:\CodeProekts\TechModule2018Practise\13.HolidaysBetweenTwoDates\obj\Debug\netcoreapp2.0\13.HolidaysBetweenTwoDates.AssemblyInfoInputs.cache
+D:\CodeProekts\TechModule2018Practise\13.HolidaysBetweenTwoDates\obj\Debug\netcoreapp2.0\13.HolidaysBetweenTwoDates.AssemblyInfo.cs
+D:\CodeProekts\TechModule2018Practise\13.HolidaysBetweenTwoDates\obj\Debug\netcoreapp2.0\13.HolidaysBetweenTwoDates.dll
+D:\CodeProekts\TechModule2018Practise\13.HolidaysBetweenTwoDates\obj\Debug\netcoreapp2.0\13.HolidaysBetweenTwoDates.pdb
+D:\CodeProekts\TechModule2018Practise\13.HolidaysBetweenTwoDates\obj\Debug\netcoreapp2.0\13.HolidaysBetweenTwoDates.csprojResolveAssemblyReference.cache

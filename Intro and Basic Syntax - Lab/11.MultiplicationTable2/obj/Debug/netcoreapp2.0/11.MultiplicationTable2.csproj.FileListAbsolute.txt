@@ -1,0 +1,10 @@
+D:\CodeProekts\TechModule2018Practise\11.MultiplicationTable2\bin\Debug\netcoreapp2.0\11.MultiplicationTable2.deps.json
+D:\CodeProekts\TechModule2018Practise\11.MultiplicationTable2\bin\Debug\netcoreapp2.0\11.MultiplicationTable2.runtimeconfig.json
+D:\CodeProekts\TechModule2018Practise\11.MultiplicationTable2\bin\Debug\netcoreapp2.0\11.MultiplicationTable2.runtimeconfig.dev.json
+D:\CodeProekts\TechModule2018Practise\11.MultiplicationTable2\bin\Debug\netcoreapp2.0\11.MultiplicationTable2.dll
+D:\CodeProekts\TechModule2018Practise\11.MultiplicationTable2\bin\Debug\netcoreapp2.0\11.MultiplicationTable2.pdb
+D:\CodeProekts\TechModule2018Practise\11.MultiplicationTable2\obj\Debug\netcoreapp2.0\11.MultiplicationTable2.csproj.CoreCompileInputs.cache
+D:\CodeProekts\TechModule2018Practise\11.MultiplicationTable2\obj\Debug\netcoreapp2.0\11.MultiplicationTable2.AssemblyInfoInputs.cache
+D:\CodeProekts\TechModule2018Practise\11.MultiplicationTable2\obj\Debug\netcoreapp2.0\11.MultiplicationTable2.AssemblyInfo.cs
+D:\CodeProekts\TechModule2018Practise\11.MultiplicationTable2\obj\Debug\netcoreapp2.0\11.MultiplicationTable2.dll
+D:\CodeProekts\TechModule2018Practise\11.MultiplicationTable2\obj\Debug\netcoreapp2.0\11.MultiplicationTable2.pdb

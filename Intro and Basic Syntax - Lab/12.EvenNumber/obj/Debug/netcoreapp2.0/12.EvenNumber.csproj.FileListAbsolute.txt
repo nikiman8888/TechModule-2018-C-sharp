@@ -1,0 +1,10 @@
+D:\CodeProekts\TechModule2018Practise\12.EvenNumber\bin\Debug\netcoreapp2.0\12.EvenNumber.deps.json
+D:\CodeProekts\TechModule2018Practise\12.EvenNumber\bin\Debug\netcoreapp2.0\12.EvenNumber.runtimeconfig.json
+D:\CodeProekts\TechModule2018Practise\12.EvenNumber\bin\Debug\netcoreapp2.0\12.EvenNumber.runtimeconfig.dev.json
+D:\CodeProekts\TechModule2018Practise\12.EvenNumber\bin\Debug\netcoreapp2.0\12.EvenNumber.dll
+D:\CodeProekts\TechModule2018Practise\12.EvenNumber\bin\Debug\netcoreapp2.0\12.EvenNumber.pdb
+D:\CodeProekts\TechModule2018Practise\12.EvenNumber\obj\Debug\netcoreapp2.0\12.EvenNumber.csproj.CoreCompileInputs.cache
+D:\CodeProekts\TechModule2018Practise\12.EvenNumber\obj\Debug\netcoreapp2.0\12.EvenNumber.AssemblyInfoInputs.cache
+D:\CodeProekts\TechModule2018Practise\12.EvenNumber\obj\Debug\netcoreapp2.0\12.EvenNumber.AssemblyInfo.cs
+D:\CodeProekts\TechModule2018Practise\12.EvenNumber\obj\Debug\netcoreapp2.0\12.EvenNumber.dll
+D:\CodeProekts\TechModule2018Practise\12.EvenNumber\obj\Debug\netcoreapp2.0\12.EvenNumber.pdb
