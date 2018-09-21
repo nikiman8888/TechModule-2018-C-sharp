@@ -1,0 +1,11 @@
+D:\CodeProekts\TechModule2018Practise\04.Back-In-30-Minutes\bin\Debug\netcoreapp2.0\04.Back-In-30-Minutes.deps.json
+D:\CodeProekts\TechModule2018Practise\04.Back-In-30-Minutes\bin\Debug\netcoreapp2.0\04.Back-In-30-Minutes.runtimeconfig.json
+D:\CodeProekts\TechModule2018Practise\04.Back-In-30-Minutes\bin\Debug\netcoreapp2.0\04.Back-In-30-Minutes.runtimeconfig.dev.json
+D:\CodeProekts\TechModule2018Practise\04.Back-In-30-Minutes\bin\Debug\netcoreapp2.0\04.Back-In-30-Minutes.dll
+D:\CodeProekts\TechModule2018Practise\04.Back-In-30-Minutes\bin\Debug\netcoreapp2.0\04.Back-In-30-Minutes.pdb
+D:\CodeProekts\TechModule2018Practise\04.Back-In-30-Minutes\obj\Debug\netcoreapp2.0\04.Back-In-30-Minutes.csproj.CoreCompileInputs.cache
+D:\CodeProekts\TechModule2018Practise\04.Back-In-30-Minutes\obj\Debug\netcoreapp2.0\04.Back-In-30-Minutes.AssemblyInfoInputs.cache
+D:\CodeProekts\TechModule2018Practise\04.Back-In-30-Minutes\obj\Debug\netcoreapp2.0\04.Back-In-30-Minutes.AssemblyInfo.cs
+D:\CodeProekts\TechModule2018Practise\04.Back-In-30-Minutes\obj\Debug\netcoreapp2.0\04.Back-In-30-Minutes.dll
+D:\CodeProekts\TechModule2018Practise\04.Back-In-30-Minutes\obj\Debug\netcoreapp2.0\04.Back-In-30-Minutes.pdb
+D:\CodeProekts\TechModule2018Practise\04.Back-In-30-Minutes\obj\Debug\netcoreapp2.0\04.Back-In-30-Minutes.csprojResolveAssemblyReference.cache

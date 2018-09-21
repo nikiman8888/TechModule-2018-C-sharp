@@ -1,0 +1,10 @@
+D:\CodeProekts\TechModule2018Practise\05MonthPrinter\bin\Debug\netcoreapp2.0\05.MonthPrinter.deps.json
+D:\CodeProekts\TechModule2018Practise\05MonthPrinter\bin\Debug\netcoreapp2.0\05.MonthPrinter.runtimeconfig.json
+D:\CodeProekts\TechModule2018Practise\05MonthPrinter\bin\Debug\netcoreapp2.0\05.MonthPrinter.runtimeconfig.dev.json
+D:\CodeProekts\TechModule2018Practise\05MonthPrinter\bin\Debug\netcoreapp2.0\05.MonthPrinter.dll
+D:\CodeProekts\TechModule2018Practise\05MonthPrinter\bin\Debug\netcoreapp2.0\05.MonthPrinter.pdb
+D:\CodeProekts\TechModule2018Practise\05MonthPrinter\obj\Debug\netcoreapp2.0\05.MonthPrinter.csproj.CoreCompileInputs.cache
+D:\CodeProekts\TechModule2018Practise\05MonthPrinter\obj\Debug\netcoreapp2.0\05.MonthPrinter.AssemblyInfoInputs.cache
+D:\CodeProekts\TechModule2018Practise\05MonthPrinter\obj\Debug\netcoreapp2.0\05.MonthPrinter.AssemblyInfo.cs
+D:\CodeProekts\TechModule2018Practise\05MonthPrinter\obj\Debug\netcoreapp2.0\05.MonthPrinter.dll
+D:\CodeProekts\TechModule2018Practise\05MonthPrinter\obj\Debug\netcoreapp2.0\05.MonthPrinter.pdb

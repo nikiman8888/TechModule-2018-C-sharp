@@ -1,0 +1,11 @@
+D:\CodeProekts\TechModule2018Practise\01.StudentInformation\bin\Debug\netcoreapp2.0\01.StudentInformation.deps.json
+D:\CodeProekts\TechModule2018Practise\01.StudentInformation\bin\Debug\netcoreapp2.0\01.StudentInformation.runtimeconfig.json
+D:\CodeProekts\TechModule2018Practise\01.StudentInformation\bin\Debug\netcoreapp2.0\01.StudentInformation.runtimeconfig.dev.json
+D:\CodeProekts\TechModule2018Practise\01.StudentInformation\bin\Debug\netcoreapp2.0\01.StudentInformation.dll
+D:\CodeProekts\TechModule2018Practise\01.StudentInformation\bin\Debug\netcoreapp2.0\01.StudentInformation.pdb
+D:\CodeProekts\TechModule2018Practise\01.StudentInformation\obj\Debug\netcoreapp2.0\01.StudentInformation.csprojResolveAssemblyReference.cache
+D:\CodeProekts\TechModule2018Practise\01.StudentInformation\obj\Debug\netcoreapp2.0\01.StudentInformation.csproj.CoreCompileInputs.cache
+D:\CodeProekts\TechModule2018Practise\01.StudentInformation\obj\Debug\netcoreapp2.0\01.StudentInformation.AssemblyInfoInputs.cache
+D:\CodeProekts\TechModule2018Practise\01.StudentInformation\obj\Debug\netcoreapp2.0\01.StudentInformation.AssemblyInfo.cs
+D:\CodeProekts\TechModule2018Practise\01.StudentInformation\obj\Debug\netcoreapp2.0\01.StudentInformation.dll
+D:\CodeProekts\TechModule2018Practise\01.StudentInformation\obj\Debug\netcoreapp2.0\01.StudentInformation.pdb
