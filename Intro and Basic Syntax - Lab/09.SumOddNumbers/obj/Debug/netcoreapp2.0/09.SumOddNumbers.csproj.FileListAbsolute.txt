@@ -1,0 +1,10 @@
+D:\CodeProekts\TechModule2018Practise\09.SumOddNumbers\bin\Debug\netcoreapp2.0\09.SumOddNumbers.deps.json
+D:\CodeProekts\TechModule2018Practise\09.SumOddNumbers\bin\Debug\netcoreapp2.0\09.SumOddNumbers.runtimeconfig.json
+D:\CodeProekts\TechModule2018Practise\09.SumOddNumbers\bin\Debug\netcoreapp2.0\09.SumOddNumbers.runtimeconfig.dev.json
+D:\CodeProekts\TechModule2018Practise\09.SumOddNumbers\bin\Debug\netcoreapp2.0\09.SumOddNumbers.dll
+D:\CodeProekts\TechModule2018Practise\09.SumOddNumbers\bin\Debug\netcoreapp2.0\09.SumOddNumbers.pdb
+D:\CodeProekts\TechModule2018Practise\09.SumOddNumbers\obj\Debug\netcoreapp2.0\09.SumOddNumbers.csproj.CoreCompileInputs.cache
+D:\CodeProekts\TechModule2018Practise\09.SumOddNumbers\obj\Debug\netcoreapp2.0\09.SumOddNumbers.AssemblyInfoInputs.cache
+D:\CodeProekts\TechModule2018Practise\09.SumOddNumbers\obj\Debug\netcoreapp2.0\09.SumOddNumbers.AssemblyInfo.cs
+D:\CodeProekts\TechModule2018Practise\09.SumOddNumbers\obj\Debug\netcoreapp2.0\09.SumOddNumbers.dll
+D:\CodeProekts\TechModule2018Practise\09.SumOddNumbers\obj\Debug\netcoreapp2.0\09.SumOddNumbers.pdb

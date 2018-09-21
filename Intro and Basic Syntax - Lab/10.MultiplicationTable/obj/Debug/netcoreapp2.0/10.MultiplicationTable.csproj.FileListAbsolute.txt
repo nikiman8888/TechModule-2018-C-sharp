@@ -1,0 +1,11 @@
+D:\CodeProekts\TechModule2018Practise\10.MultiplicationTable\bin\Debug\netcoreapp2.0\10.MultiplicationTable.deps.json
+D:\CodeProekts\TechModule2018Practise\10.MultiplicationTable\bin\Debug\netcoreapp2.0\10.MultiplicationTable.runtimeconfig.json
+D:\CodeProekts\TechModule2018Practise\10.MultiplicationTable\bin\Debug\netcoreapp2.0\10.MultiplicationTable.runtimeconfig.dev.json
+D:\CodeProekts\TechModule2018Practise\10.MultiplicationTable\bin\Debug\netcoreapp2.0\10.MultiplicationTable.dll
+D:\CodeProekts\TechModule2018Practise\10.MultiplicationTable\bin\Debug\netcoreapp2.0\10.MultiplicationTable.pdb
+D:\CodeProekts\TechModule2018Practise\10.MultiplicationTable\obj\Debug\netcoreapp2.0\10.MultiplicationTable.csprojResolveAssemblyReference.cache
+D:\CodeProekts\TechModule2018Practise\10.MultiplicationTable\obj\Debug\netcoreapp2.0\10.MultiplicationTable.csproj.CoreCompileInputs.cache
+D:\CodeProekts\TechModule2018Practise\10.MultiplicationTable\obj\Debug\netcoreapp2.0\10.MultiplicationTable.AssemblyInfoInputs.cache
+D:\CodeProekts\TechModule2018Practise\10.MultiplicationTable\obj\Debug\netcoreapp2.0\10.MultiplicationTable.AssemblyInfo.cs
+D:\CodeProekts\TechModule2018Practise\10.MultiplicationTable\obj\Debug\netcoreapp2.0\10.MultiplicationTable.dll
+D:\CodeProekts\TechModule2018Practise\10.MultiplicationTable\obj\Debug\netcoreapp2.0\10.MultiplicationTable.pdb

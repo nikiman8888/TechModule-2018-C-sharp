@@ -1,0 +1,11 @@
+D:\CodeProekts\TechModule2018Practise\07.TheatrePromotion\bin\Debug\netcoreapp2.0\07.TheatrePromotion.deps.json
+D:\CodeProekts\TechModule2018Practise\07.TheatrePromotion\bin\Debug\netcoreapp2.0\07.TheatrePromotion.runtimeconfig.json
+D:\CodeProekts\TechModule2018Practise\07.TheatrePromotion\bin\Debug\netcoreapp2.0\07.TheatrePromotion.runtimeconfig.dev.json
+D:\CodeProekts\TechModule2018Practise\07.TheatrePromotion\bin\Debug\netcoreapp2.0\07.TheatrePromotion.dll
+D:\CodeProekts\TechModule2018Practise\07.TheatrePromotion\bin\Debug\netcoreapp2.0\07.TheatrePromotion.pdb
+D:\CodeProekts\TechModule2018Practise\07.TheatrePromotion\obj\Debug\netcoreapp2.0\07.TheatrePromotion.csprojResolveAssemblyReference.cache
+D:\CodeProekts\TechModule2018Practise\07.TheatrePromotion\obj\Debug\netcoreapp2.0\07.TheatrePromotion.csproj.CoreCompileInputs.cache
+D:\CodeProekts\TechModule2018Practise\07.TheatrePromotion\obj\Debug\netcoreapp2.0\07.TheatrePromotion.AssemblyInfoInputs.cache
+D:\CodeProekts\TechModule2018Practise\07.TheatrePromotion\obj\Debug\netcoreapp2.0\07.TheatrePromotion.AssemblyInfo.cs
+D:\CodeProekts\TechModule2018Practise\07.TheatrePromotion\obj\Debug\netcoreapp2.0\07.TheatrePromotion.dll
+D:\CodeProekts\TechModule2018Practise\07.TheatrePromotion\obj\Debug\netcoreapp2.0\07.TheatrePromotion.pdb

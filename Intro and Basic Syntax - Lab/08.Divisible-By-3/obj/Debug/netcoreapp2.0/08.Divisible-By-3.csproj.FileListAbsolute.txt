@@ -1,0 +1,11 @@
+D:\CodeProekts\TechModule2018Practise\08.Divisible-By-3\bin\Debug\netcoreapp2.0\08.Divisible-By-3.deps.json
+D:\CodeProekts\TechModule2018Practise\08.Divisible-By-3\bin\Debug\netcoreapp2.0\08.Divisible-By-3.runtimeconfig.json
+D:\CodeProekts\TechModule2018Practise\08.Divisible-By-3\bin\Debug\netcoreapp2.0\08.Divisible-By-3.runtimeconfig.dev.json
+D:\CodeProekts\TechModule2018Practise\08.Divisible-By-3\bin\Debug\netcoreapp2.0\08.Divisible-By-3.dll
+D:\CodeProekts\TechModule2018Practise\08.Divisible-By-3\bin\Debug\netcoreapp2.0\08.Divisible-By-3.pdb
+D:\CodeProekts\TechModule2018Practise\08.Divisible-By-3\obj\Debug\netcoreapp2.0\08.Divisible-By-3.csprojResolveAssemblyReference.cache
+D:\CodeProekts\TechModule2018Practise\08.Divisible-By-3\obj\Debug\netcoreapp2.0\08.Divisible-By-3.csproj.CoreCompileInputs.cache
+D:\CodeProekts\TechModule2018Practise\08.Divisible-By-3\obj\Debug\netcoreapp2.0\08.Divisible-By-3.AssemblyInfoInputs.cache
+D:\CodeProekts\TechModule2018Practise\08.Divisible-By-3\obj\Debug\netcoreapp2.0\08.Divisible-By-3.AssemblyInfo.cs
+D:\CodeProekts\TechModule2018Practise\08.Divisible-By-3\obj\Debug\netcoreapp2.0\08.Divisible-By-3.dll
+D:\CodeProekts\TechModule2018Practise\08.Divisible-By-3\obj\Debug\netcoreapp2.0\08.Divisible-By-3.pdb
