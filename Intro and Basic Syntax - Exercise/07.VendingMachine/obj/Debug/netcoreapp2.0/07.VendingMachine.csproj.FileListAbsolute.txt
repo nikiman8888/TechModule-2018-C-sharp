@@ -1,0 +1,11 @@
+D:\CodeProekts\IntroBasicSyntax-Exercise\07.VendingMachine\bin\Debug\netcoreapp2.0\07.VendingMachine.deps.json
+D:\CodeProekts\IntroBasicSyntax-Exercise\07.VendingMachine\bin\Debug\netcoreapp2.0\07.VendingMachine.runtimeconfig.json
+D:\CodeProekts\IntroBasicSyntax-Exercise\07.VendingMachine\bin\Debug\netcoreapp2.0\07.VendingMachine.runtimeconfig.dev.json
+D:\CodeProekts\IntroBasicSyntax-Exercise\07.VendingMachine\bin\Debug\netcoreapp2.0\07.VendingMachine.dll
+D:\CodeProekts\IntroBasicSyntax-Exercise\07.VendingMachine\bin\Debug\netcoreapp2.0\07.VendingMachine.pdb
+D:\CodeProekts\IntroBasicSyntax-Exercise\07.VendingMachine\obj\Debug\netcoreapp2.0\07.VendingMachine.csprojResolveAssemblyReference.cache
+D:\CodeProekts\IntroBasicSyntax-Exercise\07.VendingMachine\obj\Debug\netcoreapp2.0\07.VendingMachine.csproj.CoreCompileInputs.cache
+D:\CodeProekts\IntroBasicSyntax-Exercise\07.VendingMachine\obj\Debug\netcoreapp2.0\07.VendingMachine.AssemblyInfoInputs.cache
+D:\CodeProekts\IntroBasicSyntax-Exercise\07.VendingMachine\obj\Debug\netcoreapp2.0\07.VendingMachine.AssemblyInfo.cs
+D:\CodeProekts\IntroBasicSyntax-Exercise\07.VendingMachine\obj\Debug\netcoreapp2.0\07.VendingMachine.dll
+D:\CodeProekts\IntroBasicSyntax-Exercise\07.VendingMachine\obj\Debug\netcoreapp2.0\07.VendingMachine.pdb
