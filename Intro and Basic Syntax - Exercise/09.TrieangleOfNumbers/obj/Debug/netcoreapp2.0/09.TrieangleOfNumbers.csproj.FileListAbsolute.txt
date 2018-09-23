@@ -1,0 +1,10 @@
+D:\CodeProekts\IntroBasicSyntax-Exercise\09.TrieangleOfNumbers\bin\Debug\netcoreapp2.0\09.TrieangleOfNumbers.deps.json
+D:\CodeProekts\IntroBasicSyntax-Exercise\09.TrieangleOfNumbers\bin\Debug\netcoreapp2.0\09.TrieangleOfNumbers.runtimeconfig.json
+D:\CodeProekts\IntroBasicSyntax-Exercise\09.TrieangleOfNumbers\bin\Debug\netcoreapp2.0\09.TrieangleOfNumbers.runtimeconfig.dev.json
+D:\CodeProekts\IntroBasicSyntax-Exercise\09.TrieangleOfNumbers\bin\Debug\netcoreapp2.0\09.TrieangleOfNumbers.dll
+D:\CodeProekts\IntroBasicSyntax-Exercise\09.TrieangleOfNumbers\bin\Debug\netcoreapp2.0\09.TrieangleOfNumbers.pdb
+D:\CodeProekts\IntroBasicSyntax-Exercise\09.TrieangleOfNumbers\obj\Debug\netcoreapp2.0\09.TrieangleOfNumbers.csproj.CoreCompileInputs.cache
+D:\CodeProekts\IntroBasicSyntax-Exercise\09.TrieangleOfNumbers\obj\Debug\netcoreapp2.0\09.TrieangleOfNumbers.AssemblyInfoInputs.cache
+D:\CodeProekts\IntroBasicSyntax-Exercise\09.TrieangleOfNumbers\obj\Debug\netcoreapp2.0\09.TrieangleOfNumbers.AssemblyInfo.cs
+D:\CodeProekts\IntroBasicSyntax-Exercise\09.TrieangleOfNumbers\obj\Debug\netcoreapp2.0\09.TrieangleOfNumbers.dll
+D:\CodeProekts\IntroBasicSyntax-Exercise\09.TrieangleOfNumbers\obj\Debug\netcoreapp2.0\09.TrieangleOfNumbers.pdb

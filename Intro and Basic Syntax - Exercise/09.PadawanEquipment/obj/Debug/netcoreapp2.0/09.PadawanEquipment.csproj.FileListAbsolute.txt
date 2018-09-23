@@ -1,0 +1,11 @@
+D:\CodeProekts\IntroBasicSyntax-Exercise\09.PadawanEquipment\bin\Debug\netcoreapp2.0\09.PadawanEquipment.deps.json
+D:\CodeProekts\IntroBasicSyntax-Exercise\09.PadawanEquipment\bin\Debug\netcoreapp2.0\09.PadawanEquipment.runtimeconfig.json
+D:\CodeProekts\IntroBasicSyntax-Exercise\09.PadawanEquipment\bin\Debug\netcoreapp2.0\09.PadawanEquipment.runtimeconfig.dev.json
+D:\CodeProekts\IntroBasicSyntax-Exercise\09.PadawanEquipment\bin\Debug\netcoreapp2.0\09.PadawanEquipment.dll
+D:\CodeProekts\IntroBasicSyntax-Exercise\09.PadawanEquipment\bin\Debug\netcoreapp2.0\09.PadawanEquipment.pdb
+D:\CodeProekts\IntroBasicSyntax-Exercise\09.PadawanEquipment\obj\Debug\netcoreapp2.0\09.PadawanEquipment.csprojResolveAssemblyReference.cache
+D:\CodeProekts\IntroBasicSyntax-Exercise\09.PadawanEquipment\obj\Debug\netcoreapp2.0\09.PadawanEquipment.csproj.CoreCompileInputs.cache
+D:\CodeProekts\IntroBasicSyntax-Exercise\09.PadawanEquipment\obj\Debug\netcoreapp2.0\09.PadawanEquipment.AssemblyInfoInputs.cache
+D:\CodeProekts\IntroBasicSyntax-Exercise\09.PadawanEquipment\obj\Debug\netcoreapp2.0\09.PadawanEquipment.AssemblyInfo.cs
+D:\CodeProekts\IntroBasicSyntax-Exercise\09.PadawanEquipment\obj\Debug\netcoreapp2.0\09.PadawanEquipment.dll
+D:\CodeProekts\IntroBasicSyntax-Exercise\09.PadawanEquipment\obj\Debug\netcoreapp2.0\09.PadawanEquipment.pdb

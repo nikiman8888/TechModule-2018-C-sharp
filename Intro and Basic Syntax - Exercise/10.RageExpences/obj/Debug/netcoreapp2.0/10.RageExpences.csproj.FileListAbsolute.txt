@@ -1,0 +1,11 @@
+D:\CodeProekts\IntroBasicSyntax-Exercise\10.RageExpences\bin\Debug\netcoreapp2.0\10.RageExpences.deps.json
+D:\CodeProekts\IntroBasicSyntax-Exercise\10.RageExpences\bin\Debug\netcoreapp2.0\10.RageExpences.runtimeconfig.json
+D:\CodeProekts\IntroBasicSyntax-Exercise\10.RageExpences\bin\Debug\netcoreapp2.0\10.RageExpences.runtimeconfig.dev.json
+D:\CodeProekts\IntroBasicSyntax-Exercise\10.RageExpences\bin\Debug\netcoreapp2.0\10.RageExpences.dll
+D:\CodeProekts\IntroBasicSyntax-Exercise\10.RageExpences\bin\Debug\netcoreapp2.0\10.RageExpences.pdb
+D:\CodeProekts\IntroBasicSyntax-Exercise\10.RageExpences\obj\Debug\netcoreapp2.0\10.RageExpences.csprojResolveAssemblyReference.cache
+D:\CodeProekts\IntroBasicSyntax-Exercise\10.RageExpences\obj\Debug\netcoreapp2.0\10.RageExpences.csproj.CoreCompileInputs.cache
+D:\CodeProekts\IntroBasicSyntax-Exercise\10.RageExpences\obj\Debug\netcoreapp2.0\10.RageExpences.AssemblyInfoInputs.cache
+D:\CodeProekts\IntroBasicSyntax-Exercise\10.RageExpences\obj\Debug\netcoreapp2.0\10.RageExpences.AssemblyInfo.cs
+D:\CodeProekts\IntroBasicSyntax-Exercise\10.RageExpences\obj\Debug\netcoreapp2.0\10.RageExpences.dll
+D:\CodeProekts\IntroBasicSyntax-Exercise\10.RageExpences\obj\Debug\netcoreapp2.0\10.RageExpences.pdb
