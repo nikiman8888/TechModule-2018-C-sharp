@@ -1,0 +1,11 @@
+D:\CodeProekts\IntroBasicSyntax-Exercise\04.PrintAndSum\bin\Debug\netcoreapp2.0\04.PrintAndSum.deps.json
+D:\CodeProekts\IntroBasicSyntax-Exercise\04.PrintAndSum\bin\Debug\netcoreapp2.0\04.PrintAndSum.runtimeconfig.json
+D:\CodeProekts\IntroBasicSyntax-Exercise\04.PrintAndSum\bin\Debug\netcoreapp2.0\04.PrintAndSum.runtimeconfig.dev.json
+D:\CodeProekts\IntroBasicSyntax-Exercise\04.PrintAndSum\bin\Debug\netcoreapp2.0\04.PrintAndSum.dll
+D:\CodeProekts\IntroBasicSyntax-Exercise\04.PrintAndSum\bin\Debug\netcoreapp2.0\04.PrintAndSum.pdb
+D:\CodeProekts\IntroBasicSyntax-Exercise\04.PrintAndSum\obj\Debug\netcoreapp2.0\04.PrintAndSum.csprojResolveAssemblyReference.cache
+D:\CodeProekts\IntroBasicSyntax-Exercise\04.PrintAndSum\obj\Debug\netcoreapp2.0\04.PrintAndSum.csproj.CoreCompileInputs.cache
+D:\CodeProekts\IntroBasicSyntax-Exercise\04.PrintAndSum\obj\Debug\netcoreapp2.0\04.PrintAndSum.AssemblyInfoInputs.cache
+D:\CodeProekts\IntroBasicSyntax-Exercise\04.PrintAndSum\obj\Debug\netcoreapp2.0\04.PrintAndSum.AssemblyInfo.cs
+D:\CodeProekts\IntroBasicSyntax-Exercise\04.PrintAndSum\obj\Debug\netcoreapp2.0\04.PrintAndSum.dll
+D:\CodeProekts\IntroBasicSyntax-Exercise\04.PrintAndSum\obj\Debug\netcoreapp2.0\04.PrintAndSum.pdb

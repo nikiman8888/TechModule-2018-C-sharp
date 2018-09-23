@@ -1,0 +1,11 @@
+D:\CodeProekts\IntroBasicSyntax-Exercise\03.Vacation\bin\Debug\netcoreapp2.0\03.Vacation.deps.json
+D:\CodeProekts\IntroBasicSyntax-Exercise\03.Vacation\bin\Debug\netcoreapp2.0\03.Vacation.runtimeconfig.json
+D:\CodeProekts\IntroBasicSyntax-Exercise\03.Vacation\bin\Debug\netcoreapp2.0\03.Vacation.runtimeconfig.dev.json
+D:\CodeProekts\IntroBasicSyntax-Exercise\03.Vacation\bin\Debug\netcoreapp2.0\03.Vacation.dll
+D:\CodeProekts\IntroBasicSyntax-Exercise\03.Vacation\bin\Debug\netcoreapp2.0\03.Vacation.pdb
+D:\CodeProekts\IntroBasicSyntax-Exercise\03.Vacation\obj\Debug\netcoreapp2.0\03.Vacation.csprojResolveAssemblyReference.cache
+D:\CodeProekts\IntroBasicSyntax-Exercise\03.Vacation\obj\Debug\netcoreapp2.0\03.Vacation.csproj.CoreCompileInputs.cache
+D:\CodeProekts\IntroBasicSyntax-Exercise\03.Vacation\obj\Debug\netcoreapp2.0\03.Vacation.AssemblyInfoInputs.cache
+D:\CodeProekts\IntroBasicSyntax-Exercise\03.Vacation\obj\Debug\netcoreapp2.0\03.Vacation.AssemblyInfo.cs
+D:\CodeProekts\IntroBasicSyntax-Exercise\03.Vacation\obj\Debug\netcoreapp2.0\03.Vacation.dll
+D:\CodeProekts\IntroBasicSyntax-Exercise\03.Vacation\obj\Debug\netcoreapp2.0\03.Vacation.pdb

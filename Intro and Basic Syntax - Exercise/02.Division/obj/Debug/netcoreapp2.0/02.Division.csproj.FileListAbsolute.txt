@@ -1,0 +1,11 @@
+D:\CodeProekts\IntroBasicSyntax-Exercise\02.Division\bin\Debug\netcoreapp2.0\02.Division.deps.json
+D:\CodeProekts\IntroBasicSyntax-Exercise\02.Division\bin\Debug\netcoreapp2.0\02.Division.runtimeconfig.json
+D:\CodeProekts\IntroBasicSyntax-Exercise\02.Division\bin\Debug\netcoreapp2.0\02.Division.runtimeconfig.dev.json
+D:\CodeProekts\IntroBasicSyntax-Exercise\02.Division\bin\Debug\netcoreapp2.0\02.Division.dll
+D:\CodeProekts\IntroBasicSyntax-Exercise\02.Division\bin\Debug\netcoreapp2.0\02.Division.pdb
+D:\CodeProekts\IntroBasicSyntax-Exercise\02.Division\obj\Debug\netcoreapp2.0\02.Division.csprojResolveAssemblyReference.cache
+D:\CodeProekts\IntroBasicSyntax-Exercise\02.Division\obj\Debug\netcoreapp2.0\02.Division.csproj.CoreCompileInputs.cache
+D:\CodeProekts\IntroBasicSyntax-Exercise\02.Division\obj\Debug\netcoreapp2.0\02.Division.AssemblyInfoInputs.cache
+D:\CodeProekts\IntroBasicSyntax-Exercise\02.Division\obj\Debug\netcoreapp2.0\02.Division.AssemblyInfo.cs
+D:\CodeProekts\IntroBasicSyntax-Exercise\02.Division\obj\Debug\netcoreapp2.0\02.Division.dll
+D:\CodeProekts\IntroBasicSyntax-Exercise\02.Division\obj\Debug\netcoreapp2.0\02.Division.pdb
