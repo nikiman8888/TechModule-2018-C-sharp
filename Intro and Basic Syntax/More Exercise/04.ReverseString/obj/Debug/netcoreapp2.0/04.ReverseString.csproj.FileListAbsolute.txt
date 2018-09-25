@@ -1,0 +1,10 @@
+D:\CodeProekts\BasicSyntax-ConditionalStatements-Loops-MoreExercise\04.ReverseString\bin\Debug\netcoreapp2.0\04.ReverseString.deps.json
+D:\CodeProekts\BasicSyntax-ConditionalStatements-Loops-MoreExercise\04.ReverseString\bin\Debug\netcoreapp2.0\04.ReverseString.runtimeconfig.json
+D:\CodeProekts\BasicSyntax-ConditionalStatements-Loops-MoreExercise\04.ReverseString\bin\Debug\netcoreapp2.0\04.ReverseString.runtimeconfig.dev.json
+D:\CodeProekts\BasicSyntax-ConditionalStatements-Loops-MoreExercise\04.ReverseString\bin\Debug\netcoreapp2.0\04.ReverseString.dll
+D:\CodeProekts\BasicSyntax-ConditionalStatements-Loops-MoreExercise\04.ReverseString\bin\Debug\netcoreapp2.0\04.ReverseString.pdb
+D:\CodeProekts\BasicSyntax-ConditionalStatements-Loops-MoreExercise\04.ReverseString\obj\Debug\netcoreapp2.0\04.ReverseString.csproj.CoreCompileInputs.cache
+D:\CodeProekts\BasicSyntax-ConditionalStatements-Loops-MoreExercise\04.ReverseString\obj\Debug\netcoreapp2.0\04.ReverseString.AssemblyInfoInputs.cache
+D:\CodeProekts\BasicSyntax-ConditionalStatements-Loops-MoreExercise\04.ReverseString\obj\Debug\netcoreapp2.0\04.ReverseString.AssemblyInfo.cs
+D:\CodeProekts\BasicSyntax-ConditionalStatements-Loops-MoreExercise\04.ReverseString\obj\Debug\netcoreapp2.0\04.ReverseString.dll
+D:\CodeProekts\BasicSyntax-ConditionalStatements-Loops-MoreExercise\04.ReverseString\obj\Debug\netcoreapp2.0\04.ReverseString.pdb

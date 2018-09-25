@@ -1,0 +1,11 @@
+D:\CodeProekts\BasicSyntax-ConditionalStatements-Loops-MoreExercise\05.Messages\bin\Debug\netcoreapp2.0\05.Messages.deps.json
+D:\CodeProekts\BasicSyntax-ConditionalStatements-Loops-MoreExercise\05.Messages\bin\Debug\netcoreapp2.0\05.Messages.runtimeconfig.json
+D:\CodeProekts\BasicSyntax-ConditionalStatements-Loops-MoreExercise\05.Messages\bin\Debug\netcoreapp2.0\05.Messages.runtimeconfig.dev.json
+D:\CodeProekts\BasicSyntax-ConditionalStatements-Loops-MoreExercise\05.Messages\bin\Debug\netcoreapp2.0\05.Messages.dll
+D:\CodeProekts\BasicSyntax-ConditionalStatements-Loops-MoreExercise\05.Messages\bin\Debug\netcoreapp2.0\05.Messages.pdb
+D:\CodeProekts\BasicSyntax-ConditionalStatements-Loops-MoreExercise\05.Messages\obj\Debug\netcoreapp2.0\05.Messages.csprojResolveAssemblyReference.cache
+D:\CodeProekts\BasicSyntax-ConditionalStatements-Loops-MoreExercise\05.Messages\obj\Debug\netcoreapp2.0\05.Messages.csproj.CoreCompileInputs.cache
+D:\CodeProekts\BasicSyntax-ConditionalStatements-Loops-MoreExercise\05.Messages\obj\Debug\netcoreapp2.0\05.Messages.AssemblyInfoInputs.cache
+D:\CodeProekts\BasicSyntax-ConditionalStatements-Loops-MoreExercise\05.Messages\obj\Debug\netcoreapp2.0\05.Messages.AssemblyInfo.cs
+D:\CodeProekts\BasicSyntax-ConditionalStatements-Loops-MoreExercise\05.Messages\obj\Debug\netcoreapp2.0\05.Messages.dll
+D:\CodeProekts\BasicSyntax-ConditionalStatements-Loops-MoreExercise\05.Messages\obj\Debug\netcoreapp2.0\05.Messages.pdb

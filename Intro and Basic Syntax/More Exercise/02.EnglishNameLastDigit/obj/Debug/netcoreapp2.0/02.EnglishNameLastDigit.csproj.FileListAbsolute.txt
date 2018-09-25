@@ -1,0 +1,11 @@
+D:\CodeProekts\BasicSyntax-ConditionalStatements-Loops-MoreExercise\02.EnglishNameLastDigit\bin\Debug\netcoreapp2.0\02.EnglishNameLastDigit.deps.json
+D:\CodeProekts\BasicSyntax-ConditionalStatements-Loops-MoreExercise\02.EnglishNameLastDigit\bin\Debug\netcoreapp2.0\02.EnglishNameLastDigit.runtimeconfig.json
+D:\CodeProekts\BasicSyntax-ConditionalStatements-Loops-MoreExercise\02.EnglishNameLastDigit\bin\Debug\netcoreapp2.0\02.EnglishNameLastDigit.runtimeconfig.dev.json
+D:\CodeProekts\BasicSyntax-ConditionalStatements-Loops-MoreExercise\02.EnglishNameLastDigit\bin\Debug\netcoreapp2.0\02.EnglishNameLastDigit.dll
+D:\CodeProekts\BasicSyntax-ConditionalStatements-Loops-MoreExercise\02.EnglishNameLastDigit\bin\Debug\netcoreapp2.0\02.EnglishNameLastDigit.pdb
+D:\CodeProekts\BasicSyntax-ConditionalStatements-Loops-MoreExercise\02.EnglishNameLastDigit\obj\Debug\netcoreapp2.0\02.EnglishNameLastDigit.csprojResolveAssemblyReference.cache
+D:\CodeProekts\BasicSyntax-ConditionalStatements-Loops-MoreExercise\02.EnglishNameLastDigit\obj\Debug\netcoreapp2.0\02.EnglishNameLastDigit.csproj.CoreCompileInputs.cache
+D:\CodeProekts\BasicSyntax-ConditionalStatements-Loops-MoreExercise\02.EnglishNameLastDigit\obj\Debug\netcoreapp2.0\02.EnglishNameLastDigit.AssemblyInfoInputs.cache
+D:\CodeProekts\BasicSyntax-ConditionalStatements-Loops-MoreExercise\02.EnglishNameLastDigit\obj\Debug\netcoreapp2.0\02.EnglishNameLastDigit.AssemblyInfo.cs
+D:\CodeProekts\BasicSyntax-ConditionalStatements-Loops-MoreExercise\02.EnglishNameLastDigit\obj\Debug\netcoreapp2.0\02.EnglishNameLastDigit.dll
+D:\CodeProekts\BasicSyntax-ConditionalStatements-Loops-MoreExercise\02.EnglishNameLastDigit\obj\Debug\netcoreapp2.0\02.EnglishNameLastDigit.pdb

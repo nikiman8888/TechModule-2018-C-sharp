@@ -1,0 +1,11 @@
+D:\CodeProekts\BasicSyntax-ConditionalStatements-Loops-MoreExercise\01.SortNumbers\bin\Debug\netcoreapp2.0\01.SortNumbers.deps.json
+D:\CodeProekts\BasicSyntax-ConditionalStatements-Loops-MoreExercise\01.SortNumbers\bin\Debug\netcoreapp2.0\01.SortNumbers.runtimeconfig.json
+D:\CodeProekts\BasicSyntax-ConditionalStatements-Loops-MoreExercise\01.SortNumbers\bin\Debug\netcoreapp2.0\01.SortNumbers.runtimeconfig.dev.json
+D:\CodeProekts\BasicSyntax-ConditionalStatements-Loops-MoreExercise\01.SortNumbers\bin\Debug\netcoreapp2.0\01.SortNumbers.dll
+D:\CodeProekts\BasicSyntax-ConditionalStatements-Loops-MoreExercise\01.SortNumbers\bin\Debug\netcoreapp2.0\01.SortNumbers.pdb
+D:\CodeProekts\BasicSyntax-ConditionalStatements-Loops-MoreExercise\01.SortNumbers\obj\Debug\netcoreapp2.0\01.SortNumbers.csprojResolveAssemblyReference.cache
+D:\CodeProekts\BasicSyntax-ConditionalStatements-Loops-MoreExercise\01.SortNumbers\obj\Debug\netcoreapp2.0\01.SortNumbers.csproj.CoreCompileInputs.cache
+D:\CodeProekts\BasicSyntax-ConditionalStatements-Loops-MoreExercise\01.SortNumbers\obj\Debug\netcoreapp2.0\01.SortNumbers.AssemblyInfoInputs.cache
+D:\CodeProekts\BasicSyntax-ConditionalStatements-Loops-MoreExercise\01.SortNumbers\obj\Debug\netcoreapp2.0\01.SortNumbers.AssemblyInfo.cs
+D:\CodeProekts\BasicSyntax-ConditionalStatements-Loops-MoreExercise\01.SortNumbers\obj\Debug\netcoreapp2.0\01.SortNumbers.dll
+D:\CodeProekts\BasicSyntax-ConditionalStatements-Loops-MoreExercise\01.SortNumbers\obj\Debug\netcoreapp2.0\01.SortNumbers.pdb
