@@ -1,0 +1,10 @@
+D:\CodeProekts\DataTypesVariables-Lab\01.IntegerOperation\bin\Debug\netcoreapp2.0\01.IntegerOperation.deps.json
+D:\CodeProekts\DataTypesVariables-Lab\01.IntegerOperation\bin\Debug\netcoreapp2.0\01.IntegerOperation.runtimeconfig.json
+D:\CodeProekts\DataTypesVariables-Lab\01.IntegerOperation\bin\Debug\netcoreapp2.0\01.IntegerOperation.runtimeconfig.dev.json
+D:\CodeProekts\DataTypesVariables-Lab\01.IntegerOperation\bin\Debug\netcoreapp2.0\01.IntegerOperation.dll
+D:\CodeProekts\DataTypesVariables-Lab\01.IntegerOperation\bin\Debug\netcoreapp2.0\01.IntegerOperation.pdb
+D:\CodeProekts\DataTypesVariables-Lab\01.IntegerOperation\obj\Debug\netcoreapp2.0\01.IntegerOperation.csproj.CoreCompileInputs.cache
+D:\CodeProekts\DataTypesVariables-Lab\01.IntegerOperation\obj\Debug\netcoreapp2.0\01.IntegerOperation.AssemblyInfoInputs.cache
+D:\CodeProekts\DataTypesVariables-Lab\01.IntegerOperation\obj\Debug\netcoreapp2.0\01.IntegerOperation.AssemblyInfo.cs
+D:\CodeProekts\DataTypesVariables-Lab\01.IntegerOperation\obj\Debug\netcoreapp2.0\01.IntegerOperation.dll
+D:\CodeProekts\DataTypesVariables-Lab\01.IntegerOperation\obj\Debug\netcoreapp2.0\01.IntegerOperation.pdb

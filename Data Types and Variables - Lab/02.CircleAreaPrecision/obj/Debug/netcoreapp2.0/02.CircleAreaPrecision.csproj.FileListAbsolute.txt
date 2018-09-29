@@ -1,0 +1,10 @@
+D:\CodeProekts\DataTypesVariables-Lab\02.CircleAreaPrecision\bin\Debug\netcoreapp2.0\02.CircleAreaPrecision.deps.json
+D:\CodeProekts\DataTypesVariables-Lab\02.CircleAreaPrecision\bin\Debug\netcoreapp2.0\02.CircleAreaPrecision.runtimeconfig.json
+D:\CodeProekts\DataTypesVariables-Lab\02.CircleAreaPrecision\bin\Debug\netcoreapp2.0\02.CircleAreaPrecision.runtimeconfig.dev.json
+D:\CodeProekts\DataTypesVariables-Lab\02.CircleAreaPrecision\bin\Debug\netcoreapp2.0\02.CircleAreaPrecision.dll
+D:\CodeProekts\DataTypesVariables-Lab\02.CircleAreaPrecision\bin\Debug\netcoreapp2.0\02.CircleAreaPrecision.pdb
+D:\CodeProekts\DataTypesVariables-Lab\02.CircleAreaPrecision\obj\Debug\netcoreapp2.0\02.CircleAreaPrecision.csproj.CoreCompileInputs.cache
+D:\CodeProekts\DataTypesVariables-Lab\02.CircleAreaPrecision\obj\Debug\netcoreapp2.0\02.CircleAreaPrecision.AssemblyInfoInputs.cache
+D:\CodeProekts\DataTypesVariables-Lab\02.CircleAreaPrecision\obj\Debug\netcoreapp2.0\02.CircleAreaPrecision.AssemblyInfo.cs
+D:\CodeProekts\DataTypesVariables-Lab\02.CircleAreaPrecision\obj\Debug\netcoreapp2.0\02.CircleAreaPrecision.dll
+D:\CodeProekts\DataTypesVariables-Lab\02.CircleAreaPrecision\obj\Debug\netcoreapp2.0\02.CircleAreaPrecision.pdb
