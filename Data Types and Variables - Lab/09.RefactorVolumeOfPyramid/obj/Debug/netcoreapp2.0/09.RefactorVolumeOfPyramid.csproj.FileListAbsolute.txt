@@ -1,0 +1,10 @@
+D:\CodeProekts\DataTypesVariables-Lab\09.RefactorVolumeOfPyramid\bin\Debug\netcoreapp2.0\09.RefactorVolumeOfPyramid.deps.json
+D:\CodeProekts\DataTypesVariables-Lab\09.RefactorVolumeOfPyramid\bin\Debug\netcoreapp2.0\09.RefactorVolumeOfPyramid.runtimeconfig.json
+D:\CodeProekts\DataTypesVariables-Lab\09.RefactorVolumeOfPyramid\bin\Debug\netcoreapp2.0\09.RefactorVolumeOfPyramid.runtimeconfig.dev.json
+D:\CodeProekts\DataTypesVariables-Lab\09.RefactorVolumeOfPyramid\bin\Debug\netcoreapp2.0\09.RefactorVolumeOfPyramid.dll
+D:\CodeProekts\DataTypesVariables-Lab\09.RefactorVolumeOfPyramid\bin\Debug\netcoreapp2.0\09.RefactorVolumeOfPyramid.pdb
+D:\CodeProekts\DataTypesVariables-Lab\09.RefactorVolumeOfPyramid\obj\Debug\netcoreapp2.0\09.RefactorVolumeOfPyramid.csproj.CoreCompileInputs.cache
+D:\CodeProekts\DataTypesVariables-Lab\09.RefactorVolumeOfPyramid\obj\Debug\netcoreapp2.0\09.RefactorVolumeOfPyramid.AssemblyInfoInputs.cache
+D:\CodeProekts\DataTypesVariables-Lab\09.RefactorVolumeOfPyramid\obj\Debug\netcoreapp2.0\09.RefactorVolumeOfPyramid.AssemblyInfo.cs
+D:\CodeProekts\DataTypesVariables-Lab\09.RefactorVolumeOfPyramid\obj\Debug\netcoreapp2.0\09.RefactorVolumeOfPyramid.dll
+D:\CodeProekts\DataTypesVariables-Lab\09.RefactorVolumeOfPyramid\obj\Debug\netcoreapp2.0\09.RefactorVolumeOfPyramid.pdb

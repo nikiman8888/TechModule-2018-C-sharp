@@ -1,0 +1,10 @@
+D:\CodeProekts\DataTypesVariables-Lab\07.TriplesLatinLetters\bin\Debug\netcoreapp2.0\07.TriplesLatinLetters.deps.json
+D:\CodeProekts\DataTypesVariables-Lab\07.TriplesLatinLetters\bin\Debug\netcoreapp2.0\07.TriplesLatinLetters.runtimeconfig.json
+D:\CodeProekts\DataTypesVariables-Lab\07.TriplesLatinLetters\bin\Debug\netcoreapp2.0\07.TriplesLatinLetters.runtimeconfig.dev.json
+D:\CodeProekts\DataTypesVariables-Lab\07.TriplesLatinLetters\bin\Debug\netcoreapp2.0\07.TriplesLatinLetters.dll
+D:\CodeProekts\DataTypesVariables-Lab\07.TriplesLatinLetters\bin\Debug\netcoreapp2.0\07.TriplesLatinLetters.pdb
+D:\CodeProekts\DataTypesVariables-Lab\07.TriplesLatinLetters\obj\Debug\netcoreapp2.0\07.TriplesLatinLetters.csproj.CoreCompileInputs.cache
+D:\CodeProekts\DataTypesVariables-Lab\07.TriplesLatinLetters\obj\Debug\netcoreapp2.0\07.TriplesLatinLetters.AssemblyInfoInputs.cache
+D:\CodeProekts\DataTypesVariables-Lab\07.TriplesLatinLetters\obj\Debug\netcoreapp2.0\07.TriplesLatinLetters.AssemblyInfo.cs
+D:\CodeProekts\DataTypesVariables-Lab\07.TriplesLatinLetters\obj\Debug\netcoreapp2.0\07.TriplesLatinLetters.dll
+D:\CodeProekts\DataTypesVariables-Lab\07.TriplesLatinLetters\obj\Debug\netcoreapp2.0\07.TriplesLatinLetters.pdb

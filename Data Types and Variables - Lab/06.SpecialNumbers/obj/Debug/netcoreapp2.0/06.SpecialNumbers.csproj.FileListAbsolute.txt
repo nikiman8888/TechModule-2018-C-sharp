@@ -1,0 +1,11 @@
+D:\CodeProekts\DataTypesVariables-Lab\06.SpecialNumbers\bin\Debug\netcoreapp2.0\06.SpecialNumbers.deps.json
+D:\CodeProekts\DataTypesVariables-Lab\06.SpecialNumbers\bin\Debug\netcoreapp2.0\06.SpecialNumbers.runtimeconfig.json
+D:\CodeProekts\DataTypesVariables-Lab\06.SpecialNumbers\bin\Debug\netcoreapp2.0\06.SpecialNumbers.runtimeconfig.dev.json
+D:\CodeProekts\DataTypesVariables-Lab\06.SpecialNumbers\bin\Debug\netcoreapp2.0\06.SpecialNumbers.dll
+D:\CodeProekts\DataTypesVariables-Lab\06.SpecialNumbers\bin\Debug\netcoreapp2.0\06.SpecialNumbers.pdb
+D:\CodeProekts\DataTypesVariables-Lab\06.SpecialNumbers\obj\Debug\netcoreapp2.0\06.SpecialNumbers.csprojResolveAssemblyReference.cache
+D:\CodeProekts\DataTypesVariables-Lab\06.SpecialNumbers\obj\Debug\netcoreapp2.0\06.SpecialNumbers.csproj.CoreCompileInputs.cache
+D:\CodeProekts\DataTypesVariables-Lab\06.SpecialNumbers\obj\Debug\netcoreapp2.0\06.SpecialNumbers.AssemblyInfoInputs.cache
+D:\CodeProekts\DataTypesVariables-Lab\06.SpecialNumbers\obj\Debug\netcoreapp2.0\06.SpecialNumbers.AssemblyInfo.cs
+D:\CodeProekts\DataTypesVariables-Lab\06.SpecialNumbers\obj\Debug\netcoreapp2.0\06.SpecialNumbers.dll
+D:\CodeProekts\DataTypesVariables-Lab\06.SpecialNumbers\obj\Debug\netcoreapp2.0\06.SpecialNumbers.pdb
