@@ -1,0 +1,11 @@
+D:\CodeProekts\DataTypesVariables-Exercise-TechModule2018\09.Pokemon\bin\Debug\netcoreapp2.0\09.Pokemon.deps.json
+D:\CodeProekts\DataTypesVariables-Exercise-TechModule2018\09.Pokemon\bin\Debug\netcoreapp2.0\09.Pokemon.runtimeconfig.json
+D:\CodeProekts\DataTypesVariables-Exercise-TechModule2018\09.Pokemon\bin\Debug\netcoreapp2.0\09.Pokemon.runtimeconfig.dev.json
+D:\CodeProekts\DataTypesVariables-Exercise-TechModule2018\09.Pokemon\bin\Debug\netcoreapp2.0\09.Pokemon.dll
+D:\CodeProekts\DataTypesVariables-Exercise-TechModule2018\09.Pokemon\bin\Debug\netcoreapp2.0\09.Pokemon.pdb
+D:\CodeProekts\DataTypesVariables-Exercise-TechModule2018\09.Pokemon\obj\Debug\netcoreapp2.0\09.Pokemon.csprojResolveAssemblyReference.cache
+D:\CodeProekts\DataTypesVariables-Exercise-TechModule2018\09.Pokemon\obj\Debug\netcoreapp2.0\09.Pokemon.csproj.CoreCompileInputs.cache
+D:\CodeProekts\DataTypesVariables-Exercise-TechModule2018\09.Pokemon\obj\Debug\netcoreapp2.0\09.Pokemon.AssemblyInfoInputs.cache
+D:\CodeProekts\DataTypesVariables-Exercise-TechModule2018\09.Pokemon\obj\Debug\netcoreapp2.0\09.Pokemon.AssemblyInfo.cs
+D:\CodeProekts\DataTypesVariables-Exercise-TechModule2018\09.Pokemon\obj\Debug\netcoreapp2.0\09.Pokemon.dll
+D:\CodeProekts\DataTypesVariables-Exercise-TechModule2018\09.Pokemon\obj\Debug\netcoreapp2.0\09.Pokemon.pdb

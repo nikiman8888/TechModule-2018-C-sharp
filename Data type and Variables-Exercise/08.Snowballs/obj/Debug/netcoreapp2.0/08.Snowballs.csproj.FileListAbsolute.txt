@@ -1,0 +1,11 @@
+D:\CodeProekts\DataTypesVariables-Exercise-TechModule2018\08.Snowballs\bin\Debug\netcoreapp2.0\08.Snowballs.deps.json
+D:\CodeProekts\DataTypesVariables-Exercise-TechModule2018\08.Snowballs\bin\Debug\netcoreapp2.0\08.Snowballs.runtimeconfig.json
+D:\CodeProekts\DataTypesVariables-Exercise-TechModule2018\08.Snowballs\bin\Debug\netcoreapp2.0\08.Snowballs.runtimeconfig.dev.json
+D:\CodeProekts\DataTypesVariables-Exercise-TechModule2018\08.Snowballs\bin\Debug\netcoreapp2.0\08.Snowballs.dll
+D:\CodeProekts\DataTypesVariables-Exercise-TechModule2018\08.Snowballs\bin\Debug\netcoreapp2.0\08.Snowballs.pdb
+D:\CodeProekts\DataTypesVariables-Exercise-TechModule2018\08.Snowballs\obj\Debug\netcoreapp2.0\08.Snowballs.csprojResolveAssemblyReference.cache
+D:\CodeProekts\DataTypesVariables-Exercise-TechModule2018\08.Snowballs\obj\Debug\netcoreapp2.0\08.Snowballs.csproj.CoreCompileInputs.cache
+D:\CodeProekts\DataTypesVariables-Exercise-TechModule2018\08.Snowballs\obj\Debug\netcoreapp2.0\08.Snowballs.AssemblyInfoInputs.cache
+D:\CodeProekts\DataTypesVariables-Exercise-TechModule2018\08.Snowballs\obj\Debug\netcoreapp2.0\08.Snowballs.AssemblyInfo.cs
+D:\CodeProekts\DataTypesVariables-Exercise-TechModule2018\08.Snowballs\obj\Debug\netcoreapp2.0\08.Snowballs.dll
+D:\CodeProekts\DataTypesVariables-Exercise-TechModule2018\08.Snowballs\obj\Debug\netcoreapp2.0\08.Snowballs.pdb
