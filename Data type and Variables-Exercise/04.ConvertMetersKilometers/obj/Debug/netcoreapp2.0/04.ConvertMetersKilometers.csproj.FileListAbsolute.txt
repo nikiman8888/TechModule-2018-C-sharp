@@ -1,0 +1,10 @@
+D:\CodeProekts\DataTypesVariables-Exercise-TechModule2018\04.ConvertMetersKilometers\bin\Debug\netcoreapp2.0\04.ConvertMetersKilometers.deps.json
+D:\CodeProekts\DataTypesVariables-Exercise-TechModule2018\04.ConvertMetersKilometers\bin\Debug\netcoreapp2.0\04.ConvertMetersKilometers.runtimeconfig.json
+D:\CodeProekts\DataTypesVariables-Exercise-TechModule2018\04.ConvertMetersKilometers\bin\Debug\netcoreapp2.0\04.ConvertMetersKilometers.runtimeconfig.dev.json
+D:\CodeProekts\DataTypesVariables-Exercise-TechModule2018\04.ConvertMetersKilometers\bin\Debug\netcoreapp2.0\04.ConvertMetersKilometers.dll
+D:\CodeProekts\DataTypesVariables-Exercise-TechModule2018\04.ConvertMetersKilometers\bin\Debug\netcoreapp2.0\04.ConvertMetersKilometers.pdb
+D:\CodeProekts\DataTypesVariables-Exercise-TechModule2018\04.ConvertMetersKilometers\obj\Debug\netcoreapp2.0\04.ConvertMetersKilometers.csproj.CoreCompileInputs.cache
+D:\CodeProekts\DataTypesVariables-Exercise-TechModule2018\04.ConvertMetersKilometers\obj\Debug\netcoreapp2.0\04.ConvertMetersKilometers.AssemblyInfoInputs.cache
+D:\CodeProekts\DataTypesVariables-Exercise-TechModule2018\04.ConvertMetersKilometers\obj\Debug\netcoreapp2.0\04.ConvertMetersKilometers.AssemblyInfo.cs
+D:\CodeProekts\DataTypesVariables-Exercise-TechModule2018\04.ConvertMetersKilometers\obj\Debug\netcoreapp2.0\04.ConvertMetersKilometers.dll
+D:\CodeProekts\DataTypesVariables-Exercise-TechModule2018\04.ConvertMetersKilometers\obj\Debug\netcoreapp2.0\04.ConvertMetersKilometers.pdb

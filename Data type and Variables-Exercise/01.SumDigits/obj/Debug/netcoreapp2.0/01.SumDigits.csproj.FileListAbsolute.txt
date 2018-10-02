@@ -1,0 +1,11 @@
+D:\CodeProekts\DataTypesVariables-Exercise-TechModule2018\01.SumDigits\bin\Debug\netcoreapp2.0\01.SumDigits.deps.json
+D:\CodeProekts\DataTypesVariables-Exercise-TechModule2018\01.SumDigits\bin\Debug\netcoreapp2.0\01.SumDigits.runtimeconfig.json
+D:\CodeProekts\DataTypesVariables-Exercise-TechModule2018\01.SumDigits\bin\Debug\netcoreapp2.0\01.SumDigits.runtimeconfig.dev.json
+D:\CodeProekts\DataTypesVariables-Exercise-TechModule2018\01.SumDigits\bin\Debug\netcoreapp2.0\01.SumDigits.dll
+D:\CodeProekts\DataTypesVariables-Exercise-TechModule2018\01.SumDigits\bin\Debug\netcoreapp2.0\01.SumDigits.pdb
+D:\CodeProekts\DataTypesVariables-Exercise-TechModule2018\01.SumDigits\obj\Debug\netcoreapp2.0\01.SumDigits.csprojResolveAssemblyReference.cache
+D:\CodeProekts\DataTypesVariables-Exercise-TechModule2018\01.SumDigits\obj\Debug\netcoreapp2.0\01.SumDigits.csproj.CoreCompileInputs.cache
+D:\CodeProekts\DataTypesVariables-Exercise-TechModule2018\01.SumDigits\obj\Debug\netcoreapp2.0\01.SumDigits.AssemblyInfoInputs.cache
+D:\CodeProekts\DataTypesVariables-Exercise-TechModule2018\01.SumDigits\obj\Debug\netcoreapp2.0\01.SumDigits.AssemblyInfo.cs
+D:\CodeProekts\DataTypesVariables-Exercise-TechModule2018\01.SumDigits\obj\Debug\netcoreapp2.0\01.SumDigits.dll
+D:\CodeProekts\DataTypesVariables-Exercise-TechModule2018\01.SumDigits\obj\Debug\netcoreapp2.0\01.SumDigits.pdb
