@@ -1,0 +1,11 @@
+D:\CodeProekts\DataTypesVariables-MoreExercise\02.FromLeftToTheRight\bin\Debug\netcoreapp2.0\02.FromLeftToTheRight.deps.json
+D:\CodeProekts\DataTypesVariables-MoreExercise\02.FromLeftToTheRight\bin\Debug\netcoreapp2.0\02.FromLeftToTheRight.runtimeconfig.json
+D:\CodeProekts\DataTypesVariables-MoreExercise\02.FromLeftToTheRight\bin\Debug\netcoreapp2.0\02.FromLeftToTheRight.runtimeconfig.dev.json
+D:\CodeProekts\DataTypesVariables-MoreExercise\02.FromLeftToTheRight\bin\Debug\netcoreapp2.0\02.FromLeftToTheRight.dll
+D:\CodeProekts\DataTypesVariables-MoreExercise\02.FromLeftToTheRight\bin\Debug\netcoreapp2.0\02.FromLeftToTheRight.pdb
+D:\CodeProekts\DataTypesVariables-MoreExercise\02.FromLeftToTheRight\obj\Debug\netcoreapp2.0\02.FromLeftToTheRight.csprojResolveAssemblyReference.cache
+D:\CodeProekts\DataTypesVariables-MoreExercise\02.FromLeftToTheRight\obj\Debug\netcoreapp2.0\02.FromLeftToTheRight.csproj.CoreCompileInputs.cache
+D:\CodeProekts\DataTypesVariables-MoreExercise\02.FromLeftToTheRight\obj\Debug\netcoreapp2.0\02.FromLeftToTheRight.AssemblyInfoInputs.cache
+D:\CodeProekts\DataTypesVariables-MoreExercise\02.FromLeftToTheRight\obj\Debug\netcoreapp2.0\02.FromLeftToTheRight.AssemblyInfo.cs
+D:\CodeProekts\DataTypesVariables-MoreExercise\02.FromLeftToTheRight\obj\Debug\netcoreapp2.0\02.FromLeftToTheRight.dll
+D:\CodeProekts\DataTypesVariables-MoreExercise\02.FromLeftToTheRight\obj\Debug\netcoreapp2.0\02.FromLeftToTheRight.pdb

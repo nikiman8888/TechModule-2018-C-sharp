@@ -1,0 +1,10 @@
+D:\CodeProekts\DataTypesVariables-MoreExercise\03.ExchangeIntegers\bin\Debug\netcoreapp2.0\03.ExchangeIntegers.deps.json
+D:\CodeProekts\DataTypesVariables-MoreExercise\03.ExchangeIntegers\bin\Debug\netcoreapp2.0\03.ExchangeIntegers.runtimeconfig.json
+D:\CodeProekts\DataTypesVariables-MoreExercise\03.ExchangeIntegers\bin\Debug\netcoreapp2.0\03.ExchangeIntegers.runtimeconfig.dev.json
+D:\CodeProekts\DataTypesVariables-MoreExercise\03.ExchangeIntegers\bin\Debug\netcoreapp2.0\03.ExchangeIntegers.dll
+D:\CodeProekts\DataTypesVariables-MoreExercise\03.ExchangeIntegers\bin\Debug\netcoreapp2.0\03.ExchangeIntegers.pdb
+D:\CodeProekts\DataTypesVariables-MoreExercise\03.ExchangeIntegers\obj\Debug\netcoreapp2.0\03.ExchangeIntegers.csproj.CoreCompileInputs.cache
+D:\CodeProekts\DataTypesVariables-MoreExercise\03.ExchangeIntegers\obj\Debug\netcoreapp2.0\03.ExchangeIntegers.AssemblyInfoInputs.cache
+D:\CodeProekts\DataTypesVariables-MoreExercise\03.ExchangeIntegers\obj\Debug\netcoreapp2.0\03.ExchangeIntegers.AssemblyInfo.cs
+D:\CodeProekts\DataTypesVariables-MoreExercise\03.ExchangeIntegers\obj\Debug\netcoreapp2.0\03.ExchangeIntegers.dll
+D:\CodeProekts\DataTypesVariables-MoreExercise\03.ExchangeIntegers\obj\Debug\netcoreapp2.0\03.ExchangeIntegers.pdb

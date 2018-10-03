@@ -1,0 +1,11 @@
+D:\CodeProekts\DataTypesVariables-MoreExercise\05.RefactoringPrimeChecker\bin\Debug\netcoreapp2.0\05.RefactoringPrimeChecker.deps.json
+D:\CodeProekts\DataTypesVariables-MoreExercise\05.RefactoringPrimeChecker\bin\Debug\netcoreapp2.0\05.RefactoringPrimeChecker.runtimeconfig.json
+D:\CodeProekts\DataTypesVariables-MoreExercise\05.RefactoringPrimeChecker\bin\Debug\netcoreapp2.0\05.RefactoringPrimeChecker.runtimeconfig.dev.json
+D:\CodeProekts\DataTypesVariables-MoreExercise\05.RefactoringPrimeChecker\bin\Debug\netcoreapp2.0\05.RefactoringPrimeChecker.dll
+D:\CodeProekts\DataTypesVariables-MoreExercise\05.RefactoringPrimeChecker\bin\Debug\netcoreapp2.0\05.RefactoringPrimeChecker.pdb
+D:\CodeProekts\DataTypesVariables-MoreExercise\05.RefactoringPrimeChecker\obj\Debug\netcoreapp2.0\05.RefactoringPrimeChecker.csprojResolveAssemblyReference.cache
+D:\CodeProekts\DataTypesVariables-MoreExercise\05.RefactoringPrimeChecker\obj\Debug\netcoreapp2.0\05.RefactoringPrimeChecker.csproj.CoreCompileInputs.cache
+D:\CodeProekts\DataTypesVariables-MoreExercise\05.RefactoringPrimeChecker\obj\Debug\netcoreapp2.0\05.RefactoringPrimeChecker.AssemblyInfoInputs.cache
+D:\CodeProekts\DataTypesVariables-MoreExercise\05.RefactoringPrimeChecker\obj\Debug\netcoreapp2.0\05.RefactoringPrimeChecker.AssemblyInfo.cs
+D:\CodeProekts\DataTypesVariables-MoreExercise\05.RefactoringPrimeChecker\obj\Debug\netcoreapp2.0\05.RefactoringPrimeChecker.dll
+D:\CodeProekts\DataTypesVariables-MoreExercise\05.RefactoringPrimeChecker\obj\Debug\netcoreapp2.0\05.RefactoringPrimeChecker.pdb

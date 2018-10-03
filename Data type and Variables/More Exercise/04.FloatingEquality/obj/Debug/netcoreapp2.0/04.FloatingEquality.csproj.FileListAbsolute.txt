@@ -1,0 +1,10 @@
+D:\CodeProekts\DataTypesVariables-MoreExercise\04.FloatingEquality\bin\Debug\netcoreapp2.0\04.FloatingEquality.deps.json
+D:\CodeProekts\DataTypesVariables-MoreExercise\04.FloatingEquality\bin\Debug\netcoreapp2.0\04.FloatingEquality.runtimeconfig.json
+D:\CodeProekts\DataTypesVariables-MoreExercise\04.FloatingEquality\bin\Debug\netcoreapp2.0\04.FloatingEquality.runtimeconfig.dev.json
+D:\CodeProekts\DataTypesVariables-MoreExercise\04.FloatingEquality\bin\Debug\netcoreapp2.0\04.FloatingEquality.dll
+D:\CodeProekts\DataTypesVariables-MoreExercise\04.FloatingEquality\bin\Debug\netcoreapp2.0\04.FloatingEquality.pdb
+D:\CodeProekts\DataTypesVariables-MoreExercise\04.FloatingEquality\obj\Debug\netcoreapp2.0\04.FloatingEquality.csproj.CoreCompileInputs.cache
+D:\CodeProekts\DataTypesVariables-MoreExercise\04.FloatingEquality\obj\Debug\netcoreapp2.0\04.FloatingEquality.AssemblyInfoInputs.cache
+D:\CodeProekts\DataTypesVariables-MoreExercise\04.FloatingEquality\obj\Debug\netcoreapp2.0\04.FloatingEquality.AssemblyInfo.cs
+D:\CodeProekts\DataTypesVariables-MoreExercise\04.FloatingEquality\obj\Debug\netcoreapp2.0\04.FloatingEquality.dll
+D:\CodeProekts\DataTypesVariables-MoreExercise\04.FloatingEquality\obj\Debug\netcoreapp2.0\04.FloatingEquality.pdb

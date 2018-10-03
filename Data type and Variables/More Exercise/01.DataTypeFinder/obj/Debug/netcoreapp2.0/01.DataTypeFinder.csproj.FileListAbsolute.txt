@@ -1,0 +1,11 @@
+D:\CodeProekts\DataTypesVariables-MoreExercise\01.DataTypeFinder\bin\Debug\netcoreapp2.0\01.DataTypeFinder.deps.json
+D:\CodeProekts\DataTypesVariables-MoreExercise\01.DataTypeFinder\bin\Debug\netcoreapp2.0\01.DataTypeFinder.runtimeconfig.json
+D:\CodeProekts\DataTypesVariables-MoreExercise\01.DataTypeFinder\bin\Debug\netcoreapp2.0\01.DataTypeFinder.runtimeconfig.dev.json
+D:\CodeProekts\DataTypesVariables-MoreExercise\01.DataTypeFinder\bin\Debug\netcoreapp2.0\01.DataTypeFinder.dll
+D:\CodeProekts\DataTypesVariables-MoreExercise\01.DataTypeFinder\bin\Debug\netcoreapp2.0\01.DataTypeFinder.pdb
+D:\CodeProekts\DataTypesVariables-MoreExercise\01.DataTypeFinder\obj\Debug\netcoreapp2.0\01.DataTypeFinder.csprojResolveAssemblyReference.cache
+D:\CodeProekts\DataTypesVariables-MoreExercise\01.DataTypeFinder\obj\Debug\netcoreapp2.0\01.DataTypeFinder.csproj.CoreCompileInputs.cache
+D:\CodeProekts\DataTypesVariables-MoreExercise\01.DataTypeFinder\obj\Debug\netcoreapp2.0\01.DataTypeFinder.AssemblyInfoInputs.cache
+D:\CodeProekts\DataTypesVariables-MoreExercise\01.DataTypeFinder\obj\Debug\netcoreapp2.0\01.DataTypeFinder.AssemblyInfo.cs
+D:\CodeProekts\DataTypesVariables-MoreExercise\01.DataTypeFinder\obj\Debug\netcoreapp2.0\01.DataTypeFinder.dll
+D:\CodeProekts\DataTypesVariables-MoreExercise\01.DataTypeFinder\obj\Debug\netcoreapp2.0\01.DataTypeFinder.pdb
