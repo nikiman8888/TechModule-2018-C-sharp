@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Globalization;
 using System.Threading;
 using System.Collections.Generic;
@@ -16,9 +16,7 @@ namespace _02.FromLeftToTheRight
 
             int numberCount = int.Parse(Console.ReadLine());
 
-            BigInteger sum = 0;
-
-            
+            long sum = 0;           
 
             for (int i = 0; i < numberCount; i++)
             {
@@ -28,11 +26,11 @@ namespace _02.FromLeftToTheRight
 
                 string secondNumber = numbers[1];
 
-                BigInteger first = BigInteger.Parse(firstNumber);
+                long first = long.Parse(firstNumber);
 
-                BigInteger second = BigInteger.Parse(secondNumber);
+                long second = long.Parse(secondNumber);
 
-                if (first >= second)
+                if (first > second)
                 {
                     sum = GetDigits(first);
                 }
@@ -43,36 +41,19 @@ namespace _02.FromLeftToTheRight
 
                 Console.WriteLine(sum);
             }
-
         }
-
-        private static BigInteger GetDigits(BigInteger number)
+        private static long GetDigits(long number)
         {
-            BigInteger temp = 0;
-            
-            if (number < 0)
-            {
+            long temp = 0;
+                        
                 while (number != 0)
                 {
-                    string check = number.ToString();
-                    
-
-                    temp += BigInteger.Abs(number % 10);
-
-                    number /= 10;
-
-                }
-            }
-            else
-            {
-                while (number != 0)
-                {
-                    temp += number % 10;
+                                      
+                    temp += Math.Abs(number % 10);
 
                     number /= 10;
                 }
-            }
-
+                       
             return temp;
         }                                       
     }
