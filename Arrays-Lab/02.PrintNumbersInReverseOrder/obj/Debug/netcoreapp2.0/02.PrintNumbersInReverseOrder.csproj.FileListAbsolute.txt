@@ -1,0 +1,11 @@
+D:\CodeProekts\ArraysLabTechModule2018\02.PrintNumbersInReverseOrder\bin\Debug\netcoreapp2.0\02.PrintNumbersInReverseOrder.deps.json
+D:\CodeProekts\ArraysLabTechModule2018\02.PrintNumbersInReverseOrder\bin\Debug\netcoreapp2.0\02.PrintNumbersInReverseOrder.runtimeconfig.json
+D:\CodeProekts\ArraysLabTechModule2018\02.PrintNumbersInReverseOrder\bin\Debug\netcoreapp2.0\02.PrintNumbersInReverseOrder.runtimeconfig.dev.json
+D:\CodeProekts\ArraysLabTechModule2018\02.PrintNumbersInReverseOrder\bin\Debug\netcoreapp2.0\02.PrintNumbersInReverseOrder.dll
+D:\CodeProekts\ArraysLabTechModule2018\02.PrintNumbersInReverseOrder\bin\Debug\netcoreapp2.0\02.PrintNumbersInReverseOrder.pdb
+D:\CodeProekts\ArraysLabTechModule2018\02.PrintNumbersInReverseOrder\obj\Debug\netcoreapp2.0\02.PrintNumbersInReverseOrder.csprojResolveAssemblyReference.cache
+D:\CodeProekts\ArraysLabTechModule2018\02.PrintNumbersInReverseOrder\obj\Debug\netcoreapp2.0\02.PrintNumbersInReverseOrder.csproj.CoreCompileInputs.cache
+D:\CodeProekts\ArraysLabTechModule2018\02.PrintNumbersInReverseOrder\obj\Debug\netcoreapp2.0\02.PrintNumbersInReverseOrder.AssemblyInfoInputs.cache
+D:\CodeProekts\ArraysLabTechModule2018\02.PrintNumbersInReverseOrder\obj\Debug\netcoreapp2.0\02.PrintNumbersInReverseOrder.AssemblyInfo.cs
+D:\CodeProekts\ArraysLabTechModule2018\02.PrintNumbersInReverseOrder\obj\Debug\netcoreapp2.0\02.PrintNumbersInReverseOrder.dll
+D:\CodeProekts\ArraysLabTechModule2018\02.PrintNumbersInReverseOrder\obj\Debug\netcoreapp2.0\02.PrintNumbersInReverseOrder.pdb

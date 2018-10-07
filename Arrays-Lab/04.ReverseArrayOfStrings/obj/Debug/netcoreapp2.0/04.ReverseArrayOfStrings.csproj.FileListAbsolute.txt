@@ -1,0 +1,11 @@
+D:\CodeProekts\ArraysLabTechModule2018\01.ReverseArrayOfStrings\bin\Debug\netcoreapp2.0\04.ReverseArrayOfStrings.deps.json
+D:\CodeProekts\ArraysLabTechModule2018\01.ReverseArrayOfStrings\bin\Debug\netcoreapp2.0\04.ReverseArrayOfStrings.runtimeconfig.json
+D:\CodeProekts\ArraysLabTechModule2018\01.ReverseArrayOfStrings\bin\Debug\netcoreapp2.0\04.ReverseArrayOfStrings.runtimeconfig.dev.json
+D:\CodeProekts\ArraysLabTechModule2018\01.ReverseArrayOfStrings\bin\Debug\netcoreapp2.0\04.ReverseArrayOfStrings.dll
+D:\CodeProekts\ArraysLabTechModule2018\01.ReverseArrayOfStrings\bin\Debug\netcoreapp2.0\04.ReverseArrayOfStrings.pdb
+D:\CodeProekts\ArraysLabTechModule2018\01.ReverseArrayOfStrings\obj\Debug\netcoreapp2.0\04.ReverseArrayOfStrings.csprojResolveAssemblyReference.cache
+D:\CodeProekts\ArraysLabTechModule2018\01.ReverseArrayOfStrings\obj\Debug\netcoreapp2.0\04.ReverseArrayOfStrings.csproj.CoreCompileInputs.cache
+D:\CodeProekts\ArraysLabTechModule2018\01.ReverseArrayOfStrings\obj\Debug\netcoreapp2.0\04.ReverseArrayOfStrings.AssemblyInfoInputs.cache
+D:\CodeProekts\ArraysLabTechModule2018\01.ReverseArrayOfStrings\obj\Debug\netcoreapp2.0\04.ReverseArrayOfStrings.AssemblyInfo.cs
+D:\CodeProekts\ArraysLabTechModule2018\01.ReverseArrayOfStrings\obj\Debug\netcoreapp2.0\04.ReverseArrayOfStrings.dll
+D:\CodeProekts\ArraysLabTechModule2018\01.ReverseArrayOfStrings\obj\Debug\netcoreapp2.0\04.ReverseArrayOfStrings.pdb

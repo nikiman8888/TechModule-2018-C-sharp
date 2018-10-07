@@ -1,0 +1,11 @@
+D:\CodeProekts\ArraysLabTechModule2018\01.DayOfWeeks\bin\Debug\netcoreapp2.0\01.DayOfWeeks.deps.json
+D:\CodeProekts\ArraysLabTechModule2018\01.DayOfWeeks\bin\Debug\netcoreapp2.0\01.DayOfWeeks.runtimeconfig.json
+D:\CodeProekts\ArraysLabTechModule2018\01.DayOfWeeks\bin\Debug\netcoreapp2.0\01.DayOfWeeks.runtimeconfig.dev.json
+D:\CodeProekts\ArraysLabTechModule2018\01.DayOfWeeks\bin\Debug\netcoreapp2.0\01.DayOfWeeks.dll
+D:\CodeProekts\ArraysLabTechModule2018\01.DayOfWeeks\bin\Debug\netcoreapp2.0\01.DayOfWeeks.pdb
+D:\CodeProekts\ArraysLabTechModule2018\01.DayOfWeeks\obj\Debug\netcoreapp2.0\01.DayOfWeeks.csprojResolveAssemblyReference.cache
+D:\CodeProekts\ArraysLabTechModule2018\01.DayOfWeeks\obj\Debug\netcoreapp2.0\01.DayOfWeeks.csproj.CoreCompileInputs.cache
+D:\CodeProekts\ArraysLabTechModule2018\01.DayOfWeeks\obj\Debug\netcoreapp2.0\01.DayOfWeeks.AssemblyInfoInputs.cache
+D:\CodeProekts\ArraysLabTechModule2018\01.DayOfWeeks\obj\Debug\netcoreapp2.0\01.DayOfWeeks.AssemblyInfo.cs
+D:\CodeProekts\ArraysLabTechModule2018\01.DayOfWeeks\obj\Debug\netcoreapp2.0\01.DayOfWeeks.dll
+D:\CodeProekts\ArraysLabTechModule2018\01.DayOfWeeks\obj\Debug\netcoreapp2.0\01.DayOfWeeks.pdb
