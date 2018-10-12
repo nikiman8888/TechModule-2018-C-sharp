@@ -1,0 +1,11 @@
+D:\CodeProekts\Arrays-Exercise\10.LadyBugs\bin\Debug\netcoreapp2.0\10.LadyBugs.deps.json
+D:\CodeProekts\Arrays-Exercise\10.LadyBugs\bin\Debug\netcoreapp2.0\10.LadyBugs.runtimeconfig.json
+D:\CodeProekts\Arrays-Exercise\10.LadyBugs\bin\Debug\netcoreapp2.0\10.LadyBugs.runtimeconfig.dev.json
+D:\CodeProekts\Arrays-Exercise\10.LadyBugs\bin\Debug\netcoreapp2.0\10.LadyBugs.dll
+D:\CodeProekts\Arrays-Exercise\10.LadyBugs\bin\Debug\netcoreapp2.0\10.LadyBugs.pdb
+D:\CodeProekts\Arrays-Exercise\10.LadyBugs\obj\Debug\netcoreapp2.0\10.LadyBugs.csprojResolveAssemblyReference.cache
+D:\CodeProekts\Arrays-Exercise\10.LadyBugs\obj\Debug\netcoreapp2.0\10.LadyBugs.csproj.CoreCompileInputs.cache
+D:\CodeProekts\Arrays-Exercise\10.LadyBugs\obj\Debug\netcoreapp2.0\10.LadyBugs.AssemblyInfoInputs.cache
+D:\CodeProekts\Arrays-Exercise\10.LadyBugs\obj\Debug\netcoreapp2.0\10.LadyBugs.AssemblyInfo.cs
+D:\CodeProekts\Arrays-Exercise\10.LadyBugs\obj\Debug\netcoreapp2.0\10.LadyBugs.dll
+D:\CodeProekts\Arrays-Exercise\10.LadyBugs\obj\Debug\netcoreapp2.0\10.LadyBugs.pdb
