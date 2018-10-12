@@ -1,0 +1,11 @@
+D:\CodeProekts\Arrays-MoreExercise\04.LongestIncreasing Subsequence\bin\Debug\netcoreapp2.0\04.LongestIncreasing Subsequence.deps.json
+D:\CodeProekts\Arrays-MoreExercise\04.LongestIncreasing Subsequence\bin\Debug\netcoreapp2.0\04.LongestIncreasing Subsequence.runtimeconfig.json
+D:\CodeProekts\Arrays-MoreExercise\04.LongestIncreasing Subsequence\bin\Debug\netcoreapp2.0\04.LongestIncreasing Subsequence.runtimeconfig.dev.json
+D:\CodeProekts\Arrays-MoreExercise\04.LongestIncreasing Subsequence\bin\Debug\netcoreapp2.0\04.LongestIncreasing Subsequence.dll
+D:\CodeProekts\Arrays-MoreExercise\04.LongestIncreasing Subsequence\bin\Debug\netcoreapp2.0\04.LongestIncreasing Subsequence.pdb
+D:\CodeProekts\Arrays-MoreExercise\04.LongestIncreasing Subsequence\obj\Debug\netcoreapp2.0\04.LongestIncreasing Subsequence.csprojResolveAssemblyReference.cache
+D:\CodeProekts\Arrays-MoreExercise\04.LongestIncreasing Subsequence\obj\Debug\netcoreapp2.0\04.LongestIncreasing Subsequence.csproj.CoreCompileInputs.cache
+D:\CodeProekts\Arrays-MoreExercise\04.LongestIncreasing Subsequence\obj\Debug\netcoreapp2.0\04.LongestIncreasing Subsequence.AssemblyInfoInputs.cache
+D:\CodeProekts\Arrays-MoreExercise\04.LongestIncreasing Subsequence\obj\Debug\netcoreapp2.0\04.LongestIncreasing Subsequence.AssemblyInfo.cs
+D:\CodeProekts\Arrays-MoreExercise\04.LongestIncreasing Subsequence\obj\Debug\netcoreapp2.0\04.LongestIncreasing Subsequence.dll
+D:\CodeProekts\Arrays-MoreExercise\04.LongestIncreasing Subsequence\obj\Debug\netcoreapp2.0\04.LongestIncreasing Subsequence.pdb

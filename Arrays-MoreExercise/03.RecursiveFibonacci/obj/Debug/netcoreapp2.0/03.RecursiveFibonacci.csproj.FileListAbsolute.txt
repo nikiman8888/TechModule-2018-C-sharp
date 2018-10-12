@@ -1,0 +1,11 @@
+D:\CodeProekts\Arrays-MoreExercise\03.RecursiveFibonacci\bin\Debug\netcoreapp2.0\03.RecursiveFibonacci.deps.json
+D:\CodeProekts\Arrays-MoreExercise\03.RecursiveFibonacci\bin\Debug\netcoreapp2.0\03.RecursiveFibonacci.runtimeconfig.json
+D:\CodeProekts\Arrays-MoreExercise\03.RecursiveFibonacci\bin\Debug\netcoreapp2.0\03.RecursiveFibonacci.runtimeconfig.dev.json
+D:\CodeProekts\Arrays-MoreExercise\03.RecursiveFibonacci\bin\Debug\netcoreapp2.0\03.RecursiveFibonacci.dll
+D:\CodeProekts\Arrays-MoreExercise\03.RecursiveFibonacci\bin\Debug\netcoreapp2.0\03.RecursiveFibonacci.pdb
+D:\CodeProekts\Arrays-MoreExercise\03.RecursiveFibonacci\obj\Debug\netcoreapp2.0\03.RecursiveFibonacci.csproj.CoreCompileInputs.cache
+D:\CodeProekts\Arrays-MoreExercise\03.RecursiveFibonacci\obj\Debug\netcoreapp2.0\03.RecursiveFibonacci.AssemblyInfoInputs.cache
+D:\CodeProekts\Arrays-MoreExercise\03.RecursiveFibonacci\obj\Debug\netcoreapp2.0\03.RecursiveFibonacci.AssemblyInfo.cs
+D:\CodeProekts\Arrays-MoreExercise\03.RecursiveFibonacci\obj\Debug\netcoreapp2.0\03.RecursiveFibonacci.dll
+D:\CodeProekts\Arrays-MoreExercise\03.RecursiveFibonacci\obj\Debug\netcoreapp2.0\03.RecursiveFibonacci.pdb
+D:\CodeProekts\Arrays-MoreExercise\03.RecursiveFibonacci\obj\Debug\netcoreapp2.0\03.RecursiveFibonacci.csprojResolveAssemblyReference.cache

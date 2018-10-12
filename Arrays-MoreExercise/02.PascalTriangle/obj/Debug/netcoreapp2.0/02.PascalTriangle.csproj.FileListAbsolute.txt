@@ -1,0 +1,11 @@
+D:\CodeProekts\Arrays-MoreExercise\02.PascalTriangle\bin\Debug\netcoreapp2.0\02.PascalTriangle.deps.json
+D:\CodeProekts\Arrays-MoreExercise\02.PascalTriangle\bin\Debug\netcoreapp2.0\02.PascalTriangle.runtimeconfig.json
+D:\CodeProekts\Arrays-MoreExercise\02.PascalTriangle\bin\Debug\netcoreapp2.0\02.PascalTriangle.runtimeconfig.dev.json
+D:\CodeProekts\Arrays-MoreExercise\02.PascalTriangle\bin\Debug\netcoreapp2.0\02.PascalTriangle.dll
+D:\CodeProekts\Arrays-MoreExercise\02.PascalTriangle\bin\Debug\netcoreapp2.0\02.PascalTriangle.pdb
+D:\CodeProekts\Arrays-MoreExercise\02.PascalTriangle\obj\Debug\netcoreapp2.0\02.PascalTriangle.csproj.CoreCompileInputs.cache
+D:\CodeProekts\Arrays-MoreExercise\02.PascalTriangle\obj\Debug\netcoreapp2.0\02.PascalTriangle.AssemblyInfoInputs.cache
+D:\CodeProekts\Arrays-MoreExercise\02.PascalTriangle\obj\Debug\netcoreapp2.0\02.PascalTriangle.AssemblyInfo.cs
+D:\CodeProekts\Arrays-MoreExercise\02.PascalTriangle\obj\Debug\netcoreapp2.0\02.PascalTriangle.dll
+D:\CodeProekts\Arrays-MoreExercise\02.PascalTriangle\obj\Debug\netcoreapp2.0\02.PascalTriangle.pdb
+D:\CodeProekts\Arrays-MoreExercise\02.PascalTriangle\obj\Debug\netcoreapp2.0\02.PascalTriangle.csprojResolveAssemblyReference.cache

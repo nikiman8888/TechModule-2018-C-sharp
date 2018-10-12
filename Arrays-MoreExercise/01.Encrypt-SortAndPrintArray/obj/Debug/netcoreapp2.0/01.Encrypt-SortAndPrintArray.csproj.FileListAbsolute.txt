@@ -1,0 +1,11 @@
+D:\CodeProekts\Arrays-MoreExercise\01.Encrypt-SortAndPrintArray\bin\Debug\netcoreapp2.0\01.Encrypt-SortAndPrintArray.deps.json
+D:\CodeProekts\Arrays-MoreExercise\01.Encrypt-SortAndPrintArray\bin\Debug\netcoreapp2.0\01.Encrypt-SortAndPrintArray.runtimeconfig.json
+D:\CodeProekts\Arrays-MoreExercise\01.Encrypt-SortAndPrintArray\bin\Debug\netcoreapp2.0\01.Encrypt-SortAndPrintArray.runtimeconfig.dev.json
+D:\CodeProekts\Arrays-MoreExercise\01.Encrypt-SortAndPrintArray\bin\Debug\netcoreapp2.0\01.Encrypt-SortAndPrintArray.dll
+D:\CodeProekts\Arrays-MoreExercise\01.Encrypt-SortAndPrintArray\bin\Debug\netcoreapp2.0\01.Encrypt-SortAndPrintArray.pdb
+D:\CodeProekts\Arrays-MoreExercise\01.Encrypt-SortAndPrintArray\obj\Debug\netcoreapp2.0\01.Encrypt-SortAndPrintArray.csprojResolveAssemblyReference.cache
+D:\CodeProekts\Arrays-MoreExercise\01.Encrypt-SortAndPrintArray\obj\Debug\netcoreapp2.0\01.Encrypt-SortAndPrintArray.csproj.CoreCompileInputs.cache
+D:\CodeProekts\Arrays-MoreExercise\01.Encrypt-SortAndPrintArray\obj\Debug\netcoreapp2.0\01.Encrypt-SortAndPrintArray.AssemblyInfoInputs.cache
+D:\CodeProekts\Arrays-MoreExercise\01.Encrypt-SortAndPrintArray\obj\Debug\netcoreapp2.0\01.Encrypt-SortAndPrintArray.AssemblyInfo.cs
+D:\CodeProekts\Arrays-MoreExercise\01.Encrypt-SortAndPrintArray\obj\Debug\netcoreapp2.0\01.Encrypt-SortAndPrintArray.dll
+D:\CodeProekts\Arrays-MoreExercise\01.Encrypt-SortAndPrintArray\obj\Debug\netcoreapp2.0\01.Encrypt-SortAndPrintArray.pdb
