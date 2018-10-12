@@ -1,0 +1,11 @@
+D:\CodeProekts\Arrays-Exercise\04.ArrayRotation\bin\Debug\netcoreapp2.0\04.ArrayRotation.deps.json
+D:\CodeProekts\Arrays-Exercise\04.ArrayRotation\bin\Debug\netcoreapp2.0\04.ArrayRotation.runtimeconfig.json
+D:\CodeProekts\Arrays-Exercise\04.ArrayRotation\bin\Debug\netcoreapp2.0\04.ArrayRotation.runtimeconfig.dev.json
+D:\CodeProekts\Arrays-Exercise\04.ArrayRotation\bin\Debug\netcoreapp2.0\04.ArrayRotation.dll
+D:\CodeProekts\Arrays-Exercise\04.ArrayRotation\bin\Debug\netcoreapp2.0\04.ArrayRotation.pdb
+D:\CodeProekts\Arrays-Exercise\04.ArrayRotation\obj\Debug\netcoreapp2.0\04.ArrayRotation.csprojResolveAssemblyReference.cache
+D:\CodeProekts\Arrays-Exercise\04.ArrayRotation\obj\Debug\netcoreapp2.0\04.ArrayRotation.csproj.CoreCompileInputs.cache
+D:\CodeProekts\Arrays-Exercise\04.ArrayRotation\obj\Debug\netcoreapp2.0\04.ArrayRotation.AssemblyInfoInputs.cache
+D:\CodeProekts\Arrays-Exercise\04.ArrayRotation\obj\Debug\netcoreapp2.0\04.ArrayRotation.AssemblyInfo.cs
+D:\CodeProekts\Arrays-Exercise\04.ArrayRotation\obj\Debug\netcoreapp2.0\04.ArrayRotation.dll
+D:\CodeProekts\Arrays-Exercise\04.ArrayRotation\obj\Debug\netcoreapp2.0\04.ArrayRotation.pdb
