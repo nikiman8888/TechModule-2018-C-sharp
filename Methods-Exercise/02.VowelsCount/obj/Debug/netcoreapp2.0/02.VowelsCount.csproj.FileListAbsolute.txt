@@ -1,0 +1,11 @@
+D:\CodeProekts\TechModule2018Methods-Exercise\02.VowelsCount\bin\Debug\netcoreapp2.0\02.VowelsCount.deps.json
+D:\CodeProekts\TechModule2018Methods-Exercise\02.VowelsCount\bin\Debug\netcoreapp2.0\02.VowelsCount.runtimeconfig.json
+D:\CodeProekts\TechModule2018Methods-Exercise\02.VowelsCount\bin\Debug\netcoreapp2.0\02.VowelsCount.runtimeconfig.dev.json
+D:\CodeProekts\TechModule2018Methods-Exercise\02.VowelsCount\bin\Debug\netcoreapp2.0\02.VowelsCount.dll
+D:\CodeProekts\TechModule2018Methods-Exercise\02.VowelsCount\bin\Debug\netcoreapp2.0\02.VowelsCount.pdb
+D:\CodeProekts\TechModule2018Methods-Exercise\02.VowelsCount\obj\Debug\netcoreapp2.0\02.VowelsCount.csprojResolveAssemblyReference.cache
+D:\CodeProekts\TechModule2018Methods-Exercise\02.VowelsCount\obj\Debug\netcoreapp2.0\02.VowelsCount.csproj.CoreCompileInputs.cache
+D:\CodeProekts\TechModule2018Methods-Exercise\02.VowelsCount\obj\Debug\netcoreapp2.0\02.VowelsCount.AssemblyInfoInputs.cache
+D:\CodeProekts\TechModule2018Methods-Exercise\02.VowelsCount\obj\Debug\netcoreapp2.0\02.VowelsCount.AssemblyInfo.cs
+D:\CodeProekts\TechModule2018Methods-Exercise\02.VowelsCount\obj\Debug\netcoreapp2.0\02.VowelsCount.dll
+D:\CodeProekts\TechModule2018Methods-Exercise\02.VowelsCount\obj\Debug\netcoreapp2.0\02.VowelsCount.pdb

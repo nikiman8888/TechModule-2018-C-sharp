@@ -1,0 +1,11 @@
+D:\CodeProekts\TechModule2018Methods-Exercise\01.SmallestNumber\bin\Debug\netcoreapp2.0\01.SmallestNumber.deps.json
+D:\CodeProekts\TechModule2018Methods-Exercise\01.SmallestNumber\bin\Debug\netcoreapp2.0\01.SmallestNumber.runtimeconfig.json
+D:\CodeProekts\TechModule2018Methods-Exercise\01.SmallestNumber\bin\Debug\netcoreapp2.0\01.SmallestNumber.runtimeconfig.dev.json
+D:\CodeProekts\TechModule2018Methods-Exercise\01.SmallestNumber\bin\Debug\netcoreapp2.0\01.SmallestNumber.dll
+D:\CodeProekts\TechModule2018Methods-Exercise\01.SmallestNumber\bin\Debug\netcoreapp2.0\01.SmallestNumber.pdb
+D:\CodeProekts\TechModule2018Methods-Exercise\01.SmallestNumber\obj\Debug\netcoreapp2.0\01.SmallestNumber.csprojResolveAssemblyReference.cache
+D:\CodeProekts\TechModule2018Methods-Exercise\01.SmallestNumber\obj\Debug\netcoreapp2.0\01.SmallestNumber.csproj.CoreCompileInputs.cache
+D:\CodeProekts\TechModule2018Methods-Exercise\01.SmallestNumber\obj\Debug\netcoreapp2.0\01.SmallestNumber.AssemblyInfoInputs.cache
+D:\CodeProekts\TechModule2018Methods-Exercise\01.SmallestNumber\obj\Debug\netcoreapp2.0\01.SmallestNumber.AssemblyInfo.cs
+D:\CodeProekts\TechModule2018Methods-Exercise\01.SmallestNumber\obj\Debug\netcoreapp2.0\01.SmallestNumber.dll
+D:\CodeProekts\TechModule2018Methods-Exercise\01.SmallestNumber\obj\Debug\netcoreapp2.0\01.SmallestNumber.pdb
