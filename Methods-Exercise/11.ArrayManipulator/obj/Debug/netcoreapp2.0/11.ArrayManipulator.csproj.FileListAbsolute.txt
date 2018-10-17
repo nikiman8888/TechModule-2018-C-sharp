@@ -1,0 +1,11 @@
+D:\CodeProekts\TechModule2018Methods-Exercise\11.ArrayManipulator\bin\Debug\netcoreapp2.0\11.ArrayManipulator.deps.json
+D:\CodeProekts\TechModule2018Methods-Exercise\11.ArrayManipulator\bin\Debug\netcoreapp2.0\11.ArrayManipulator.runtimeconfig.json
+D:\CodeProekts\TechModule2018Methods-Exercise\11.ArrayManipulator\bin\Debug\netcoreapp2.0\11.ArrayManipulator.runtimeconfig.dev.json
+D:\CodeProekts\TechModule2018Methods-Exercise\11.ArrayManipulator\bin\Debug\netcoreapp2.0\11.ArrayManipulator.dll
+D:\CodeProekts\TechModule2018Methods-Exercise\11.ArrayManipulator\bin\Debug\netcoreapp2.0\11.ArrayManipulator.pdb
+D:\CodeProekts\TechModule2018Methods-Exercise\11.ArrayManipulator\obj\Debug\netcoreapp2.0\11.ArrayManipulator.csprojResolveAssemblyReference.cache
+D:\CodeProekts\TechModule2018Methods-Exercise\11.ArrayManipulator\obj\Debug\netcoreapp2.0\11.ArrayManipulator.csproj.CoreCompileInputs.cache
+D:\CodeProekts\TechModule2018Methods-Exercise\11.ArrayManipulator\obj\Debug\netcoreapp2.0\11.ArrayManipulator.AssemblyInfoInputs.cache
+D:\CodeProekts\TechModule2018Methods-Exercise\11.ArrayManipulator\obj\Debug\netcoreapp2.0\11.ArrayManipulator.AssemblyInfo.cs
+D:\CodeProekts\TechModule2018Methods-Exercise\11.ArrayManipulator\obj\Debug\netcoreapp2.0\11.ArrayManipulator.dll
+D:\CodeProekts\TechModule2018Methods-Exercise\11.ArrayManipulator\obj\Debug\netcoreapp2.0\11.ArrayManipulator.pdb
