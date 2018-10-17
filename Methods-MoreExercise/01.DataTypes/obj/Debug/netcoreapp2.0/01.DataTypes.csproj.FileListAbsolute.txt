@@ -1,0 +1,11 @@
+D:\CodeProekts\TechModule2018Methods-MoreExercise\01.DataTypes\bin\Debug\netcoreapp2.0\01.DataTypes.deps.json
+D:\CodeProekts\TechModule2018Methods-MoreExercise\01.DataTypes\bin\Debug\netcoreapp2.0\01.DataTypes.runtimeconfig.json
+D:\CodeProekts\TechModule2018Methods-MoreExercise\01.DataTypes\bin\Debug\netcoreapp2.0\01.DataTypes.runtimeconfig.dev.json
+D:\CodeProekts\TechModule2018Methods-MoreExercise\01.DataTypes\bin\Debug\netcoreapp2.0\01.DataTypes.dll
+D:\CodeProekts\TechModule2018Methods-MoreExercise\01.DataTypes\bin\Debug\netcoreapp2.0\01.DataTypes.pdb
+D:\CodeProekts\TechModule2018Methods-MoreExercise\01.DataTypes\obj\Debug\netcoreapp2.0\01.DataTypes.csprojResolveAssemblyReference.cache
+D:\CodeProekts\TechModule2018Methods-MoreExercise\01.DataTypes\obj\Debug\netcoreapp2.0\01.DataTypes.csproj.CoreCompileInputs.cache
+D:\CodeProekts\TechModule2018Methods-MoreExercise\01.DataTypes\obj\Debug\netcoreapp2.0\01.DataTypes.AssemblyInfoInputs.cache
+D:\CodeProekts\TechModule2018Methods-MoreExercise\01.DataTypes\obj\Debug\netcoreapp2.0\01.DataTypes.AssemblyInfo.cs
+D:\CodeProekts\TechModule2018Methods-MoreExercise\01.DataTypes\obj\Debug\netcoreapp2.0\01.DataTypes.dll
+D:\CodeProekts\TechModule2018Methods-MoreExercise\01.DataTypes\obj\Debug\netcoreapp2.0\01.DataTypes.pdb

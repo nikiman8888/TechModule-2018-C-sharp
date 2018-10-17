@@ -1,0 +1,11 @@
+D:\CodeProekts\TechModule2018Methods-MoreExercise\03.LongerLine\bin\Debug\netcoreapp2.0\03.LongerLine.deps.json
+D:\CodeProekts\TechModule2018Methods-MoreExercise\03.LongerLine\bin\Debug\netcoreapp2.0\03.LongerLine.runtimeconfig.json
+D:\CodeProekts\TechModule2018Methods-MoreExercise\03.LongerLine\bin\Debug\netcoreapp2.0\03.LongerLine.runtimeconfig.dev.json
+D:\CodeProekts\TechModule2018Methods-MoreExercise\03.LongerLine\bin\Debug\netcoreapp2.0\03.LongerLine.dll
+D:\CodeProekts\TechModule2018Methods-MoreExercise\03.LongerLine\bin\Debug\netcoreapp2.0\03.LongerLine.pdb
+D:\CodeProekts\TechModule2018Methods-MoreExercise\03.LongerLine\obj\Debug\netcoreapp2.0\03.LongerLine.csprojResolveAssemblyReference.cache
+D:\CodeProekts\TechModule2018Methods-MoreExercise\03.LongerLine\obj\Debug\netcoreapp2.0\03.LongerLine.csproj.CoreCompileInputs.cache
+D:\CodeProekts\TechModule2018Methods-MoreExercise\03.LongerLine\obj\Debug\netcoreapp2.0\03.LongerLine.AssemblyInfoInputs.cache
+D:\CodeProekts\TechModule2018Methods-MoreExercise\03.LongerLine\obj\Debug\netcoreapp2.0\03.LongerLine.AssemblyInfo.cs
+D:\CodeProekts\TechModule2018Methods-MoreExercise\03.LongerLine\obj\Debug\netcoreapp2.0\03.LongerLine.dll
+D:\CodeProekts\TechModule2018Methods-MoreExercise\03.LongerLine\obj\Debug\netcoreapp2.0\03.LongerLine.pdb

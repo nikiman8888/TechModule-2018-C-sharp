@@ -1,0 +1,10 @@
+D:\CodeProekts\TechModule2018Methods-MoreExercise\04.TribonacciSequence\bin\Debug\netcoreapp2.0\04.TribonacciSequence.deps.json
+D:\CodeProekts\TechModule2018Methods-MoreExercise\04.TribonacciSequence\bin\Debug\netcoreapp2.0\04.TribonacciSequence.runtimeconfig.json
+D:\CodeProekts\TechModule2018Methods-MoreExercise\04.TribonacciSequence\bin\Debug\netcoreapp2.0\04.TribonacciSequence.runtimeconfig.dev.json
+D:\CodeProekts\TechModule2018Methods-MoreExercise\04.TribonacciSequence\bin\Debug\netcoreapp2.0\04.TribonacciSequence.dll
+D:\CodeProekts\TechModule2018Methods-MoreExercise\04.TribonacciSequence\bin\Debug\netcoreapp2.0\04.TribonacciSequence.pdb
+D:\CodeProekts\TechModule2018Methods-MoreExercise\04.TribonacciSequence\obj\Debug\netcoreapp2.0\04.TribonacciSequence.csproj.CoreCompileInputs.cache
+D:\CodeProekts\TechModule2018Methods-MoreExercise\04.TribonacciSequence\obj\Debug\netcoreapp2.0\04.TribonacciSequence.AssemblyInfoInputs.cache
+D:\CodeProekts\TechModule2018Methods-MoreExercise\04.TribonacciSequence\obj\Debug\netcoreapp2.0\04.TribonacciSequence.AssemblyInfo.cs
+D:\CodeProekts\TechModule2018Methods-MoreExercise\04.TribonacciSequence\obj\Debug\netcoreapp2.0\04.TribonacciSequence.dll
+D:\CodeProekts\TechModule2018Methods-MoreExercise\04.TribonacciSequence\obj\Debug\netcoreapp2.0\04.TribonacciSequence.pdb

@@ -1,0 +1,11 @@
+D:\CodeProekts\TechModule2018Methods-MoreExercise\05.MultiplicationSign\bin\Debug\netcoreapp2.0\05.MultiplicationSign.deps.json
+D:\CodeProekts\TechModule2018Methods-MoreExercise\05.MultiplicationSign\bin\Debug\netcoreapp2.0\05.MultiplicationSign.runtimeconfig.json
+D:\CodeProekts\TechModule2018Methods-MoreExercise\05.MultiplicationSign\bin\Debug\netcoreapp2.0\05.MultiplicationSign.runtimeconfig.dev.json
+D:\CodeProekts\TechModule2018Methods-MoreExercise\05.MultiplicationSign\bin\Debug\netcoreapp2.0\05.MultiplicationSign.dll
+D:\CodeProekts\TechModule2018Methods-MoreExercise\05.MultiplicationSign\bin\Debug\netcoreapp2.0\05.MultiplicationSign.pdb
+D:\CodeProekts\TechModule2018Methods-MoreExercise\05.MultiplicationSign\obj\Debug\netcoreapp2.0\05.MultiplicationSign.csprojResolveAssemblyReference.cache
+D:\CodeProekts\TechModule2018Methods-MoreExercise\05.MultiplicationSign\obj\Debug\netcoreapp2.0\05.MultiplicationSign.csproj.CoreCompileInputs.cache
+D:\CodeProekts\TechModule2018Methods-MoreExercise\05.MultiplicationSign\obj\Debug\netcoreapp2.0\05.MultiplicationSign.AssemblyInfoInputs.cache
+D:\CodeProekts\TechModule2018Methods-MoreExercise\05.MultiplicationSign\obj\Debug\netcoreapp2.0\05.MultiplicationSign.AssemblyInfo.cs
+D:\CodeProekts\TechModule2018Methods-MoreExercise\05.MultiplicationSign\obj\Debug\netcoreapp2.0\05.MultiplicationSign.dll
+D:\CodeProekts\TechModule2018Methods-MoreExercise\05.MultiplicationSign\obj\Debug\netcoreapp2.0\05.MultiplicationSign.pdb
