@@ -1,0 +1,11 @@
+D:\CodeProekts\TechModule2108-Methods-Lab\10.RepeatString\bin\Debug\netcoreapp2.0\10.RepeatString.deps.json
+D:\CodeProekts\TechModule2108-Methods-Lab\10.RepeatString\bin\Debug\netcoreapp2.0\10.RepeatString.runtimeconfig.json
+D:\CodeProekts\TechModule2108-Methods-Lab\10.RepeatString\bin\Debug\netcoreapp2.0\10.RepeatString.runtimeconfig.dev.json
+D:\CodeProekts\TechModule2108-Methods-Lab\10.RepeatString\bin\Debug\netcoreapp2.0\10.RepeatString.dll
+D:\CodeProekts\TechModule2108-Methods-Lab\10.RepeatString\bin\Debug\netcoreapp2.0\10.RepeatString.pdb
+D:\CodeProekts\TechModule2108-Methods-Lab\10.RepeatString\obj\Debug\netcoreapp2.0\10.RepeatString.csprojResolveAssemblyReference.cache
+D:\CodeProekts\TechModule2108-Methods-Lab\10.RepeatString\obj\Debug\netcoreapp2.0\10.RepeatString.csproj.CoreCompileInputs.cache
+D:\CodeProekts\TechModule2108-Methods-Lab\10.RepeatString\obj\Debug\netcoreapp2.0\10.RepeatString.AssemblyInfoInputs.cache
+D:\CodeProekts\TechModule2108-Methods-Lab\10.RepeatString\obj\Debug\netcoreapp2.0\10.RepeatString.AssemblyInfo.cs
+D:\CodeProekts\TechModule2108-Methods-Lab\10.RepeatString\obj\Debug\netcoreapp2.0\10.RepeatString.dll
+D:\CodeProekts\TechModule2108-Methods-Lab\10.RepeatString\obj\Debug\netcoreapp2.0\10.RepeatString.pdb
