@@ -1,0 +1,11 @@
+D:\CodeProekts\TechModule2108-Methods-Lab\08.GreaterOfTwoValues\bin\Debug\netcoreapp2.0\08.GreaterOfTwoValues.deps.json
+D:\CodeProekts\TechModule2108-Methods-Lab\08.GreaterOfTwoValues\bin\Debug\netcoreapp2.0\08.GreaterOfTwoValues.runtimeconfig.json
+D:\CodeProekts\TechModule2108-Methods-Lab\08.GreaterOfTwoValues\bin\Debug\netcoreapp2.0\08.GreaterOfTwoValues.runtimeconfig.dev.json
+D:\CodeProekts\TechModule2108-Methods-Lab\08.GreaterOfTwoValues\bin\Debug\netcoreapp2.0\08.GreaterOfTwoValues.dll
+D:\CodeProekts\TechModule2108-Methods-Lab\08.GreaterOfTwoValues\bin\Debug\netcoreapp2.0\08.GreaterOfTwoValues.pdb
+D:\CodeProekts\TechModule2108-Methods-Lab\08.GreaterOfTwoValues\obj\Debug\netcoreapp2.0\08.GreaterOfTwoValues.csprojResolveAssemblyReference.cache
+D:\CodeProekts\TechModule2108-Methods-Lab\08.GreaterOfTwoValues\obj\Debug\netcoreapp2.0\08.GreaterOfTwoValues.csproj.CoreCompileInputs.cache
+D:\CodeProekts\TechModule2108-Methods-Lab\08.GreaterOfTwoValues\obj\Debug\netcoreapp2.0\08.GreaterOfTwoValues.AssemblyInfoInputs.cache
+D:\CodeProekts\TechModule2108-Methods-Lab\08.GreaterOfTwoValues\obj\Debug\netcoreapp2.0\08.GreaterOfTwoValues.AssemblyInfo.cs
+D:\CodeProekts\TechModule2108-Methods-Lab\08.GreaterOfTwoValues\obj\Debug\netcoreapp2.0\08.GreaterOfTwoValues.dll
+D:\CodeProekts\TechModule2108-Methods-Lab\08.GreaterOfTwoValues\obj\Debug\netcoreapp2.0\08.GreaterOfTwoValues.pdb
