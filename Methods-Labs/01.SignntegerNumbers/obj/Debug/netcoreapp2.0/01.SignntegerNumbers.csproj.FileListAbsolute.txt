@@ -1,0 +1,11 @@
+D:\CodeProekts\TechModule2108-Methods-Lab\01.SignntegerNumbers\bin\Debug\netcoreapp2.0\01.SignntegerNumbers.deps.json
+D:\CodeProekts\TechModule2108-Methods-Lab\01.SignntegerNumbers\bin\Debug\netcoreapp2.0\01.SignntegerNumbers.runtimeconfig.json
+D:\CodeProekts\TechModule2108-Methods-Lab\01.SignntegerNumbers\bin\Debug\netcoreapp2.0\01.SignntegerNumbers.runtimeconfig.dev.json
+D:\CodeProekts\TechModule2108-Methods-Lab\01.SignntegerNumbers\bin\Debug\netcoreapp2.0\01.SignntegerNumbers.dll
+D:\CodeProekts\TechModule2108-Methods-Lab\01.SignntegerNumbers\bin\Debug\netcoreapp2.0\01.SignntegerNumbers.pdb
+D:\CodeProekts\TechModule2108-Methods-Lab\01.SignntegerNumbers\obj\Debug\netcoreapp2.0\01.SignntegerNumbers.csprojResolveAssemblyReference.cache
+D:\CodeProekts\TechModule2108-Methods-Lab\01.SignntegerNumbers\obj\Debug\netcoreapp2.0\01.SignntegerNumbers.csproj.CoreCompileInputs.cache
+D:\CodeProekts\TechModule2108-Methods-Lab\01.SignntegerNumbers\obj\Debug\netcoreapp2.0\01.SignntegerNumbers.AssemblyInfoInputs.cache
+D:\CodeProekts\TechModule2108-Methods-Lab\01.SignntegerNumbers\obj\Debug\netcoreapp2.0\01.SignntegerNumbers.AssemblyInfo.cs
+D:\CodeProekts\TechModule2108-Methods-Lab\01.SignntegerNumbers\obj\Debug\netcoreapp2.0\01.SignntegerNumbers.dll
+D:\CodeProekts\TechModule2108-Methods-Lab\01.SignntegerNumbers\obj\Debug\netcoreapp2.0\01.SignntegerNumbers.pdb
