@@ -1,0 +1,10 @@
+D:\CodeProekts\TechModule2018Methods-Exercise\06.MiddleCharacters\bin\Debug\netcoreapp2.0\06.MiddleCharacters.deps.json
+D:\CodeProekts\TechModule2018Methods-Exercise\06.MiddleCharacters\bin\Debug\netcoreapp2.0\06.MiddleCharacters.runtimeconfig.json
+D:\CodeProekts\TechModule2018Methods-Exercise\06.MiddleCharacters\bin\Debug\netcoreapp2.0\06.MiddleCharacters.runtimeconfig.dev.json
+D:\CodeProekts\TechModule2018Methods-Exercise\06.MiddleCharacters\bin\Debug\netcoreapp2.0\06.MiddleCharacters.dll
+D:\CodeProekts\TechModule2018Methods-Exercise\06.MiddleCharacters\bin\Debug\netcoreapp2.0\06.MiddleCharacters.pdb
+D:\CodeProekts\TechModule2018Methods-Exercise\06.MiddleCharacters\obj\Debug\netcoreapp2.0\06.MiddleCharacters.csproj.CoreCompileInputs.cache
+D:\CodeProekts\TechModule2018Methods-Exercise\06.MiddleCharacters\obj\Debug\netcoreapp2.0\06.MiddleCharacters.AssemblyInfoInputs.cache
+D:\CodeProekts\TechModule2018Methods-Exercise\06.MiddleCharacters\obj\Debug\netcoreapp2.0\06.MiddleCharacters.AssemblyInfo.cs
+D:\CodeProekts\TechModule2018Methods-Exercise\06.MiddleCharacters\obj\Debug\netcoreapp2.0\06.MiddleCharacters.dll
+D:\CodeProekts\TechModule2018Methods-Exercise\06.MiddleCharacters\obj\Debug\netcoreapp2.0\06.MiddleCharacters.pdb
