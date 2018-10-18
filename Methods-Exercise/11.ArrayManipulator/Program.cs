@@ -166,7 +166,7 @@ namespace _11.ArrayManipulator
             }
             else
             {
-                int check = inputArray.Where(x => x % 2 == 0).Count();// we check ,do we have an odd elemets
+                int check = inputArray.Where(x => x % 2 == 0).Count();// we check ,do we have an even elemets
                 if (check == 0)
                 {
                     indexTemp = -1;    // if not we return -1
@@ -210,7 +210,7 @@ namespace _11.ArrayManipulator
             }
             else
             {
-                int check = inputArray.Where(x => x % 2 == 0).Count();  // we check ,do we have an odd elemets
+                int check = inputArray.Where(x => x % 2 == 0).Count();  // we check ,do we have an even elemets
                 if (check == 0)
                 {
                     indexTemp = -1;   // if not we return -1
