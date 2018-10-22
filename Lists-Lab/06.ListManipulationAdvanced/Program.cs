@@ -69,7 +69,7 @@ namespace _06.ListManipulationAdvanced
                         break;
                     case "Contains":
 
-                        double containNumber = int.Parse(tokens[1]);
+                        double containNumber = double.Parse(tokens[1]);
                         if (inputData.Contains(containNumber))
                         {
                             Console.WriteLine("Yes");
@@ -101,7 +101,7 @@ namespace _06.ListManipulationAdvanced
 
                         string sign = tokens[1];
 
-                        double numberLevel = int.Parse(tokens[2]);
+                        double numberLevel = double.Parse(tokens[2]);
 
                         List<double> temp = new List<double>();
                         switch (sign)
