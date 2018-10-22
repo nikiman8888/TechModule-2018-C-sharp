@@ -1,0 +1,11 @@
+D:\CodeProekts\TechModule2018-Lists-Laab\03.GaussTrick\bin\Debug\netcoreapp2.0\03.GaussTrick.deps.json
+D:\CodeProekts\TechModule2018-Lists-Laab\03.GaussTrick\bin\Debug\netcoreapp2.0\03.GaussTrick.runtimeconfig.json
+D:\CodeProekts\TechModule2018-Lists-Laab\03.GaussTrick\bin\Debug\netcoreapp2.0\03.GaussTrick.runtimeconfig.dev.json
+D:\CodeProekts\TechModule2018-Lists-Laab\03.GaussTrick\bin\Debug\netcoreapp2.0\03.GaussTrick.dll
+D:\CodeProekts\TechModule2018-Lists-Laab\03.GaussTrick\bin\Debug\netcoreapp2.0\03.GaussTrick.pdb
+D:\CodeProekts\TechModule2018-Lists-Laab\03.GaussTrick\obj\Debug\netcoreapp2.0\03.GaussTrick.csprojResolveAssemblyReference.cache
+D:\CodeProekts\TechModule2018-Lists-Laab\03.GaussTrick\obj\Debug\netcoreapp2.0\03.GaussTrick.csproj.CoreCompileInputs.cache
+D:\CodeProekts\TechModule2018-Lists-Laab\03.GaussTrick\obj\Debug\netcoreapp2.0\03.GaussTrick.AssemblyInfoInputs.cache
+D:\CodeProekts\TechModule2018-Lists-Laab\03.GaussTrick\obj\Debug\netcoreapp2.0\03.GaussTrick.AssemblyInfo.cs
+D:\CodeProekts\TechModule2018-Lists-Laab\03.GaussTrick\obj\Debug\netcoreapp2.0\03.GaussTrick.dll
+D:\CodeProekts\TechModule2018-Lists-Laab\03.GaussTrick\obj\Debug\netcoreapp2.0\03.GaussTrick.pdb

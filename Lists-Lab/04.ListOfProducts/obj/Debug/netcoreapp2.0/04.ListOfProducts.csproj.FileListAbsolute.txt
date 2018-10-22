@@ -1,0 +1,11 @@
+D:\CodeProekts\TechModule2018-Lists-Laab\04.ListOfProducts\bin\Debug\netcoreapp2.0\04.ListOfProducts.deps.json
+D:\CodeProekts\TechModule2018-Lists-Laab\04.ListOfProducts\bin\Debug\netcoreapp2.0\04.ListOfProducts.runtimeconfig.json
+D:\CodeProekts\TechModule2018-Lists-Laab\04.ListOfProducts\bin\Debug\netcoreapp2.0\04.ListOfProducts.runtimeconfig.dev.json
+D:\CodeProekts\TechModule2018-Lists-Laab\04.ListOfProducts\bin\Debug\netcoreapp2.0\04.ListOfProducts.dll
+D:\CodeProekts\TechModule2018-Lists-Laab\04.ListOfProducts\bin\Debug\netcoreapp2.0\04.ListOfProducts.pdb
+D:\CodeProekts\TechModule2018-Lists-Laab\04.ListOfProducts\obj\Debug\netcoreapp2.0\04.ListOfProducts.csprojResolveAssemblyReference.cache
+D:\CodeProekts\TechModule2018-Lists-Laab\04.ListOfProducts\obj\Debug\netcoreapp2.0\04.ListOfProducts.csproj.CoreCompileInputs.cache
+D:\CodeProekts\TechModule2018-Lists-Laab\04.ListOfProducts\obj\Debug\netcoreapp2.0\04.ListOfProducts.AssemblyInfoInputs.cache
+D:\CodeProekts\TechModule2018-Lists-Laab\04.ListOfProducts\obj\Debug\netcoreapp2.0\04.ListOfProducts.AssemblyInfo.cs
+D:\CodeProekts\TechModule2018-Lists-Laab\04.ListOfProducts\obj\Debug\netcoreapp2.0\04.ListOfProducts.dll
+D:\CodeProekts\TechModule2018-Lists-Laab\04.ListOfProducts\obj\Debug\netcoreapp2.0\04.ListOfProducts.pdb

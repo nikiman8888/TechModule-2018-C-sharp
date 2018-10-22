@@ -1,0 +1,10 @@
+D:\CodeProekts\TechModule2018-Lists-Laab\05.ListManipulationBasics\bin\Debug\netcoreapp2.0\05.ListManipulationBasics.deps.json
+D:\CodeProekts\TechModule2018-Lists-Laab\05.ListManipulationBasics\bin\Debug\netcoreapp2.0\05.ListManipulationBasics.runtimeconfig.json
+D:\CodeProekts\TechModule2018-Lists-Laab\05.ListManipulationBasics\bin\Debug\netcoreapp2.0\05.ListManipulationBasics.runtimeconfig.dev.json
+D:\CodeProekts\TechModule2018-Lists-Laab\05.ListManipulationBasics\bin\Debug\netcoreapp2.0\05.ListManipulationBasics.dll
+D:\CodeProekts\TechModule2018-Lists-Laab\05.ListManipulationBasics\bin\Debug\netcoreapp2.0\05.ListManipulationBasics.pdb
+D:\CodeProekts\TechModule2018-Lists-Laab\05.ListManipulationBasics\obj\Debug\netcoreapp2.0\05.ListManipulationBasics.csproj.CoreCompileInputs.cache
+D:\CodeProekts\TechModule2018-Lists-Laab\05.ListManipulationBasics\obj\Debug\netcoreapp2.0\05.ListManipulationBasics.AssemblyInfoInputs.cache
+D:\CodeProekts\TechModule2018-Lists-Laab\05.ListManipulationBasics\obj\Debug\netcoreapp2.0\05.ListManipulationBasics.AssemblyInfo.cs
+D:\CodeProekts\TechModule2018-Lists-Laab\05.ListManipulationBasics\obj\Debug\netcoreapp2.0\05.ListManipulationBasics.dll
+D:\CodeProekts\TechModule2018-Lists-Laab\05.ListManipulationBasics\obj\Debug\netcoreapp2.0\05.ListManipulationBasics.pdb

@@ -1,0 +1,11 @@
+D:\CodeProekts\TechModule2018-Lists-Laab\02.SumAdjacentEqualNumbers\bin\Debug\netcoreapp2.0\02.SumAdjacentEqualNumbers.deps.json
+D:\CodeProekts\TechModule2018-Lists-Laab\02.SumAdjacentEqualNumbers\bin\Debug\netcoreapp2.0\02.SumAdjacentEqualNumbers.runtimeconfig.json
+D:\CodeProekts\TechModule2018-Lists-Laab\02.SumAdjacentEqualNumbers\bin\Debug\netcoreapp2.0\02.SumAdjacentEqualNumbers.runtimeconfig.dev.json
+D:\CodeProekts\TechModule2018-Lists-Laab\02.SumAdjacentEqualNumbers\bin\Debug\netcoreapp2.0\02.SumAdjacentEqualNumbers.dll
+D:\CodeProekts\TechModule2018-Lists-Laab\02.SumAdjacentEqualNumbers\bin\Debug\netcoreapp2.0\02.SumAdjacentEqualNumbers.pdb
+D:\CodeProekts\TechModule2018-Lists-Laab\02.SumAdjacentEqualNumbers\obj\Debug\netcoreapp2.0\02.SumAdjacentEqualNumbers.csproj.CoreCompileInputs.cache
+D:\CodeProekts\TechModule2018-Lists-Laab\02.SumAdjacentEqualNumbers\obj\Debug\netcoreapp2.0\02.SumAdjacentEqualNumbers.AssemblyInfoInputs.cache
+D:\CodeProekts\TechModule2018-Lists-Laab\02.SumAdjacentEqualNumbers\obj\Debug\netcoreapp2.0\02.SumAdjacentEqualNumbers.AssemblyInfo.cs
+D:\CodeProekts\TechModule2018-Lists-Laab\02.SumAdjacentEqualNumbers\obj\Debug\netcoreapp2.0\02.SumAdjacentEqualNumbers.dll
+D:\CodeProekts\TechModule2018-Lists-Laab\02.SumAdjacentEqualNumbers\obj\Debug\netcoreapp2.0\02.SumAdjacentEqualNumbers.pdb
+D:\CodeProekts\TechModule2018-Lists-Laab\02.SumAdjacentEqualNumbers\obj\Debug\netcoreapp2.0\02.SumAdjacentEqualNumbers.csprojResolveAssemblyReference.cache

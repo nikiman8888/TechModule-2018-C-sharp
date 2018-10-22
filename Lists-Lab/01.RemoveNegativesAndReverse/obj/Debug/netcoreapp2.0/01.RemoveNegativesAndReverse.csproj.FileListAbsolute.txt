@@ -1,0 +1,11 @@
+D:\CodeProekts\TechModule2018-Lists-Laab\01.RemoveNegativesAndReverse\bin\Debug\netcoreapp2.0\01.RemoveNegativesAndReverse.deps.json
+D:\CodeProekts\TechModule2018-Lists-Laab\01.RemoveNegativesAndReverse\bin\Debug\netcoreapp2.0\01.RemoveNegativesAndReverse.runtimeconfig.json
+D:\CodeProekts\TechModule2018-Lists-Laab\01.RemoveNegativesAndReverse\bin\Debug\netcoreapp2.0\01.RemoveNegativesAndReverse.runtimeconfig.dev.json
+D:\CodeProekts\TechModule2018-Lists-Laab\01.RemoveNegativesAndReverse\bin\Debug\netcoreapp2.0\01.RemoveNegativesAndReverse.dll
+D:\CodeProekts\TechModule2018-Lists-Laab\01.RemoveNegativesAndReverse\bin\Debug\netcoreapp2.0\01.RemoveNegativesAndReverse.pdb
+D:\CodeProekts\TechModule2018-Lists-Laab\01.RemoveNegativesAndReverse\obj\Debug\netcoreapp2.0\01.RemoveNegativesAndReverse.csprojResolveAssemblyReference.cache
+D:\CodeProekts\TechModule2018-Lists-Laab\01.RemoveNegativesAndReverse\obj\Debug\netcoreapp2.0\01.RemoveNegativesAndReverse.csproj.CoreCompileInputs.cache
+D:\CodeProekts\TechModule2018-Lists-Laab\01.RemoveNegativesAndReverse\obj\Debug\netcoreapp2.0\01.RemoveNegativesAndReverse.AssemblyInfoInputs.cache
+D:\CodeProekts\TechModule2018-Lists-Laab\01.RemoveNegativesAndReverse\obj\Debug\netcoreapp2.0\01.RemoveNegativesAndReverse.AssemblyInfo.cs
+D:\CodeProekts\TechModule2018-Lists-Laab\01.RemoveNegativesAndReverse\obj\Debug\netcoreapp2.0\01.RemoveNegativesAndReverse.dll
+D:\CodeProekts\TechModule2018-Lists-Laab\01.RemoveNegativesAndReverse\obj\Debug\netcoreapp2.0\01.RemoveNegativesAndReverse.pdb
