@@ -1,0 +1,11 @@
+D:\CodeProekts\TechModule2018-Lists-Laab\06.ListManipulationAdvanced\obj\Debug\netcoreapp2.0\06.ListManipulationAdvanced.csprojResolveAssemblyReference.cache
+D:\CodeProekts\TechModule2018-Lists-Laab\06.ListManipulationAdvanced\obj\Debug\netcoreapp2.0\06.ListManipulationAdvanced.csproj.CoreCompileInputs.cache
+D:\CodeProekts\TechModule2018-Lists-Laab\06.ListManipulationAdvanced\obj\Debug\netcoreapp2.0\06.ListManipulationAdvanced.AssemblyInfoInputs.cache
+D:\CodeProekts\TechModule2018-Lists-Laab\06.ListManipulationAdvanced\obj\Debug\netcoreapp2.0\06.ListManipulationAdvanced.AssemblyInfo.cs
+D:\CodeProekts\TechModule2018-Lists-Laab\06.ListManipulationAdvanced\bin\Debug\netcoreapp2.0\06.ListManipulationAdvanced.deps.json
+D:\CodeProekts\TechModule2018-Lists-Laab\06.ListManipulationAdvanced\bin\Debug\netcoreapp2.0\06.ListManipulationAdvanced.runtimeconfig.json
+D:\CodeProekts\TechModule2018-Lists-Laab\06.ListManipulationAdvanced\bin\Debug\netcoreapp2.0\06.ListManipulationAdvanced.runtimeconfig.dev.json
+D:\CodeProekts\TechModule2018-Lists-Laab\06.ListManipulationAdvanced\bin\Debug\netcoreapp2.0\06.ListManipulationAdvanced.dll
+D:\CodeProekts\TechModule2018-Lists-Laab\06.ListManipulationAdvanced\bin\Debug\netcoreapp2.0\06.ListManipulationAdvanced.pdb
+D:\CodeProekts\TechModule2018-Lists-Laab\06.ListManipulationAdvanced\obj\Debug\netcoreapp2.0\06.ListManipulationAdvanced.dll
+D:\CodeProekts\TechModule2018-Lists-Laab\06.ListManipulationAdvanced\obj\Debug\netcoreapp2.0\06.ListManipulationAdvanced.pdb

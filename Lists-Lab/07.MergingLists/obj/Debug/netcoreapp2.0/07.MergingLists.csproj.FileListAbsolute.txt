@@ -1,0 +1,11 @@
+D:\CodeProekts\TechModule2018-Lists-Laab\07.MergingLists\bin\Debug\netcoreapp2.0\07.MergingLists.deps.json
+D:\CodeProekts\TechModule2018-Lists-Laab\07.MergingLists\bin\Debug\netcoreapp2.0\07.MergingLists.runtimeconfig.json
+D:\CodeProekts\TechModule2018-Lists-Laab\07.MergingLists\bin\Debug\netcoreapp2.0\07.MergingLists.runtimeconfig.dev.json
+D:\CodeProekts\TechModule2018-Lists-Laab\07.MergingLists\bin\Debug\netcoreapp2.0\07.MergingLists.dll
+D:\CodeProekts\TechModule2018-Lists-Laab\07.MergingLists\bin\Debug\netcoreapp2.0\07.MergingLists.pdb
+D:\CodeProekts\TechModule2018-Lists-Laab\07.MergingLists\obj\Debug\netcoreapp2.0\07.MergingLists.csprojResolveAssemblyReference.cache
+D:\CodeProekts\TechModule2018-Lists-Laab\07.MergingLists\obj\Debug\netcoreapp2.0\07.MergingLists.csproj.CoreCompileInputs.cache
+D:\CodeProekts\TechModule2018-Lists-Laab\07.MergingLists\obj\Debug\netcoreapp2.0\07.MergingLists.AssemblyInfoInputs.cache
+D:\CodeProekts\TechModule2018-Lists-Laab\07.MergingLists\obj\Debug\netcoreapp2.0\07.MergingLists.AssemblyInfo.cs
+D:\CodeProekts\TechModule2018-Lists-Laab\07.MergingLists\obj\Debug\netcoreapp2.0\07.MergingLists.dll
+D:\CodeProekts\TechModule2018-Lists-Laab\07.MergingLists\obj\Debug\netcoreapp2.0\07.MergingLists.pdb
