@@ -1,0 +1,11 @@
+D:\CodeProekts\TechModule-ListExercise-1\03.HouseParty\bin\Debug\netcoreapp2.0\03.HouseParty.deps.json
+D:\CodeProekts\TechModule-ListExercise-1\03.HouseParty\bin\Debug\netcoreapp2.0\03.HouseParty.runtimeconfig.json
+D:\CodeProekts\TechModule-ListExercise-1\03.HouseParty\bin\Debug\netcoreapp2.0\03.HouseParty.runtimeconfig.dev.json
+D:\CodeProekts\TechModule-ListExercise-1\03.HouseParty\bin\Debug\netcoreapp2.0\03.HouseParty.dll
+D:\CodeProekts\TechModule-ListExercise-1\03.HouseParty\bin\Debug\netcoreapp2.0\03.HouseParty.pdb
+D:\CodeProekts\TechModule-ListExercise-1\03.HouseParty\obj\Debug\netcoreapp2.0\03.HouseParty.csprojResolveAssemblyReference.cache
+D:\CodeProekts\TechModule-ListExercise-1\03.HouseParty\obj\Debug\netcoreapp2.0\03.HouseParty.csproj.CoreCompileInputs.cache
+D:\CodeProekts\TechModule-ListExercise-1\03.HouseParty\obj\Debug\netcoreapp2.0\03.HouseParty.AssemblyInfoInputs.cache
+D:\CodeProekts\TechModule-ListExercise-1\03.HouseParty\obj\Debug\netcoreapp2.0\03.HouseParty.AssemblyInfo.cs
+D:\CodeProekts\TechModule-ListExercise-1\03.HouseParty\obj\Debug\netcoreapp2.0\03.HouseParty.dll
+D:\CodeProekts\TechModule-ListExercise-1\03.HouseParty\obj\Debug\netcoreapp2.0\03.HouseParty.pdb

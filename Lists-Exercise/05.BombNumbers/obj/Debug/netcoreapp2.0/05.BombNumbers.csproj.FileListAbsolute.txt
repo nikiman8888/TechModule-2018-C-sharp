@@ -1,0 +1,11 @@
+D:\CodeProekts\TechModule-ListExercise-1\05.BombNumbers\bin\Debug\netcoreapp2.0\05.BombNumbers.deps.json
+D:\CodeProekts\TechModule-ListExercise-1\05.BombNumbers\bin\Debug\netcoreapp2.0\05.BombNumbers.runtimeconfig.json
+D:\CodeProekts\TechModule-ListExercise-1\05.BombNumbers\bin\Debug\netcoreapp2.0\05.BombNumbers.runtimeconfig.dev.json
+D:\CodeProekts\TechModule-ListExercise-1\05.BombNumbers\bin\Debug\netcoreapp2.0\05.BombNumbers.dll
+D:\CodeProekts\TechModule-ListExercise-1\05.BombNumbers\bin\Debug\netcoreapp2.0\05.BombNumbers.pdb
+D:\CodeProekts\TechModule-ListExercise-1\05.BombNumbers\obj\Debug\netcoreapp2.0\05.BombNumbers.csprojResolveAssemblyReference.cache
+D:\CodeProekts\TechModule-ListExercise-1\05.BombNumbers\obj\Debug\netcoreapp2.0\05.BombNumbers.csproj.CoreCompileInputs.cache
+D:\CodeProekts\TechModule-ListExercise-1\05.BombNumbers\obj\Debug\netcoreapp2.0\05.BombNumbers.AssemblyInfoInputs.cache
+D:\CodeProekts\TechModule-ListExercise-1\05.BombNumbers\obj\Debug\netcoreapp2.0\05.BombNumbers.AssemblyInfo.cs
+D:\CodeProekts\TechModule-ListExercise-1\05.BombNumbers\obj\Debug\netcoreapp2.0\05.BombNumbers.dll
+D:\CodeProekts\TechModule-ListExercise-1\05.BombNumbers\obj\Debug\netcoreapp2.0\05.BombNumbers.pdb

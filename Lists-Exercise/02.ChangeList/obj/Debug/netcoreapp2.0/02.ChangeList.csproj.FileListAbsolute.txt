@@ -1,0 +1,11 @@
+D:\CodeProekts\TechModule-ListExercise-1\02.ChangeList\bin\Debug\netcoreapp2.0\02.ChangeList.deps.json
+D:\CodeProekts\TechModule-ListExercise-1\02.ChangeList\bin\Debug\netcoreapp2.0\02.ChangeList.runtimeconfig.json
+D:\CodeProekts\TechModule-ListExercise-1\02.ChangeList\bin\Debug\netcoreapp2.0\02.ChangeList.runtimeconfig.dev.json
+D:\CodeProekts\TechModule-ListExercise-1\02.ChangeList\bin\Debug\netcoreapp2.0\02.ChangeList.dll
+D:\CodeProekts\TechModule-ListExercise-1\02.ChangeList\bin\Debug\netcoreapp2.0\02.ChangeList.pdb
+D:\CodeProekts\TechModule-ListExercise-1\02.ChangeList\obj\Debug\netcoreapp2.0\02.ChangeList.csproj.CoreCompileInputs.cache
+D:\CodeProekts\TechModule-ListExercise-1\02.ChangeList\obj\Debug\netcoreapp2.0\02.ChangeList.AssemblyInfoInputs.cache
+D:\CodeProekts\TechModule-ListExercise-1\02.ChangeList\obj\Debug\netcoreapp2.0\02.ChangeList.AssemblyInfo.cs
+D:\CodeProekts\TechModule-ListExercise-1\02.ChangeList\obj\Debug\netcoreapp2.0\02.ChangeList.dll
+D:\CodeProekts\TechModule-ListExercise-1\02.ChangeList\obj\Debug\netcoreapp2.0\02.ChangeList.pdb
+D:\CodeProekts\TechModule-ListExercise-1\02.ChangeList\obj\Debug\netcoreapp2.0\02.ChangeList.csprojResolveAssemblyReference.cache

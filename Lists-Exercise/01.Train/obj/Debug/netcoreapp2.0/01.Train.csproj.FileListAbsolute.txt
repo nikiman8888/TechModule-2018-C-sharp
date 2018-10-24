@@ -1,0 +1,11 @@
+D:\CodeProekts\TechModule-ListExercise-1\01.Train\bin\Debug\netcoreapp2.0\01.Train.deps.json
+D:\CodeProekts\TechModule-ListExercise-1\01.Train\bin\Debug\netcoreapp2.0\01.Train.runtimeconfig.json
+D:\CodeProekts\TechModule-ListExercise-1\01.Train\bin\Debug\netcoreapp2.0\01.Train.runtimeconfig.dev.json
+D:\CodeProekts\TechModule-ListExercise-1\01.Train\bin\Debug\netcoreapp2.0\01.Train.dll
+D:\CodeProekts\TechModule-ListExercise-1\01.Train\bin\Debug\netcoreapp2.0\01.Train.pdb
+D:\CodeProekts\TechModule-ListExercise-1\01.Train\obj\Debug\netcoreapp2.0\01.Train.csprojResolveAssemblyReference.cache
+D:\CodeProekts\TechModule-ListExercise-1\01.Train\obj\Debug\netcoreapp2.0\01.Train.csproj.CoreCompileInputs.cache
+D:\CodeProekts\TechModule-ListExercise-1\01.Train\obj\Debug\netcoreapp2.0\01.Train.AssemblyInfoInputs.cache
+D:\CodeProekts\TechModule-ListExercise-1\01.Train\obj\Debug\netcoreapp2.0\01.Train.AssemblyInfo.cs
+D:\CodeProekts\TechModule-ListExercise-1\01.Train\obj\Debug\netcoreapp2.0\01.Train.dll
+D:\CodeProekts\TechModule-ListExercise-1\01.Train\obj\Debug\netcoreapp2.0\01.Train.pdb

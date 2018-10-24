@@ -1,0 +1,11 @@
+D:\CodeProekts\TechModule-ListExercise-1\04.ListOperations\bin\Debug\netcoreapp2.0\04.ListOperations.deps.json
+D:\CodeProekts\TechModule-ListExercise-1\04.ListOperations\bin\Debug\netcoreapp2.0\04.ListOperations.runtimeconfig.json
+D:\CodeProekts\TechModule-ListExercise-1\04.ListOperations\bin\Debug\netcoreapp2.0\04.ListOperations.runtimeconfig.dev.json
+D:\CodeProekts\TechModule-ListExercise-1\04.ListOperations\bin\Debug\netcoreapp2.0\04.ListOperations.dll
+D:\CodeProekts\TechModule-ListExercise-1\04.ListOperations\bin\Debug\netcoreapp2.0\04.ListOperations.pdb
+D:\CodeProekts\TechModule-ListExercise-1\04.ListOperations\obj\Debug\netcoreapp2.0\04.ListOperations.csprojResolveAssemblyReference.cache
+D:\CodeProekts\TechModule-ListExercise-1\04.ListOperations\obj\Debug\netcoreapp2.0\04.ListOperations.csproj.CoreCompileInputs.cache
+D:\CodeProekts\TechModule-ListExercise-1\04.ListOperations\obj\Debug\netcoreapp2.0\04.ListOperations.AssemblyInfoInputs.cache
+D:\CodeProekts\TechModule-ListExercise-1\04.ListOperations\obj\Debug\netcoreapp2.0\04.ListOperations.AssemblyInfo.cs
+D:\CodeProekts\TechModule-ListExercise-1\04.ListOperations\obj\Debug\netcoreapp2.0\04.ListOperations.dll
+D:\CodeProekts\TechModule-ListExercise-1\04.ListOperations\obj\Debug\netcoreapp2.0\04.ListOperations.pdb
