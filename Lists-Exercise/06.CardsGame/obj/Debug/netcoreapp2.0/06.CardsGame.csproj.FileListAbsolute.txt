@@ -1,0 +1,11 @@
+D:\CodeProekts\TechModule-ListExercise-1\06.CardsGame\bin\Debug\netcoreapp2.0\06.CardsGame.deps.json
+D:\CodeProekts\TechModule-ListExercise-1\06.CardsGame\bin\Debug\netcoreapp2.0\06.CardsGame.runtimeconfig.json
+D:\CodeProekts\TechModule-ListExercise-1\06.CardsGame\bin\Debug\netcoreapp2.0\06.CardsGame.runtimeconfig.dev.json
+D:\CodeProekts\TechModule-ListExercise-1\06.CardsGame\bin\Debug\netcoreapp2.0\06.CardsGame.dll
+D:\CodeProekts\TechModule-ListExercise-1\06.CardsGame\bin\Debug\netcoreapp2.0\06.CardsGame.pdb
+D:\CodeProekts\TechModule-ListExercise-1\06.CardsGame\obj\Debug\netcoreapp2.0\06.CardsGame.csprojResolveAssemblyReference.cache
+D:\CodeProekts\TechModule-ListExercise-1\06.CardsGame\obj\Debug\netcoreapp2.0\06.CardsGame.csproj.CoreCompileInputs.cache
+D:\CodeProekts\TechModule-ListExercise-1\06.CardsGame\obj\Debug\netcoreapp2.0\06.CardsGame.AssemblyInfoInputs.cache
+D:\CodeProekts\TechModule-ListExercise-1\06.CardsGame\obj\Debug\netcoreapp2.0\06.CardsGame.AssemblyInfo.cs
+D:\CodeProekts\TechModule-ListExercise-1\06.CardsGame\obj\Debug\netcoreapp2.0\06.CardsGame.dll
+D:\CodeProekts\TechModule-ListExercise-1\06.CardsGame\obj\Debug\netcoreapp2.0\06.CardsGame.pdb
