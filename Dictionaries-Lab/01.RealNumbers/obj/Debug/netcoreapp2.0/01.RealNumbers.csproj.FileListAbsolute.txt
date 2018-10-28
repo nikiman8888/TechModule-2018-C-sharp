@@ -1,0 +1,10 @@
+D:\CodeProekts\TechModule2018-Dictionares-Lab\ConsoleApp1\bin\Debug\netcoreapp2.0\01.RealNumbers.deps.json
+D:\CodeProekts\TechModule2018-Dictionares-Lab\ConsoleApp1\bin\Debug\netcoreapp2.0\01.RealNumbers.runtimeconfig.json
+D:\CodeProekts\TechModule2018-Dictionares-Lab\ConsoleApp1\bin\Debug\netcoreapp2.0\01.RealNumbers.runtimeconfig.dev.json
+D:\CodeProekts\TechModule2018-Dictionares-Lab\ConsoleApp1\bin\Debug\netcoreapp2.0\01.RealNumbers.dll
+D:\CodeProekts\TechModule2018-Dictionares-Lab\ConsoleApp1\bin\Debug\netcoreapp2.0\01.RealNumbers.pdb
+D:\CodeProekts\TechModule2018-Dictionares-Lab\ConsoleApp1\obj\Debug\netcoreapp2.0\01.RealNumbers.csproj.CoreCompileInputs.cache
+D:\CodeProekts\TechModule2018-Dictionares-Lab\ConsoleApp1\obj\Debug\netcoreapp2.0\01.RealNumbers.AssemblyInfoInputs.cache
+D:\CodeProekts\TechModule2018-Dictionares-Lab\ConsoleApp1\obj\Debug\netcoreapp2.0\01.RealNumbers.AssemblyInfo.cs
+D:\CodeProekts\TechModule2018-Dictionares-Lab\ConsoleApp1\obj\Debug\netcoreapp2.0\01.RealNumbers.dll
+D:\CodeProekts\TechModule2018-Dictionares-Lab\ConsoleApp1\obj\Debug\netcoreapp2.0\01.RealNumbers.pdb

@@ -1,0 +1,11 @@
+D:\CodeProekts\TechModule2018-Dictionares-Lab\03.WordSynonyms\bin\Debug\netcoreapp2.0\03.WordSynonyms.deps.json
+D:\CodeProekts\TechModule2018-Dictionares-Lab\03.WordSynonyms\bin\Debug\netcoreapp2.0\03.WordSynonyms.runtimeconfig.json
+D:\CodeProekts\TechModule2018-Dictionares-Lab\03.WordSynonyms\bin\Debug\netcoreapp2.0\03.WordSynonyms.runtimeconfig.dev.json
+D:\CodeProekts\TechModule2018-Dictionares-Lab\03.WordSynonyms\bin\Debug\netcoreapp2.0\03.WordSynonyms.dll
+D:\CodeProekts\TechModule2018-Dictionares-Lab\03.WordSynonyms\bin\Debug\netcoreapp2.0\03.WordSynonyms.pdb
+D:\CodeProekts\TechModule2018-Dictionares-Lab\03.WordSynonyms\obj\Debug\netcoreapp2.0\03.WordSynonyms.csprojResolveAssemblyReference.cache
+D:\CodeProekts\TechModule2018-Dictionares-Lab\03.WordSynonyms\obj\Debug\netcoreapp2.0\03.WordSynonyms.csproj.CoreCompileInputs.cache
+D:\CodeProekts\TechModule2018-Dictionares-Lab\03.WordSynonyms\obj\Debug\netcoreapp2.0\03.WordSynonyms.AssemblyInfoInputs.cache
+D:\CodeProekts\TechModule2018-Dictionares-Lab\03.WordSynonyms\obj\Debug\netcoreapp2.0\03.WordSynonyms.AssemblyInfo.cs
+D:\CodeProekts\TechModule2018-Dictionares-Lab\03.WordSynonyms\obj\Debug\netcoreapp2.0\03.WordSynonyms.dll
+D:\CodeProekts\TechModule2018-Dictionares-Lab\03.WordSynonyms\obj\Debug\netcoreapp2.0\03.WordSynonyms.pdb
