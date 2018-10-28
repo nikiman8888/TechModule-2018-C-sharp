@@ -1,0 +1,11 @@
+D:\CodeProekts\TechModule2018-ListsExercise\03.Take-SkipRope\bin\Debug\netcoreapp2.0\03.Take-SkipRope.deps.json
+D:\CodeProekts\TechModule2018-ListsExercise\03.Take-SkipRope\bin\Debug\netcoreapp2.0\03.Take-SkipRope.runtimeconfig.json
+D:\CodeProekts\TechModule2018-ListsExercise\03.Take-SkipRope\bin\Debug\netcoreapp2.0\03.Take-SkipRope.runtimeconfig.dev.json
+D:\CodeProekts\TechModule2018-ListsExercise\03.Take-SkipRope\bin\Debug\netcoreapp2.0\03.Take-SkipRope.dll
+D:\CodeProekts\TechModule2018-ListsExercise\03.Take-SkipRope\bin\Debug\netcoreapp2.0\03.Take-SkipRope.pdb
+D:\CodeProekts\TechModule2018-ListsExercise\03.Take-SkipRope\obj\Debug\netcoreapp2.0\03.Take-SkipRope.csproj.CoreCompileInputs.cache
+D:\CodeProekts\TechModule2018-ListsExercise\03.Take-SkipRope\obj\Debug\netcoreapp2.0\03.Take-SkipRope.AssemblyInfoInputs.cache
+D:\CodeProekts\TechModule2018-ListsExercise\03.Take-SkipRope\obj\Debug\netcoreapp2.0\03.Take-SkipRope.AssemblyInfo.cs
+D:\CodeProekts\TechModule2018-ListsExercise\03.Take-SkipRope\obj\Debug\netcoreapp2.0\03.Take-SkipRope.dll
+D:\CodeProekts\TechModule2018-ListsExercise\03.Take-SkipRope\obj\Debug\netcoreapp2.0\03.Take-SkipRope.pdb
+D:\CodeProekts\TechModule2018-ListsExercise\03.Take-SkipRope\obj\Debug\netcoreapp2.0\03.Take-SkipRope.csprojResolveAssemblyReference.cache

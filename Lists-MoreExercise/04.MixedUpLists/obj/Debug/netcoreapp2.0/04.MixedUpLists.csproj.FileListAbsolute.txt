@@ -1,0 +1,11 @@
+D:\CodeProekts\TechModule2018-ListsExercise\04.MixedUpLists\bin\Debug\netcoreapp2.0\04.MixedUpLists.deps.json
+D:\CodeProekts\TechModule2018-ListsExercise\04.MixedUpLists\bin\Debug\netcoreapp2.0\04.MixedUpLists.runtimeconfig.json
+D:\CodeProekts\TechModule2018-ListsExercise\04.MixedUpLists\bin\Debug\netcoreapp2.0\04.MixedUpLists.runtimeconfig.dev.json
+D:\CodeProekts\TechModule2018-ListsExercise\04.MixedUpLists\bin\Debug\netcoreapp2.0\04.MixedUpLists.dll
+D:\CodeProekts\TechModule2018-ListsExercise\04.MixedUpLists\bin\Debug\netcoreapp2.0\04.MixedUpLists.pdb
+D:\CodeProekts\TechModule2018-ListsExercise\04.MixedUpLists\obj\Debug\netcoreapp2.0\04.MixedUpLists.csprojResolveAssemblyReference.cache
+D:\CodeProekts\TechModule2018-ListsExercise\04.MixedUpLists\obj\Debug\netcoreapp2.0\04.MixedUpLists.csproj.CoreCompileInputs.cache
+D:\CodeProekts\TechModule2018-ListsExercise\04.MixedUpLists\obj\Debug\netcoreapp2.0\04.MixedUpLists.AssemblyInfoInputs.cache
+D:\CodeProekts\TechModule2018-ListsExercise\04.MixedUpLists\obj\Debug\netcoreapp2.0\04.MixedUpLists.AssemblyInfo.cs
+D:\CodeProekts\TechModule2018-ListsExercise\04.MixedUpLists\obj\Debug\netcoreapp2.0\04.MixedUpLists.dll
+D:\CodeProekts\TechModule2018-ListsExercise\04.MixedUpLists\obj\Debug\netcoreapp2.0\04.MixedUpLists.pdb

@@ -1,0 +1,11 @@
+D:\CodeProekts\TechModule2018-ListsExercise\02.CarRace\bin\Debug\netcoreapp2.0\02.CarRace.deps.json
+D:\CodeProekts\TechModule2018-ListsExercise\02.CarRace\bin\Debug\netcoreapp2.0\02.CarRace.runtimeconfig.json
+D:\CodeProekts\TechModule2018-ListsExercise\02.CarRace\bin\Debug\netcoreapp2.0\02.CarRace.runtimeconfig.dev.json
+D:\CodeProekts\TechModule2018-ListsExercise\02.CarRace\bin\Debug\netcoreapp2.0\02.CarRace.dll
+D:\CodeProekts\TechModule2018-ListsExercise\02.CarRace\bin\Debug\netcoreapp2.0\02.CarRace.pdb
+D:\CodeProekts\TechModule2018-ListsExercise\02.CarRace\obj\Debug\netcoreapp2.0\02.CarRace.csprojResolveAssemblyReference.cache
+D:\CodeProekts\TechModule2018-ListsExercise\02.CarRace\obj\Debug\netcoreapp2.0\02.CarRace.csproj.CoreCompileInputs.cache
+D:\CodeProekts\TechModule2018-ListsExercise\02.CarRace\obj\Debug\netcoreapp2.0\02.CarRace.AssemblyInfoInputs.cache
+D:\CodeProekts\TechModule2018-ListsExercise\02.CarRace\obj\Debug\netcoreapp2.0\02.CarRace.AssemblyInfo.cs
+D:\CodeProekts\TechModule2018-ListsExercise\02.CarRace\obj\Debug\netcoreapp2.0\02.CarRace.dll
+D:\CodeProekts\TechModule2018-ListsExercise\02.CarRace\obj\Debug\netcoreapp2.0\02.CarRace.pdb
