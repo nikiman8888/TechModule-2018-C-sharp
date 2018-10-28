@@ -1,0 +1,10 @@
+D:\CodeProekts\TechModule2018-Dictionares-Lab\05.WordFilter\bin\Debug\netcoreapp2.0\05.WordFilter.deps.json
+D:\CodeProekts\TechModule2018-Dictionares-Lab\05.WordFilter\bin\Debug\netcoreapp2.0\05.WordFilter.runtimeconfig.json
+D:\CodeProekts\TechModule2018-Dictionares-Lab\05.WordFilter\bin\Debug\netcoreapp2.0\05.WordFilter.runtimeconfig.dev.json
+D:\CodeProekts\TechModule2018-Dictionares-Lab\05.WordFilter\bin\Debug\netcoreapp2.0\05.WordFilter.dll
+D:\CodeProekts\TechModule2018-Dictionares-Lab\05.WordFilter\bin\Debug\netcoreapp2.0\05.WordFilter.pdb
+D:\CodeProekts\TechModule2018-Dictionares-Lab\05.WordFilter\obj\Debug\netcoreapp2.0\05.WordFilter.csproj.CoreCompileInputs.cache
+D:\CodeProekts\TechModule2018-Dictionares-Lab\05.WordFilter\obj\Debug\netcoreapp2.0\05.WordFilter.AssemblyInfoInputs.cache
+D:\CodeProekts\TechModule2018-Dictionares-Lab\05.WordFilter\obj\Debug\netcoreapp2.0\05.WordFilter.AssemblyInfo.cs
+D:\CodeProekts\TechModule2018-Dictionares-Lab\05.WordFilter\obj\Debug\netcoreapp2.0\05.WordFilter.dll
+D:\CodeProekts\TechModule2018-Dictionares-Lab\05.WordFilter\obj\Debug\netcoreapp2.0\05.WordFilter.pdb
