@@ -1,0 +1,10 @@
+D:\CodeProekts\TechModule2018-Dictionares-Exercise\02.AMinerTask\bin\Debug\netcoreapp2.0\02.AMinerTask.deps.json
+D:\CodeProekts\TechModule2018-Dictionares-Exercise\02.AMinerTask\bin\Debug\netcoreapp2.0\02.AMinerTask.runtimeconfig.json
+D:\CodeProekts\TechModule2018-Dictionares-Exercise\02.AMinerTask\bin\Debug\netcoreapp2.0\02.AMinerTask.runtimeconfig.dev.json
+D:\CodeProekts\TechModule2018-Dictionares-Exercise\02.AMinerTask\bin\Debug\netcoreapp2.0\02.AMinerTask.dll
+D:\CodeProekts\TechModule2018-Dictionares-Exercise\02.AMinerTask\bin\Debug\netcoreapp2.0\02.AMinerTask.pdb
+D:\CodeProekts\TechModule2018-Dictionares-Exercise\02.AMinerTask\obj\Debug\netcoreapp2.0\02.AMinerTask.csproj.CoreCompileInputs.cache
+D:\CodeProekts\TechModule2018-Dictionares-Exercise\02.AMinerTask\obj\Debug\netcoreapp2.0\02.AMinerTask.AssemblyInfoInputs.cache
+D:\CodeProekts\TechModule2018-Dictionares-Exercise\02.AMinerTask\obj\Debug\netcoreapp2.0\02.AMinerTask.AssemblyInfo.cs
+D:\CodeProekts\TechModule2018-Dictionares-Exercise\02.AMinerTask\obj\Debug\netcoreapp2.0\02.AMinerTask.dll
+D:\CodeProekts\TechModule2018-Dictionares-Exercise\02.AMinerTask\obj\Debug\netcoreapp2.0\02.AMinerTask.pdb

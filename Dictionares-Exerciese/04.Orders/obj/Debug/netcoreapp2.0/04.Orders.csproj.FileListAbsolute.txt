@@ -1,0 +1,11 @@
+D:\CodeProekts\TechModule2018-Dictionares-Exercise\04.Orders\bin\Debug\netcoreapp2.0\04.Orders.deps.json
+D:\CodeProekts\TechModule2018-Dictionares-Exercise\04.Orders\bin\Debug\netcoreapp2.0\04.Orders.runtimeconfig.json
+D:\CodeProekts\TechModule2018-Dictionares-Exercise\04.Orders\bin\Debug\netcoreapp2.0\04.Orders.runtimeconfig.dev.json
+D:\CodeProekts\TechModule2018-Dictionares-Exercise\04.Orders\bin\Debug\netcoreapp2.0\04.Orders.dll
+D:\CodeProekts\TechModule2018-Dictionares-Exercise\04.Orders\bin\Debug\netcoreapp2.0\04.Orders.pdb
+D:\CodeProekts\TechModule2018-Dictionares-Exercise\04.Orders\obj\Debug\netcoreapp2.0\04.Orders.csprojResolveAssemblyReference.cache
+D:\CodeProekts\TechModule2018-Dictionares-Exercise\04.Orders\obj\Debug\netcoreapp2.0\04.Orders.csproj.CoreCompileInputs.cache
+D:\CodeProekts\TechModule2018-Dictionares-Exercise\04.Orders\obj\Debug\netcoreapp2.0\04.Orders.AssemblyInfoInputs.cache
+D:\CodeProekts\TechModule2018-Dictionares-Exercise\04.Orders\obj\Debug\netcoreapp2.0\04.Orders.AssemblyInfo.cs
+D:\CodeProekts\TechModule2018-Dictionares-Exercise\04.Orders\obj\Debug\netcoreapp2.0\04.Orders.dll
+D:\CodeProekts\TechModule2018-Dictionares-Exercise\04.Orders\obj\Debug\netcoreapp2.0\04.Orders.pdb

@@ -1,0 +1,11 @@
+D:\CodeProekts\TechModule2018-Dictionares-Exercise\05.SoftUniParking\bin\Debug\netcoreapp2.0\05.SoftUniParking.deps.json
+D:\CodeProekts\TechModule2018-Dictionares-Exercise\05.SoftUniParking\bin\Debug\netcoreapp2.0\05.SoftUniParking.runtimeconfig.json
+D:\CodeProekts\TechModule2018-Dictionares-Exercise\05.SoftUniParking\bin\Debug\netcoreapp2.0\05.SoftUniParking.runtimeconfig.dev.json
+D:\CodeProekts\TechModule2018-Dictionares-Exercise\05.SoftUniParking\bin\Debug\netcoreapp2.0\05.SoftUniParking.dll
+D:\CodeProekts\TechModule2018-Dictionares-Exercise\05.SoftUniParking\bin\Debug\netcoreapp2.0\05.SoftUniParking.pdb
+D:\CodeProekts\TechModule2018-Dictionares-Exercise\05.SoftUniParking\obj\Debug\netcoreapp2.0\05.SoftUniParking.csprojResolveAssemblyReference.cache
+D:\CodeProekts\TechModule2018-Dictionares-Exercise\05.SoftUniParking\obj\Debug\netcoreapp2.0\05.SoftUniParking.csproj.CoreCompileInputs.cache
+D:\CodeProekts\TechModule2018-Dictionares-Exercise\05.SoftUniParking\obj\Debug\netcoreapp2.0\05.SoftUniParking.AssemblyInfoInputs.cache
+D:\CodeProekts\TechModule2018-Dictionares-Exercise\05.SoftUniParking\obj\Debug\netcoreapp2.0\05.SoftUniParking.AssemblyInfo.cs
+D:\CodeProekts\TechModule2018-Dictionares-Exercise\05.SoftUniParking\obj\Debug\netcoreapp2.0\05.SoftUniParking.dll
+D:\CodeProekts\TechModule2018-Dictionares-Exercise\05.SoftUniParking\obj\Debug\netcoreapp2.0\05.SoftUniParking.pdb

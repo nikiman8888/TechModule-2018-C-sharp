@@ -1,0 +1,11 @@
+D:\CodeProekts\TechModule2018-Dictionares-Exercise\01.CountCharsInString\bin\Debug\netcoreapp2.0\01.CountCharsInString.deps.json
+D:\CodeProekts\TechModule2018-Dictionares-Exercise\01.CountCharsInString\bin\Debug\netcoreapp2.0\01.CountCharsInString.runtimeconfig.json
+D:\CodeProekts\TechModule2018-Dictionares-Exercise\01.CountCharsInString\bin\Debug\netcoreapp2.0\01.CountCharsInString.runtimeconfig.dev.json
+D:\CodeProekts\TechModule2018-Dictionares-Exercise\01.CountCharsInString\bin\Debug\netcoreapp2.0\01.CountCharsInString.dll
+D:\CodeProekts\TechModule2018-Dictionares-Exercise\01.CountCharsInString\bin\Debug\netcoreapp2.0\01.CountCharsInString.pdb
+D:\CodeProekts\TechModule2018-Dictionares-Exercise\01.CountCharsInString\obj\Debug\netcoreapp2.0\01.CountCharsInString.csprojResolveAssemblyReference.cache
+D:\CodeProekts\TechModule2018-Dictionares-Exercise\01.CountCharsInString\obj\Debug\netcoreapp2.0\01.CountCharsInString.csproj.CoreCompileInputs.cache
+D:\CodeProekts\TechModule2018-Dictionares-Exercise\01.CountCharsInString\obj\Debug\netcoreapp2.0\01.CountCharsInString.AssemblyInfoInputs.cache
+D:\CodeProekts\TechModule2018-Dictionares-Exercise\01.CountCharsInString\obj\Debug\netcoreapp2.0\01.CountCharsInString.AssemblyInfo.cs
+D:\CodeProekts\TechModule2018-Dictionares-Exercise\01.CountCharsInString\obj\Debug\netcoreapp2.0\01.CountCharsInString.dll
+D:\CodeProekts\TechModule2018-Dictionares-Exercise\01.CountCharsInString\obj\Debug\netcoreapp2.0\01.CountCharsInString.pdb
