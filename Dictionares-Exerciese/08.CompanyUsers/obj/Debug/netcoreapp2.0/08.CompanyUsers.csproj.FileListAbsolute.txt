@@ -1,0 +1,11 @@
+D:\CodeProekts\TechModule2018-Dictionares-Exercise\08.CompanyUsers\bin\Debug\netcoreapp2.0\08.CompanyUsers.deps.json
+D:\CodeProekts\TechModule2018-Dictionares-Exercise\08.CompanyUsers\bin\Debug\netcoreapp2.0\08.CompanyUsers.runtimeconfig.json
+D:\CodeProekts\TechModule2018-Dictionares-Exercise\08.CompanyUsers\bin\Debug\netcoreapp2.0\08.CompanyUsers.runtimeconfig.dev.json
+D:\CodeProekts\TechModule2018-Dictionares-Exercise\08.CompanyUsers\bin\Debug\netcoreapp2.0\08.CompanyUsers.dll
+D:\CodeProekts\TechModule2018-Dictionares-Exercise\08.CompanyUsers\bin\Debug\netcoreapp2.0\08.CompanyUsers.pdb
+D:\CodeProekts\TechModule2018-Dictionares-Exercise\08.CompanyUsers\obj\Debug\netcoreapp2.0\08.CompanyUsers.csprojResolveAssemblyReference.cache
+D:\CodeProekts\TechModule2018-Dictionares-Exercise\08.CompanyUsers\obj\Debug\netcoreapp2.0\08.CompanyUsers.csproj.CoreCompileInputs.cache
+D:\CodeProekts\TechModule2018-Dictionares-Exercise\08.CompanyUsers\obj\Debug\netcoreapp2.0\08.CompanyUsers.AssemblyInfoInputs.cache
+D:\CodeProekts\TechModule2018-Dictionares-Exercise\08.CompanyUsers\obj\Debug\netcoreapp2.0\08.CompanyUsers.AssemblyInfo.cs
+D:\CodeProekts\TechModule2018-Dictionares-Exercise\08.CompanyUsers\obj\Debug\netcoreapp2.0\08.CompanyUsers.dll
+D:\CodeProekts\TechModule2018-Dictionares-Exercise\08.CompanyUsers\obj\Debug\netcoreapp2.0\08.CompanyUsers.pdb

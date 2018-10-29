@@ -1,0 +1,10 @@
+D:\CodeProekts\TechModule2018-Dictionares-Exercise\07.StudentAcademy\bin\Debug\netcoreapp2.0\07.StudentAcademy.deps.json
+D:\CodeProekts\TechModule2018-Dictionares-Exercise\07.StudentAcademy\bin\Debug\netcoreapp2.0\07.StudentAcademy.runtimeconfig.json
+D:\CodeProekts\TechModule2018-Dictionares-Exercise\07.StudentAcademy\bin\Debug\netcoreapp2.0\07.StudentAcademy.runtimeconfig.dev.json
+D:\CodeProekts\TechModule2018-Dictionares-Exercise\07.StudentAcademy\bin\Debug\netcoreapp2.0\07.StudentAcademy.dll
+D:\CodeProekts\TechModule2018-Dictionares-Exercise\07.StudentAcademy\bin\Debug\netcoreapp2.0\07.StudentAcademy.pdb
+D:\CodeProekts\TechModule2018-Dictionares-Exercise\07.StudentAcademy\obj\Debug\netcoreapp2.0\07.StudentAcademy.csproj.CoreCompileInputs.cache
+D:\CodeProekts\TechModule2018-Dictionares-Exercise\07.StudentAcademy\obj\Debug\netcoreapp2.0\07.StudentAcademy.AssemblyInfoInputs.cache
+D:\CodeProekts\TechModule2018-Dictionares-Exercise\07.StudentAcademy\obj\Debug\netcoreapp2.0\07.StudentAcademy.AssemblyInfo.cs
+D:\CodeProekts\TechModule2018-Dictionares-Exercise\07.StudentAcademy\obj\Debug\netcoreapp2.0\07.StudentAcademy.dll
+D:\CodeProekts\TechModule2018-Dictionares-Exercise\07.StudentAcademy\obj\Debug\netcoreapp2.0\07.StudentAcademy.pdb

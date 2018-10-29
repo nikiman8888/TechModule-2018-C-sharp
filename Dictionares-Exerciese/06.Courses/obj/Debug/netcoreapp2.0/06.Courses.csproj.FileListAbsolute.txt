@@ -1,0 +1,10 @@
+D:\CodeProekts\TechModule2018-Dictionares-Exercise\06.Courses\bin\Debug\netcoreapp2.0\06.Courses.deps.json
+D:\CodeProekts\TechModule2018-Dictionares-Exercise\06.Courses\bin\Debug\netcoreapp2.0\06.Courses.runtimeconfig.json
+D:\CodeProekts\TechModule2018-Dictionares-Exercise\06.Courses\bin\Debug\netcoreapp2.0\06.Courses.runtimeconfig.dev.json
+D:\CodeProekts\TechModule2018-Dictionares-Exercise\06.Courses\bin\Debug\netcoreapp2.0\06.Courses.dll
+D:\CodeProekts\TechModule2018-Dictionares-Exercise\06.Courses\bin\Debug\netcoreapp2.0\06.Courses.pdb
+D:\CodeProekts\TechModule2018-Dictionares-Exercise\06.Courses\obj\Debug\netcoreapp2.0\06.Courses.csproj.CoreCompileInputs.cache
+D:\CodeProekts\TechModule2018-Dictionares-Exercise\06.Courses\obj\Debug\netcoreapp2.0\06.Courses.AssemblyInfoInputs.cache
+D:\CodeProekts\TechModule2018-Dictionares-Exercise\06.Courses\obj\Debug\netcoreapp2.0\06.Courses.AssemblyInfo.cs
+D:\CodeProekts\TechModule2018-Dictionares-Exercise\06.Courses\obj\Debug\netcoreapp2.0\06.Courses.dll
+D:\CodeProekts\TechModule2018-Dictionares-Exercise\06.Courses\obj\Debug\netcoreapp2.0\06.Courses.pdb

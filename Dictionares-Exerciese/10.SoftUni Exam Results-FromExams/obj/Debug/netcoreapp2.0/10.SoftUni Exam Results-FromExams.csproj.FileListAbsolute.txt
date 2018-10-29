@@ -1,0 +1,11 @@
+D:\CodeProekts\TechModule2018-Dictionares-Exercise\10.SoftUni Exam Results-FromExams\bin\Debug\netcoreapp2.0\10.SoftUni Exam Results-FromExams.deps.json
+D:\CodeProekts\TechModule2018-Dictionares-Exercise\10.SoftUni Exam Results-FromExams\bin\Debug\netcoreapp2.0\10.SoftUni Exam Results-FromExams.runtimeconfig.json
+D:\CodeProekts\TechModule2018-Dictionares-Exercise\10.SoftUni Exam Results-FromExams\bin\Debug\netcoreapp2.0\10.SoftUni Exam Results-FromExams.runtimeconfig.dev.json
+D:\CodeProekts\TechModule2018-Dictionares-Exercise\10.SoftUni Exam Results-FromExams\bin\Debug\netcoreapp2.0\10.SoftUni Exam Results-FromExams.dll
+D:\CodeProekts\TechModule2018-Dictionares-Exercise\10.SoftUni Exam Results-FromExams\bin\Debug\netcoreapp2.0\10.SoftUni Exam Results-FromExams.pdb
+D:\CodeProekts\TechModule2018-Dictionares-Exercise\10.SoftUni Exam Results-FromExams\obj\Debug\netcoreapp2.0\10.SoftUni Exam Results-FromExams.csprojResolveAssemblyReference.cache
+D:\CodeProekts\TechModule2018-Dictionares-Exercise\10.SoftUni Exam Results-FromExams\obj\Debug\netcoreapp2.0\10.SoftUni Exam Results-FromExams.csproj.CoreCompileInputs.cache
+D:\CodeProekts\TechModule2018-Dictionares-Exercise\10.SoftUni Exam Results-FromExams\obj\Debug\netcoreapp2.0\10.SoftUni Exam Results-FromExams.AssemblyInfoInputs.cache
+D:\CodeProekts\TechModule2018-Dictionares-Exercise\10.SoftUni Exam Results-FromExams\obj\Debug\netcoreapp2.0\10.SoftUni Exam Results-FromExams.AssemblyInfo.cs
+D:\CodeProekts\TechModule2018-Dictionares-Exercise\10.SoftUni Exam Results-FromExams\obj\Debug\netcoreapp2.0\10.SoftUni Exam Results-FromExams.dll
+D:\CodeProekts\TechModule2018-Dictionares-Exercise\10.SoftUni Exam Results-FromExams\obj\Debug\netcoreapp2.0\10.SoftUni Exam Results-FromExams.pdb

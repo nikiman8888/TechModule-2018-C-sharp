@@ -1,0 +1,11 @@
+D:\CodeProekts\TechModule2018-Dictionares-Exercise\09.ForceBook-fromExams\bin\Debug\netcoreapp2.0\09.ForceBook-fromExams.deps.json
+D:\CodeProekts\TechModule2018-Dictionares-Exercise\09.ForceBook-fromExams\bin\Debug\netcoreapp2.0\09.ForceBook-fromExams.runtimeconfig.json
+D:\CodeProekts\TechModule2018-Dictionares-Exercise\09.ForceBook-fromExams\bin\Debug\netcoreapp2.0\09.ForceBook-fromExams.runtimeconfig.dev.json
+D:\CodeProekts\TechModule2018-Dictionares-Exercise\09.ForceBook-fromExams\bin\Debug\netcoreapp2.0\09.ForceBook-fromExams.dll
+D:\CodeProekts\TechModule2018-Dictionares-Exercise\09.ForceBook-fromExams\bin\Debug\netcoreapp2.0\09.ForceBook-fromExams.pdb
+D:\CodeProekts\TechModule2018-Dictionares-Exercise\09.ForceBook-fromExams\obj\Debug\netcoreapp2.0\09.ForceBook-fromExams.csprojResolveAssemblyReference.cache
+D:\CodeProekts\TechModule2018-Dictionares-Exercise\09.ForceBook-fromExams\obj\Debug\netcoreapp2.0\09.ForceBook-fromExams.csproj.CoreCompileInputs.cache
+D:\CodeProekts\TechModule2018-Dictionares-Exercise\09.ForceBook-fromExams\obj\Debug\netcoreapp2.0\09.ForceBook-fromExams.AssemblyInfoInputs.cache
+D:\CodeProekts\TechModule2018-Dictionares-Exercise\09.ForceBook-fromExams\obj\Debug\netcoreapp2.0\09.ForceBook-fromExams.AssemblyInfo.cs
+D:\CodeProekts\TechModule2018-Dictionares-Exercise\09.ForceBook-fromExams\obj\Debug\netcoreapp2.0\09.ForceBook-fromExams.dll
+D:\CodeProekts\TechModule2018-Dictionares-Exercise\09.ForceBook-fromExams\obj\Debug\netcoreapp2.0\09.ForceBook-fromExams.pdb
