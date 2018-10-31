@@ -1,0 +1,11 @@
+D:\CodeProekts\TechModule2018-Dictionares-MoreExercise\05.DragonArmy\bin\Debug\netcoreapp2.0\05.DragonArmy.deps.json
+D:\CodeProekts\TechModule2018-Dictionares-MoreExercise\05.DragonArmy\bin\Debug\netcoreapp2.0\05.DragonArmy.runtimeconfig.json
+D:\CodeProekts\TechModule2018-Dictionares-MoreExercise\05.DragonArmy\bin\Debug\netcoreapp2.0\05.DragonArmy.runtimeconfig.dev.json
+D:\CodeProekts\TechModule2018-Dictionares-MoreExercise\05.DragonArmy\bin\Debug\netcoreapp2.0\05.DragonArmy.dll
+D:\CodeProekts\TechModule2018-Dictionares-MoreExercise\05.DragonArmy\bin\Debug\netcoreapp2.0\05.DragonArmy.pdb
+D:\CodeProekts\TechModule2018-Dictionares-MoreExercise\05.DragonArmy\obj\Debug\netcoreapp2.0\05.DragonArmy.csprojResolveAssemblyReference.cache
+D:\CodeProekts\TechModule2018-Dictionares-MoreExercise\05.DragonArmy\obj\Debug\netcoreapp2.0\05.DragonArmy.csproj.CoreCompileInputs.cache
+D:\CodeProekts\TechModule2018-Dictionares-MoreExercise\05.DragonArmy\obj\Debug\netcoreapp2.0\05.DragonArmy.AssemblyInfoInputs.cache
+D:\CodeProekts\TechModule2018-Dictionares-MoreExercise\05.DragonArmy\obj\Debug\netcoreapp2.0\05.DragonArmy.AssemblyInfo.cs
+D:\CodeProekts\TechModule2018-Dictionares-MoreExercise\05.DragonArmy\obj\Debug\netcoreapp2.0\05.DragonArmy.dll
+D:\CodeProekts\TechModule2018-Dictionares-MoreExercise\05.DragonArmy\obj\Debug\netcoreapp2.0\05.DragonArmy.pdb

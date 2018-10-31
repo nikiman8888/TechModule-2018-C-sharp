@@ -1,0 +1,11 @@
+D:\CodeProekts\TechModule2018-Dictionares-MoreExercise\03.MOBA-Challenger\bin\Debug\netcoreapp2.0\03.MOBA-Challenger.deps.json
+D:\CodeProekts\TechModule2018-Dictionares-MoreExercise\03.MOBA-Challenger\bin\Debug\netcoreapp2.0\03.MOBA-Challenger.runtimeconfig.json
+D:\CodeProekts\TechModule2018-Dictionares-MoreExercise\03.MOBA-Challenger\bin\Debug\netcoreapp2.0\03.MOBA-Challenger.runtimeconfig.dev.json
+D:\CodeProekts\TechModule2018-Dictionares-MoreExercise\03.MOBA-Challenger\bin\Debug\netcoreapp2.0\03.MOBA-Challenger.dll
+D:\CodeProekts\TechModule2018-Dictionares-MoreExercise\03.MOBA-Challenger\bin\Debug\netcoreapp2.0\03.MOBA-Challenger.pdb
+D:\CodeProekts\TechModule2018-Dictionares-MoreExercise\03.MOBA-Challenger\obj\Debug\netcoreapp2.0\03.MOBA-Challenger.csprojResolveAssemblyReference.cache
+D:\CodeProekts\TechModule2018-Dictionares-MoreExercise\03.MOBA-Challenger\obj\Debug\netcoreapp2.0\03.MOBA-Challenger.csproj.CoreCompileInputs.cache
+D:\CodeProekts\TechModule2018-Dictionares-MoreExercise\03.MOBA-Challenger\obj\Debug\netcoreapp2.0\03.MOBA-Challenger.AssemblyInfoInputs.cache
+D:\CodeProekts\TechModule2018-Dictionares-MoreExercise\03.MOBA-Challenger\obj\Debug\netcoreapp2.0\03.MOBA-Challenger.AssemblyInfo.cs
+D:\CodeProekts\TechModule2018-Dictionares-MoreExercise\03.MOBA-Challenger\obj\Debug\netcoreapp2.0\03.MOBA-Challenger.dll
+D:\CodeProekts\TechModule2018-Dictionares-MoreExercise\03.MOBA-Challenger\obj\Debug\netcoreapp2.0\03.MOBA-Challenger.pdb

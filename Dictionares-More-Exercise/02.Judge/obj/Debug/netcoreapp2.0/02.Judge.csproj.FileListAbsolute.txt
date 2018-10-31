@@ -1,0 +1,11 @@
+D:\CodeProekts\TechModule2018-Dictionares-MoreExercise\02.Judge\bin\Debug\netcoreapp2.0\02.Judge.deps.json
+D:\CodeProekts\TechModule2018-Dictionares-MoreExercise\02.Judge\bin\Debug\netcoreapp2.0\02.Judge.runtimeconfig.json
+D:\CodeProekts\TechModule2018-Dictionares-MoreExercise\02.Judge\bin\Debug\netcoreapp2.0\02.Judge.runtimeconfig.dev.json
+D:\CodeProekts\TechModule2018-Dictionares-MoreExercise\02.Judge\bin\Debug\netcoreapp2.0\02.Judge.dll
+D:\CodeProekts\TechModule2018-Dictionares-MoreExercise\02.Judge\bin\Debug\netcoreapp2.0\02.Judge.pdb
+D:\CodeProekts\TechModule2018-Dictionares-MoreExercise\02.Judge\obj\Debug\netcoreapp2.0\02.Judge.csprojResolveAssemblyReference.cache
+D:\CodeProekts\TechModule2018-Dictionares-MoreExercise\02.Judge\obj\Debug\netcoreapp2.0\02.Judge.csproj.CoreCompileInputs.cache
+D:\CodeProekts\TechModule2018-Dictionares-MoreExercise\02.Judge\obj\Debug\netcoreapp2.0\02.Judge.AssemblyInfoInputs.cache
+D:\CodeProekts\TechModule2018-Dictionares-MoreExercise\02.Judge\obj\Debug\netcoreapp2.0\02.Judge.AssemblyInfo.cs
+D:\CodeProekts\TechModule2018-Dictionares-MoreExercise\02.Judge\obj\Debug\netcoreapp2.0\02.Judge.dll
+D:\CodeProekts\TechModule2018-Dictionares-MoreExercise\02.Judge\obj\Debug\netcoreapp2.0\02.Judge.pdb

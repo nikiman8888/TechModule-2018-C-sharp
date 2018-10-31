@@ -1,0 +1,11 @@
+D:\CodeProekts\TechModule2018-Dictionares-MoreExercise\01.Ranking\bin\Debug\netcoreapp2.0\01.Ranking.deps.json
+D:\CodeProekts\TechModule2018-Dictionares-MoreExercise\01.Ranking\bin\Debug\netcoreapp2.0\01.Ranking.runtimeconfig.json
+D:\CodeProekts\TechModule2018-Dictionares-MoreExercise\01.Ranking\bin\Debug\netcoreapp2.0\01.Ranking.runtimeconfig.dev.json
+D:\CodeProekts\TechModule2018-Dictionares-MoreExercise\01.Ranking\bin\Debug\netcoreapp2.0\01.Ranking.dll
+D:\CodeProekts\TechModule2018-Dictionares-MoreExercise\01.Ranking\bin\Debug\netcoreapp2.0\01.Ranking.pdb
+D:\CodeProekts\TechModule2018-Dictionares-MoreExercise\01.Ranking\obj\Debug\netcoreapp2.0\01.Ranking.csprojResolveAssemblyReference.cache
+D:\CodeProekts\TechModule2018-Dictionares-MoreExercise\01.Ranking\obj\Debug\netcoreapp2.0\01.Ranking.csproj.CoreCompileInputs.cache
+D:\CodeProekts\TechModule2018-Dictionares-MoreExercise\01.Ranking\obj\Debug\netcoreapp2.0\01.Ranking.AssemblyInfoInputs.cache
+D:\CodeProekts\TechModule2018-Dictionares-MoreExercise\01.Ranking\obj\Debug\netcoreapp2.0\01.Ranking.AssemblyInfo.cs
+D:\CodeProekts\TechModule2018-Dictionares-MoreExercise\01.Ranking\obj\Debug\netcoreapp2.0\01.Ranking.dll
+D:\CodeProekts\TechModule2018-Dictionares-MoreExercise\01.Ranking\obj\Debug\netcoreapp2.0\01.Ranking.pdb
