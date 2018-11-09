@@ -1,0 +1,11 @@
+D:\CodeProekts\TechModule2018-ObjectClasses-Exercises\04.Students\bin\Debug\netcoreapp2.0\04.Students.deps.json
+D:\CodeProekts\TechModule2018-ObjectClasses-Exercises\04.Students\bin\Debug\netcoreapp2.0\04.Students.runtimeconfig.json
+D:\CodeProekts\TechModule2018-ObjectClasses-Exercises\04.Students\bin\Debug\netcoreapp2.0\04.Students.runtimeconfig.dev.json
+D:\CodeProekts\TechModule2018-ObjectClasses-Exercises\04.Students\bin\Debug\netcoreapp2.0\04.Students.dll
+D:\CodeProekts\TechModule2018-ObjectClasses-Exercises\04.Students\bin\Debug\netcoreapp2.0\04.Students.pdb
+D:\CodeProekts\TechModule2018-ObjectClasses-Exercises\04.Students\obj\Debug\netcoreapp2.0\04.Students.csprojResolveAssemblyReference.cache
+D:\CodeProekts\TechModule2018-ObjectClasses-Exercises\04.Students\obj\Debug\netcoreapp2.0\04.Students.csproj.CoreCompileInputs.cache
+D:\CodeProekts\TechModule2018-ObjectClasses-Exercises\04.Students\obj\Debug\netcoreapp2.0\04.Students.AssemblyInfoInputs.cache
+D:\CodeProekts\TechModule2018-ObjectClasses-Exercises\04.Students\obj\Debug\netcoreapp2.0\04.Students.AssemblyInfo.cs
+D:\CodeProekts\TechModule2018-ObjectClasses-Exercises\04.Students\obj\Debug\netcoreapp2.0\04.Students.dll
+D:\CodeProekts\TechModule2018-ObjectClasses-Exercises\04.Students\obj\Debug\netcoreapp2.0\04.Students.pdb
