@@ -1,0 +1,10 @@
+D:\CodeProekts\TechModule2018-ObjectClasses-Lab\04.Songs\bin\Debug\netcoreapp2.0\04.Songs.deps.json
+D:\CodeProekts\TechModule2018-ObjectClasses-Lab\04.Songs\bin\Debug\netcoreapp2.0\04.Songs.runtimeconfig.json
+D:\CodeProekts\TechModule2018-ObjectClasses-Lab\04.Songs\bin\Debug\netcoreapp2.0\04.Songs.runtimeconfig.dev.json
+D:\CodeProekts\TechModule2018-ObjectClasses-Lab\04.Songs\bin\Debug\netcoreapp2.0\04.Songs.dll
+D:\CodeProekts\TechModule2018-ObjectClasses-Lab\04.Songs\bin\Debug\netcoreapp2.0\04.Songs.pdb
+D:\CodeProekts\TechModule2018-ObjectClasses-Lab\04.Songs\obj\Debug\netcoreapp2.0\04.Songs.csproj.CoreCompileInputs.cache
+D:\CodeProekts\TechModule2018-ObjectClasses-Lab\04.Songs\obj\Debug\netcoreapp2.0\04.Songs.AssemblyInfoInputs.cache
+D:\CodeProekts\TechModule2018-ObjectClasses-Lab\04.Songs\obj\Debug\netcoreapp2.0\04.Songs.AssemblyInfo.cs
+D:\CodeProekts\TechModule2018-ObjectClasses-Lab\04.Songs\obj\Debug\netcoreapp2.0\04.Songs.dll
+D:\CodeProekts\TechModule2018-ObjectClasses-Lab\04.Songs\obj\Debug\netcoreapp2.0\04.Songs.pdb

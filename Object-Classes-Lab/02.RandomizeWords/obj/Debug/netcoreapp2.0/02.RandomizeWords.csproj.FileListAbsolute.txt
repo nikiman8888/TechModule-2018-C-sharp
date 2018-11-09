@@ -1,0 +1,10 @@
+D:\CodeProekts\TechModule2018-ObjectClasses-Lab\02.RandomizeWords\bin\Debug\netcoreapp2.0\02.RandomizeWords.deps.json
+D:\CodeProekts\TechModule2018-ObjectClasses-Lab\02.RandomizeWords\bin\Debug\netcoreapp2.0\02.RandomizeWords.runtimeconfig.json
+D:\CodeProekts\TechModule2018-ObjectClasses-Lab\02.RandomizeWords\bin\Debug\netcoreapp2.0\02.RandomizeWords.runtimeconfig.dev.json
+D:\CodeProekts\TechModule2018-ObjectClasses-Lab\02.RandomizeWords\bin\Debug\netcoreapp2.0\02.RandomizeWords.dll
+D:\CodeProekts\TechModule2018-ObjectClasses-Lab\02.RandomizeWords\bin\Debug\netcoreapp2.0\02.RandomizeWords.pdb
+D:\CodeProekts\TechModule2018-ObjectClasses-Lab\02.RandomizeWords\obj\Debug\netcoreapp2.0\02.RandomizeWords.csproj.CoreCompileInputs.cache
+D:\CodeProekts\TechModule2018-ObjectClasses-Lab\02.RandomizeWords\obj\Debug\netcoreapp2.0\02.RandomizeWords.AssemblyInfoInputs.cache
+D:\CodeProekts\TechModule2018-ObjectClasses-Lab\02.RandomizeWords\obj\Debug\netcoreapp2.0\02.RandomizeWords.AssemblyInfo.cs
+D:\CodeProekts\TechModule2018-ObjectClasses-Lab\02.RandomizeWords\obj\Debug\netcoreapp2.0\02.RandomizeWords.dll
+D:\CodeProekts\TechModule2018-ObjectClasses-Lab\02.RandomizeWords\obj\Debug\netcoreapp2.0\02.RandomizeWords.pdb

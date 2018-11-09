@@ -1,0 +1,10 @@
+D:\CodeProekts\TechModule2018-ObjectClasses-Lab\03.BigFactorial\bin\Debug\netcoreapp2.0\03.BigFactorial.deps.json
+D:\CodeProekts\TechModule2018-ObjectClasses-Lab\03.BigFactorial\bin\Debug\netcoreapp2.0\03.BigFactorial.runtimeconfig.json
+D:\CodeProekts\TechModule2018-ObjectClasses-Lab\03.BigFactorial\bin\Debug\netcoreapp2.0\03.BigFactorial.runtimeconfig.dev.json
+D:\CodeProekts\TechModule2018-ObjectClasses-Lab\03.BigFactorial\bin\Debug\netcoreapp2.0\03.BigFactorial.dll
+D:\CodeProekts\TechModule2018-ObjectClasses-Lab\03.BigFactorial\bin\Debug\netcoreapp2.0\03.BigFactorial.pdb
+D:\CodeProekts\TechModule2018-ObjectClasses-Lab\03.BigFactorial\obj\Debug\netcoreapp2.0\03.BigFactorial.csproj.CoreCompileInputs.cache
+D:\CodeProekts\TechModule2018-ObjectClasses-Lab\03.BigFactorial\obj\Debug\netcoreapp2.0\03.BigFactorial.AssemblyInfoInputs.cache
+D:\CodeProekts\TechModule2018-ObjectClasses-Lab\03.BigFactorial\obj\Debug\netcoreapp2.0\03.BigFactorial.AssemblyInfo.cs
+D:\CodeProekts\TechModule2018-ObjectClasses-Lab\03.BigFactorial\obj\Debug\netcoreapp2.0\03.BigFactorial.dll
+D:\CodeProekts\TechModule2018-ObjectClasses-Lab\03.BigFactorial\obj\Debug\netcoreapp2.0\03.BigFactorial.pdb

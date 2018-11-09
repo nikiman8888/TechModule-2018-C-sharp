@@ -1,0 +1,11 @@
+D:\CodeProekts\TechModule2018-ObjectClasses-Lab\01.DayWeek\bin\Debug\netcoreapp2.0\01.DayWeek.deps.json
+D:\CodeProekts\TechModule2018-ObjectClasses-Lab\01.DayWeek\bin\Debug\netcoreapp2.0\01.DayWeek.runtimeconfig.json
+D:\CodeProekts\TechModule2018-ObjectClasses-Lab\01.DayWeek\bin\Debug\netcoreapp2.0\01.DayWeek.runtimeconfig.dev.json
+D:\CodeProekts\TechModule2018-ObjectClasses-Lab\01.DayWeek\bin\Debug\netcoreapp2.0\01.DayWeek.dll
+D:\CodeProekts\TechModule2018-ObjectClasses-Lab\01.DayWeek\bin\Debug\netcoreapp2.0\01.DayWeek.pdb
+D:\CodeProekts\TechModule2018-ObjectClasses-Lab\01.DayWeek\obj\Debug\netcoreapp2.0\01.DayWeek.csprojResolveAssemblyReference.cache
+D:\CodeProekts\TechModule2018-ObjectClasses-Lab\01.DayWeek\obj\Debug\netcoreapp2.0\01.DayWeek.csproj.CoreCompileInputs.cache
+D:\CodeProekts\TechModule2018-ObjectClasses-Lab\01.DayWeek\obj\Debug\netcoreapp2.0\01.DayWeek.AssemblyInfoInputs.cache
+D:\CodeProekts\TechModule2018-ObjectClasses-Lab\01.DayWeek\obj\Debug\netcoreapp2.0\01.DayWeek.AssemblyInfo.cs
+D:\CodeProekts\TechModule2018-ObjectClasses-Lab\01.DayWeek\obj\Debug\netcoreapp2.0\01.DayWeek.dll
+D:\CodeProekts\TechModule2018-ObjectClasses-Lab\01.DayWeek\obj\Debug\netcoreapp2.0\01.DayWeek.pdb
