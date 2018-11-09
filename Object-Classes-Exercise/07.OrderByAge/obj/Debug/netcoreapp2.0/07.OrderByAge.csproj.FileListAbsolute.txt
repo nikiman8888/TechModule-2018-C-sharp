@@ -1,0 +1,10 @@
+D:\CodeProekts\TechModule2018-ObjectClasses-Exercises\07.OrderByAge\bin\Debug\netcoreapp2.0\07.OrderByAge.deps.json
+D:\CodeProekts\TechModule2018-ObjectClasses-Exercises\07.OrderByAge\bin\Debug\netcoreapp2.0\07.OrderByAge.runtimeconfig.json
+D:\CodeProekts\TechModule2018-ObjectClasses-Exercises\07.OrderByAge\bin\Debug\netcoreapp2.0\07.OrderByAge.runtimeconfig.dev.json
+D:\CodeProekts\TechModule2018-ObjectClasses-Exercises\07.OrderByAge\bin\Debug\netcoreapp2.0\07.OrderByAge.dll
+D:\CodeProekts\TechModule2018-ObjectClasses-Exercises\07.OrderByAge\bin\Debug\netcoreapp2.0\07.OrderByAge.pdb
+D:\CodeProekts\TechModule2018-ObjectClasses-Exercises\07.OrderByAge\obj\Debug\netcoreapp2.0\07.OrderByAge.csproj.CoreCompileInputs.cache
+D:\CodeProekts\TechModule2018-ObjectClasses-Exercises\07.OrderByAge\obj\Debug\netcoreapp2.0\07.OrderByAge.AssemblyInfoInputs.cache
+D:\CodeProekts\TechModule2018-ObjectClasses-Exercises\07.OrderByAge\obj\Debug\netcoreapp2.0\07.OrderByAge.AssemblyInfo.cs
+D:\CodeProekts\TechModule2018-ObjectClasses-Exercises\07.OrderByAge\obj\Debug\netcoreapp2.0\07.OrderByAge.dll
+D:\CodeProekts\TechModule2018-ObjectClasses-Exercises\07.OrderByAge\obj\Debug\netcoreapp2.0\07.OrderByAge.pdb

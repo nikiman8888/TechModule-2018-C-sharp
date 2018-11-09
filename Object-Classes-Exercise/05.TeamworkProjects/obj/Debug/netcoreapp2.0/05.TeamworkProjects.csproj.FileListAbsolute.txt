@@ -1,0 +1,11 @@
+D:\CodeProekts\TechModule2018-ObjectClasses-Exercises\05.TeamworkProjects\bin\Debug\netcoreapp2.0\05.TeamworkProjects.deps.json
+D:\CodeProekts\TechModule2018-ObjectClasses-Exercises\05.TeamworkProjects\bin\Debug\netcoreapp2.0\05.TeamworkProjects.runtimeconfig.json
+D:\CodeProekts\TechModule2018-ObjectClasses-Exercises\05.TeamworkProjects\bin\Debug\netcoreapp2.0\05.TeamworkProjects.runtimeconfig.dev.json
+D:\CodeProekts\TechModule2018-ObjectClasses-Exercises\05.TeamworkProjects\bin\Debug\netcoreapp2.0\05.TeamworkProjects.dll
+D:\CodeProekts\TechModule2018-ObjectClasses-Exercises\05.TeamworkProjects\bin\Debug\netcoreapp2.0\05.TeamworkProjects.pdb
+D:\CodeProekts\TechModule2018-ObjectClasses-Exercises\05.TeamworkProjects\obj\Debug\netcoreapp2.0\05.TeamworkProjects.csprojResolveAssemblyReference.cache
+D:\CodeProekts\TechModule2018-ObjectClasses-Exercises\05.TeamworkProjects\obj\Debug\netcoreapp2.0\05.TeamworkProjects.csproj.CoreCompileInputs.cache
+D:\CodeProekts\TechModule2018-ObjectClasses-Exercises\05.TeamworkProjects\obj\Debug\netcoreapp2.0\05.TeamworkProjects.AssemblyInfoInputs.cache
+D:\CodeProekts\TechModule2018-ObjectClasses-Exercises\05.TeamworkProjects\obj\Debug\netcoreapp2.0\05.TeamworkProjects.AssemblyInfo.cs
+D:\CodeProekts\TechModule2018-ObjectClasses-Exercises\05.TeamworkProjects\obj\Debug\netcoreapp2.0\05.TeamworkProjects.dll
+D:\CodeProekts\TechModule2018-ObjectClasses-Exercises\05.TeamworkProjects\obj\Debug\netcoreapp2.0\05.TeamworkProjects.pdb

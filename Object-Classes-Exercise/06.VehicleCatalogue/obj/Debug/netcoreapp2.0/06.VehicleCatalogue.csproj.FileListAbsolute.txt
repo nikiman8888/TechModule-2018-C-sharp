@@ -1,0 +1,11 @@
+D:\CodeProekts\TechModule2018-ObjectClasses-Exercises\06.VehicleCatalogue\obj\Debug\netcoreapp2.0\06.VehicleCatalogue.csprojResolveAssemblyReference.cache
+D:\CodeProekts\TechModule2018-ObjectClasses-Exercises\06.VehicleCatalogue\obj\Debug\netcoreapp2.0\06.VehicleCatalogue.csproj.CoreCompileInputs.cache
+D:\CodeProekts\TechModule2018-ObjectClasses-Exercises\06.VehicleCatalogue\obj\Debug\netcoreapp2.0\06.VehicleCatalogue.AssemblyInfoInputs.cache
+D:\CodeProekts\TechModule2018-ObjectClasses-Exercises\06.VehicleCatalogue\obj\Debug\netcoreapp2.0\06.VehicleCatalogue.AssemblyInfo.cs
+D:\CodeProekts\TechModule2018-ObjectClasses-Exercises\06.VehicleCatalogue\bin\Debug\netcoreapp2.0\06.VehicleCatalogue.deps.json
+D:\CodeProekts\TechModule2018-ObjectClasses-Exercises\06.VehicleCatalogue\bin\Debug\netcoreapp2.0\06.VehicleCatalogue.runtimeconfig.json
+D:\CodeProekts\TechModule2018-ObjectClasses-Exercises\06.VehicleCatalogue\bin\Debug\netcoreapp2.0\06.VehicleCatalogue.runtimeconfig.dev.json
+D:\CodeProekts\TechModule2018-ObjectClasses-Exercises\06.VehicleCatalogue\bin\Debug\netcoreapp2.0\06.VehicleCatalogue.dll
+D:\CodeProekts\TechModule2018-ObjectClasses-Exercises\06.VehicleCatalogue\bin\Debug\netcoreapp2.0\06.VehicleCatalogue.pdb
+D:\CodeProekts\TechModule2018-ObjectClasses-Exercises\06.VehicleCatalogue\obj\Debug\netcoreapp2.0\06.VehicleCatalogue.dll
+D:\CodeProekts\TechModule2018-ObjectClasses-Exercises\06.VehicleCatalogue\obj\Debug\netcoreapp2.0\06.VehicleCatalogue.pdb
