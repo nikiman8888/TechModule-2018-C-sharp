@@ -1,0 +1,10 @@
+D:\CodeProekts\TechModule2018-ObjectClasses-Lab\06.Students-2-0\bin\Debug\netcoreapp2.0\06.Students-2-0.deps.json
+D:\CodeProekts\TechModule2018-ObjectClasses-Lab\06.Students-2-0\bin\Debug\netcoreapp2.0\06.Students-2-0.runtimeconfig.json
+D:\CodeProekts\TechModule2018-ObjectClasses-Lab\06.Students-2-0\bin\Debug\netcoreapp2.0\06.Students-2-0.runtimeconfig.dev.json
+D:\CodeProekts\TechModule2018-ObjectClasses-Lab\06.Students-2-0\bin\Debug\netcoreapp2.0\06.Students-2-0.dll
+D:\CodeProekts\TechModule2018-ObjectClasses-Lab\06.Students-2-0\bin\Debug\netcoreapp2.0\06.Students-2-0.pdb
+D:\CodeProekts\TechModule2018-ObjectClasses-Lab\06.Students-2-0\obj\Debug\netcoreapp2.0\06.Students-2-0.csproj.CoreCompileInputs.cache
+D:\CodeProekts\TechModule2018-ObjectClasses-Lab\06.Students-2-0\obj\Debug\netcoreapp2.0\06.Students-2-0.AssemblyInfoInputs.cache
+D:\CodeProekts\TechModule2018-ObjectClasses-Lab\06.Students-2-0\obj\Debug\netcoreapp2.0\06.Students-2-0.AssemblyInfo.cs
+D:\CodeProekts\TechModule2018-ObjectClasses-Lab\06.Students-2-0\obj\Debug\netcoreapp2.0\06.Students-2-0.dll
+D:\CodeProekts\TechModule2018-ObjectClasses-Lab\06.Students-2-0\obj\Debug\netcoreapp2.0\06.Students-2-0.pdb

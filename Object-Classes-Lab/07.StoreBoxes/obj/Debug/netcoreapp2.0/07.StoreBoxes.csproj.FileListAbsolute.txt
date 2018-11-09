@@ -1,0 +1,11 @@
+D:\CodeProekts\TechModule2018-ObjectClasses-Lab\07.StoreBoxes\bin\Debug\netcoreapp2.0\07.StoreBoxes.deps.json
+D:\CodeProekts\TechModule2018-ObjectClasses-Lab\07.StoreBoxes\bin\Debug\netcoreapp2.0\07.StoreBoxes.runtimeconfig.json
+D:\CodeProekts\TechModule2018-ObjectClasses-Lab\07.StoreBoxes\bin\Debug\netcoreapp2.0\07.StoreBoxes.runtimeconfig.dev.json
+D:\CodeProekts\TechModule2018-ObjectClasses-Lab\07.StoreBoxes\bin\Debug\netcoreapp2.0\07.StoreBoxes.dll
+D:\CodeProekts\TechModule2018-ObjectClasses-Lab\07.StoreBoxes\bin\Debug\netcoreapp2.0\07.StoreBoxes.pdb
+D:\CodeProekts\TechModule2018-ObjectClasses-Lab\07.StoreBoxes\obj\Debug\netcoreapp2.0\07.StoreBoxes.csprojResolveAssemblyReference.cache
+D:\CodeProekts\TechModule2018-ObjectClasses-Lab\07.StoreBoxes\obj\Debug\netcoreapp2.0\07.StoreBoxes.csproj.CoreCompileInputs.cache
+D:\CodeProekts\TechModule2018-ObjectClasses-Lab\07.StoreBoxes\obj\Debug\netcoreapp2.0\07.StoreBoxes.AssemblyInfoInputs.cache
+D:\CodeProekts\TechModule2018-ObjectClasses-Lab\07.StoreBoxes\obj\Debug\netcoreapp2.0\07.StoreBoxes.AssemblyInfo.cs
+D:\CodeProekts\TechModule2018-ObjectClasses-Lab\07.StoreBoxes\obj\Debug\netcoreapp2.0\07.StoreBoxes.dll
+D:\CodeProekts\TechModule2018-ObjectClasses-Lab\07.StoreBoxes\obj\Debug\netcoreapp2.0\07.StoreBoxes.pdb
