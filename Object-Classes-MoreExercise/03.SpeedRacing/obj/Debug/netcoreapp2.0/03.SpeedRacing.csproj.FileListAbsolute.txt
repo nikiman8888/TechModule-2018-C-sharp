@@ -1,0 +1,11 @@
+D:\CodeProekts\TechModule2018-More-Exercise\03.SpeedRacing\bin\Debug\netcoreapp2.0\03.SpeedRacing.deps.json
+D:\CodeProekts\TechModule2018-More-Exercise\03.SpeedRacing\bin\Debug\netcoreapp2.0\03.SpeedRacing.runtimeconfig.json
+D:\CodeProekts\TechModule2018-More-Exercise\03.SpeedRacing\bin\Debug\netcoreapp2.0\03.SpeedRacing.runtimeconfig.dev.json
+D:\CodeProekts\TechModule2018-More-Exercise\03.SpeedRacing\bin\Debug\netcoreapp2.0\03.SpeedRacing.dll
+D:\CodeProekts\TechModule2018-More-Exercise\03.SpeedRacing\bin\Debug\netcoreapp2.0\03.SpeedRacing.pdb
+D:\CodeProekts\TechModule2018-More-Exercise\03.SpeedRacing\obj\Debug\netcoreapp2.0\03.SpeedRacing.csprojResolveAssemblyReference.cache
+D:\CodeProekts\TechModule2018-More-Exercise\03.SpeedRacing\obj\Debug\netcoreapp2.0\03.SpeedRacing.csproj.CoreCompileInputs.cache
+D:\CodeProekts\TechModule2018-More-Exercise\03.SpeedRacing\obj\Debug\netcoreapp2.0\03.SpeedRacing.AssemblyInfoInputs.cache
+D:\CodeProekts\TechModule2018-More-Exercise\03.SpeedRacing\obj\Debug\netcoreapp2.0\03.SpeedRacing.AssemblyInfo.cs
+D:\CodeProekts\TechModule2018-More-Exercise\03.SpeedRacing\obj\Debug\netcoreapp2.0\03.SpeedRacing.dll
+D:\CodeProekts\TechModule2018-More-Exercise\03.SpeedRacing\obj\Debug\netcoreapp2.0\03.SpeedRacing.pdb

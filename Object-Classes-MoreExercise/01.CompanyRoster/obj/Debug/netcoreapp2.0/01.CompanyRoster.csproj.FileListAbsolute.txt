@@ -1,0 +1,11 @@
+D:\CodeProekts\TechModule2018-More-Exercise\01.CompanyRoster\bin\Debug\netcoreapp2.0\01.CompanyRoster.deps.json
+D:\CodeProekts\TechModule2018-More-Exercise\01.CompanyRoster\bin\Debug\netcoreapp2.0\01.CompanyRoster.runtimeconfig.json
+D:\CodeProekts\TechModule2018-More-Exercise\01.CompanyRoster\bin\Debug\netcoreapp2.0\01.CompanyRoster.runtimeconfig.dev.json
+D:\CodeProekts\TechModule2018-More-Exercise\01.CompanyRoster\bin\Debug\netcoreapp2.0\01.CompanyRoster.dll
+D:\CodeProekts\TechModule2018-More-Exercise\01.CompanyRoster\bin\Debug\netcoreapp2.0\01.CompanyRoster.pdb
+D:\CodeProekts\TechModule2018-More-Exercise\01.CompanyRoster\obj\Debug\netcoreapp2.0\01.CompanyRoster.csprojResolveAssemblyReference.cache
+D:\CodeProekts\TechModule2018-More-Exercise\01.CompanyRoster\obj\Debug\netcoreapp2.0\01.CompanyRoster.csproj.CoreCompileInputs.cache
+D:\CodeProekts\TechModule2018-More-Exercise\01.CompanyRoster\obj\Debug\netcoreapp2.0\01.CompanyRoster.AssemblyInfoInputs.cache
+D:\CodeProekts\TechModule2018-More-Exercise\01.CompanyRoster\obj\Debug\netcoreapp2.0\01.CompanyRoster.AssemblyInfo.cs
+D:\CodeProekts\TechModule2018-More-Exercise\01.CompanyRoster\obj\Debug\netcoreapp2.0\01.CompanyRoster.dll
+D:\CodeProekts\TechModule2018-More-Exercise\01.CompanyRoster\obj\Debug\netcoreapp2.0\01.CompanyRoster.pdb
