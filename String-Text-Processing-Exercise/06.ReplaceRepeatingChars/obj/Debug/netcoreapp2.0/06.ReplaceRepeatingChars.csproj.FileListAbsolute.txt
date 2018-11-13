@@ -1,0 +1,10 @@
+D:\CodeProekts\TechModule2018-StringsTextProcessing-Exercise\06.ReplaceRepeatingChars\bin\Debug\netcoreapp2.0\06.ReplaceRepeatingChars.deps.json
+D:\CodeProekts\TechModule2018-StringsTextProcessing-Exercise\06.ReplaceRepeatingChars\bin\Debug\netcoreapp2.0\06.ReplaceRepeatingChars.runtimeconfig.json
+D:\CodeProekts\TechModule2018-StringsTextProcessing-Exercise\06.ReplaceRepeatingChars\bin\Debug\netcoreapp2.0\06.ReplaceRepeatingChars.runtimeconfig.dev.json
+D:\CodeProekts\TechModule2018-StringsTextProcessing-Exercise\06.ReplaceRepeatingChars\bin\Debug\netcoreapp2.0\06.ReplaceRepeatingChars.dll
+D:\CodeProekts\TechModule2018-StringsTextProcessing-Exercise\06.ReplaceRepeatingChars\bin\Debug\netcoreapp2.0\06.ReplaceRepeatingChars.pdb
+D:\CodeProekts\TechModule2018-StringsTextProcessing-Exercise\06.ReplaceRepeatingChars\obj\Debug\netcoreapp2.0\06.ReplaceRepeatingChars.csproj.CoreCompileInputs.cache
+D:\CodeProekts\TechModule2018-StringsTextProcessing-Exercise\06.ReplaceRepeatingChars\obj\Debug\netcoreapp2.0\06.ReplaceRepeatingChars.AssemblyInfoInputs.cache
+D:\CodeProekts\TechModule2018-StringsTextProcessing-Exercise\06.ReplaceRepeatingChars\obj\Debug\netcoreapp2.0\06.ReplaceRepeatingChars.AssemblyInfo.cs
+D:\CodeProekts\TechModule2018-StringsTextProcessing-Exercise\06.ReplaceRepeatingChars\obj\Debug\netcoreapp2.0\06.ReplaceRepeatingChars.dll
+D:\CodeProekts\TechModule2018-StringsTextProcessing-Exercise\06.ReplaceRepeatingChars\obj\Debug\netcoreapp2.0\06.ReplaceRepeatingChars.pdb

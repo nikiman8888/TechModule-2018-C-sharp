@@ -1,0 +1,11 @@
+D:\CodeProekts\TechModule2018-StringsTextProcessing-Exercise\08.LettersChangeNumbers\bin\Debug\netcoreapp2.0\08.LettersChangeNumbers.deps.json
+D:\CodeProekts\TechModule2018-StringsTextProcessing-Exercise\08.LettersChangeNumbers\bin\Debug\netcoreapp2.0\08.LettersChangeNumbers.runtimeconfig.json
+D:\CodeProekts\TechModule2018-StringsTextProcessing-Exercise\08.LettersChangeNumbers\bin\Debug\netcoreapp2.0\08.LettersChangeNumbers.runtimeconfig.dev.json
+D:\CodeProekts\TechModule2018-StringsTextProcessing-Exercise\08.LettersChangeNumbers\bin\Debug\netcoreapp2.0\08.LettersChangeNumbers.dll
+D:\CodeProekts\TechModule2018-StringsTextProcessing-Exercise\08.LettersChangeNumbers\bin\Debug\netcoreapp2.0\08.LettersChangeNumbers.pdb
+D:\CodeProekts\TechModule2018-StringsTextProcessing-Exercise\08.LettersChangeNumbers\obj\Debug\netcoreapp2.0\08.LettersChangeNumbers.csprojResolveAssemblyReference.cache
+D:\CodeProekts\TechModule2018-StringsTextProcessing-Exercise\08.LettersChangeNumbers\obj\Debug\netcoreapp2.0\08.LettersChangeNumbers.csproj.CoreCompileInputs.cache
+D:\CodeProekts\TechModule2018-StringsTextProcessing-Exercise\08.LettersChangeNumbers\obj\Debug\netcoreapp2.0\08.LettersChangeNumbers.AssemblyInfoInputs.cache
+D:\CodeProekts\TechModule2018-StringsTextProcessing-Exercise\08.LettersChangeNumbers\obj\Debug\netcoreapp2.0\08.LettersChangeNumbers.AssemblyInfo.cs
+D:\CodeProekts\TechModule2018-StringsTextProcessing-Exercise\08.LettersChangeNumbers\obj\Debug\netcoreapp2.0\08.LettersChangeNumbers.dll
+D:\CodeProekts\TechModule2018-StringsTextProcessing-Exercise\08.LettersChangeNumbers\obj\Debug\netcoreapp2.0\08.LettersChangeNumbers.pdb

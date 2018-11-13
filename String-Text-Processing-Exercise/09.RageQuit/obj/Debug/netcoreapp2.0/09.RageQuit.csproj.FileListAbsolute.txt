@@ -1,0 +1,11 @@
+D:\CodeProekts\TechModule2018-StringsTextProcessing-Exercise\09.RageQuit\bin\Debug\netcoreapp2.0\09.RageQuit.deps.json
+D:\CodeProekts\TechModule2018-StringsTextProcessing-Exercise\09.RageQuit\bin\Debug\netcoreapp2.0\09.RageQuit.runtimeconfig.json
+D:\CodeProekts\TechModule2018-StringsTextProcessing-Exercise\09.RageQuit\bin\Debug\netcoreapp2.0\09.RageQuit.runtimeconfig.dev.json
+D:\CodeProekts\TechModule2018-StringsTextProcessing-Exercise\09.RageQuit\bin\Debug\netcoreapp2.0\09.RageQuit.dll
+D:\CodeProekts\TechModule2018-StringsTextProcessing-Exercise\09.RageQuit\bin\Debug\netcoreapp2.0\09.RageQuit.pdb
+D:\CodeProekts\TechModule2018-StringsTextProcessing-Exercise\09.RageQuit\obj\Debug\netcoreapp2.0\09.RageQuit.csprojResolveAssemblyReference.cache
+D:\CodeProekts\TechModule2018-StringsTextProcessing-Exercise\09.RageQuit\obj\Debug\netcoreapp2.0\09.RageQuit.csproj.CoreCompileInputs.cache
+D:\CodeProekts\TechModule2018-StringsTextProcessing-Exercise\09.RageQuit\obj\Debug\netcoreapp2.0\09.RageQuit.AssemblyInfoInputs.cache
+D:\CodeProekts\TechModule2018-StringsTextProcessing-Exercise\09.RageQuit\obj\Debug\netcoreapp2.0\09.RageQuit.AssemblyInfo.cs
+D:\CodeProekts\TechModule2018-StringsTextProcessing-Exercise\09.RageQuit\obj\Debug\netcoreapp2.0\09.RageQuit.dll
+D:\CodeProekts\TechModule2018-StringsTextProcessing-Exercise\09.RageQuit\obj\Debug\netcoreapp2.0\09.RageQuit.pdb

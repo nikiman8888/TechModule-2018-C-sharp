@@ -1,0 +1,11 @@
+D:\CodeProekts\TechModule2018-StringsTextProcessing-Exercise\10.WinningTicket\bin\Debug\netcoreapp2.0\10.WinningTicket.deps.json
+D:\CodeProekts\TechModule2018-StringsTextProcessing-Exercise\10.WinningTicket\bin\Debug\netcoreapp2.0\10.WinningTicket.runtimeconfig.json
+D:\CodeProekts\TechModule2018-StringsTextProcessing-Exercise\10.WinningTicket\bin\Debug\netcoreapp2.0\10.WinningTicket.runtimeconfig.dev.json
+D:\CodeProekts\TechModule2018-StringsTextProcessing-Exercise\10.WinningTicket\bin\Debug\netcoreapp2.0\10.WinningTicket.dll
+D:\CodeProekts\TechModule2018-StringsTextProcessing-Exercise\10.WinningTicket\bin\Debug\netcoreapp2.0\10.WinningTicket.pdb
+D:\CodeProekts\TechModule2018-StringsTextProcessing-Exercise\10.WinningTicket\obj\Debug\netcoreapp2.0\10.WinningTicket.csprojResolveAssemblyReference.cache
+D:\CodeProekts\TechModule2018-StringsTextProcessing-Exercise\10.WinningTicket\obj\Debug\netcoreapp2.0\10.WinningTicket.csproj.CoreCompileInputs.cache
+D:\CodeProekts\TechModule2018-StringsTextProcessing-Exercise\10.WinningTicket\obj\Debug\netcoreapp2.0\10.WinningTicket.AssemblyInfoInputs.cache
+D:\CodeProekts\TechModule2018-StringsTextProcessing-Exercise\10.WinningTicket\obj\Debug\netcoreapp2.0\10.WinningTicket.AssemblyInfo.cs
+D:\CodeProekts\TechModule2018-StringsTextProcessing-Exercise\10.WinningTicket\obj\Debug\netcoreapp2.0\10.WinningTicket.dll
+D:\CodeProekts\TechModule2018-StringsTextProcessing-Exercise\10.WinningTicket\obj\Debug\netcoreapp2.0\10.WinningTicket.pdb
