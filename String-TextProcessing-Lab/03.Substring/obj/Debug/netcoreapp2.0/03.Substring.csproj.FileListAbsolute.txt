@@ -1,0 +1,10 @@
+D:\CodeProekts\TechModule2018-Strings-TextProcessing-Lab\03.Substring\bin\Debug\netcoreapp2.0\03.Substring.deps.json
+D:\CodeProekts\TechModule2018-Strings-TextProcessing-Lab\03.Substring\bin\Debug\netcoreapp2.0\03.Substring.runtimeconfig.json
+D:\CodeProekts\TechModule2018-Strings-TextProcessing-Lab\03.Substring\bin\Debug\netcoreapp2.0\03.Substring.runtimeconfig.dev.json
+D:\CodeProekts\TechModule2018-Strings-TextProcessing-Lab\03.Substring\bin\Debug\netcoreapp2.0\03.Substring.dll
+D:\CodeProekts\TechModule2018-Strings-TextProcessing-Lab\03.Substring\bin\Debug\netcoreapp2.0\03.Substring.pdb
+D:\CodeProekts\TechModule2018-Strings-TextProcessing-Lab\03.Substring\obj\Debug\netcoreapp2.0\03.Substring.csproj.CoreCompileInputs.cache
+D:\CodeProekts\TechModule2018-Strings-TextProcessing-Lab\03.Substring\obj\Debug\netcoreapp2.0\03.Substring.AssemblyInfoInputs.cache
+D:\CodeProekts\TechModule2018-Strings-TextProcessing-Lab\03.Substring\obj\Debug\netcoreapp2.0\03.Substring.AssemblyInfo.cs
+D:\CodeProekts\TechModule2018-Strings-TextProcessing-Lab\03.Substring\obj\Debug\netcoreapp2.0\03.Substring.dll
+D:\CodeProekts\TechModule2018-Strings-TextProcessing-Lab\03.Substring\obj\Debug\netcoreapp2.0\03.Substring.pdb

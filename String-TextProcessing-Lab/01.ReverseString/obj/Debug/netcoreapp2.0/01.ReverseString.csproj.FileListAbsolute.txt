@@ -1,0 +1,11 @@
+D:\CodeProekts\TechModule2018-Strings-TextProcessing-Lab\01.ReverseString\bin\Debug\netcoreapp2.0\01.ReverseString.deps.json
+D:\CodeProekts\TechModule2018-Strings-TextProcessing-Lab\01.ReverseString\bin\Debug\netcoreapp2.0\01.ReverseString.runtimeconfig.json
+D:\CodeProekts\TechModule2018-Strings-TextProcessing-Lab\01.ReverseString\bin\Debug\netcoreapp2.0\01.ReverseString.runtimeconfig.dev.json
+D:\CodeProekts\TechModule2018-Strings-TextProcessing-Lab\01.ReverseString\bin\Debug\netcoreapp2.0\01.ReverseString.dll
+D:\CodeProekts\TechModule2018-Strings-TextProcessing-Lab\01.ReverseString\bin\Debug\netcoreapp2.0\01.ReverseString.pdb
+D:\CodeProekts\TechModule2018-Strings-TextProcessing-Lab\01.ReverseString\obj\Debug\netcoreapp2.0\01.ReverseString.csprojResolveAssemblyReference.cache
+D:\CodeProekts\TechModule2018-Strings-TextProcessing-Lab\01.ReverseString\obj\Debug\netcoreapp2.0\01.ReverseString.csproj.CoreCompileInputs.cache
+D:\CodeProekts\TechModule2018-Strings-TextProcessing-Lab\01.ReverseString\obj\Debug\netcoreapp2.0\01.ReverseString.AssemblyInfoInputs.cache
+D:\CodeProekts\TechModule2018-Strings-TextProcessing-Lab\01.ReverseString\obj\Debug\netcoreapp2.0\01.ReverseString.AssemblyInfo.cs
+D:\CodeProekts\TechModule2018-Strings-TextProcessing-Lab\01.ReverseString\obj\Debug\netcoreapp2.0\01.ReverseString.dll
+D:\CodeProekts\TechModule2018-Strings-TextProcessing-Lab\01.ReverseString\obj\Debug\netcoreapp2.0\01.ReverseString.pdb

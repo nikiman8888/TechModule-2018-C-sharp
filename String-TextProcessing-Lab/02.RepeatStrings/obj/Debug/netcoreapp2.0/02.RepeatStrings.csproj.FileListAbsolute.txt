@@ -1,0 +1,11 @@
+D:\CodeProekts\TechModule2018-Strings-TextProcessing-Lab\02.RepeatStrings\bin\Debug\netcoreapp2.0\02.RepeatStrings.deps.json
+D:\CodeProekts\TechModule2018-Strings-TextProcessing-Lab\02.RepeatStrings\bin\Debug\netcoreapp2.0\02.RepeatStrings.runtimeconfig.json
+D:\CodeProekts\TechModule2018-Strings-TextProcessing-Lab\02.RepeatStrings\bin\Debug\netcoreapp2.0\02.RepeatStrings.runtimeconfig.dev.json
+D:\CodeProekts\TechModule2018-Strings-TextProcessing-Lab\02.RepeatStrings\bin\Debug\netcoreapp2.0\02.RepeatStrings.dll
+D:\CodeProekts\TechModule2018-Strings-TextProcessing-Lab\02.RepeatStrings\bin\Debug\netcoreapp2.0\02.RepeatStrings.pdb
+D:\CodeProekts\TechModule2018-Strings-TextProcessing-Lab\02.RepeatStrings\obj\Debug\netcoreapp2.0\02.RepeatStrings.csprojResolveAssemblyReference.cache
+D:\CodeProekts\TechModule2018-Strings-TextProcessing-Lab\02.RepeatStrings\obj\Debug\netcoreapp2.0\02.RepeatStrings.csproj.CoreCompileInputs.cache
+D:\CodeProekts\TechModule2018-Strings-TextProcessing-Lab\02.RepeatStrings\obj\Debug\netcoreapp2.0\02.RepeatStrings.AssemblyInfoInputs.cache
+D:\CodeProekts\TechModule2018-Strings-TextProcessing-Lab\02.RepeatStrings\obj\Debug\netcoreapp2.0\02.RepeatStrings.AssemblyInfo.cs
+D:\CodeProekts\TechModule2018-Strings-TextProcessing-Lab\02.RepeatStrings\obj\Debug\netcoreapp2.0\02.RepeatStrings.dll
+D:\CodeProekts\TechModule2018-Strings-TextProcessing-Lab\02.RepeatStrings\obj\Debug\netcoreapp2.0\02.RepeatStrings.pdb

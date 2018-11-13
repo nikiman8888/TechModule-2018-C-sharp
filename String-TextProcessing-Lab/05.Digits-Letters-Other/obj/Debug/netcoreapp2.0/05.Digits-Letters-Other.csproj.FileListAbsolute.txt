@@ -1,0 +1,10 @@
+D:\CodeProekts\TechModule2018-Strings-TextProcessing-Lab\05.Digits-Letters-Other\bin\Debug\netcoreapp2.0\05.Digits-Letters-Other.deps.json
+D:\CodeProekts\TechModule2018-Strings-TextProcessing-Lab\05.Digits-Letters-Other\bin\Debug\netcoreapp2.0\05.Digits-Letters-Other.runtimeconfig.json
+D:\CodeProekts\TechModule2018-Strings-TextProcessing-Lab\05.Digits-Letters-Other\bin\Debug\netcoreapp2.0\05.Digits-Letters-Other.runtimeconfig.dev.json
+D:\CodeProekts\TechModule2018-Strings-TextProcessing-Lab\05.Digits-Letters-Other\bin\Debug\netcoreapp2.0\05.Digits-Letters-Other.dll
+D:\CodeProekts\TechModule2018-Strings-TextProcessing-Lab\05.Digits-Letters-Other\bin\Debug\netcoreapp2.0\05.Digits-Letters-Other.pdb
+D:\CodeProekts\TechModule2018-Strings-TextProcessing-Lab\05.Digits-Letters-Other\obj\Debug\netcoreapp2.0\05.Digits-Letters-Other.csproj.CoreCompileInputs.cache
+D:\CodeProekts\TechModule2018-Strings-TextProcessing-Lab\05.Digits-Letters-Other\obj\Debug\netcoreapp2.0\05.Digits-Letters-Other.AssemblyInfoInputs.cache
+D:\CodeProekts\TechModule2018-Strings-TextProcessing-Lab\05.Digits-Letters-Other\obj\Debug\netcoreapp2.0\05.Digits-Letters-Other.AssemblyInfo.cs
+D:\CodeProekts\TechModule2018-Strings-TextProcessing-Lab\05.Digits-Letters-Other\obj\Debug\netcoreapp2.0\05.Digits-Letters-Other.dll
+D:\CodeProekts\TechModule2018-Strings-TextProcessing-Lab\05.Digits-Letters-Other\obj\Debug\netcoreapp2.0\05.Digits-Letters-Other.pdb
