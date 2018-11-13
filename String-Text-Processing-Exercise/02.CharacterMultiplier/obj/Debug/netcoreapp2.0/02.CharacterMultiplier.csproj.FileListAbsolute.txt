@@ -1,0 +1,10 @@
+D:\CodeProekts\TechModule2018-StringsTextProcessing-Exercise\02.CharacterMultiplier\bin\Debug\netcoreapp2.0\02.CharacterMultiplier.deps.json
+D:\CodeProekts\TechModule2018-StringsTextProcessing-Exercise\02.CharacterMultiplier\bin\Debug\netcoreapp2.0\02.CharacterMultiplier.runtimeconfig.json
+D:\CodeProekts\TechModule2018-StringsTextProcessing-Exercise\02.CharacterMultiplier\bin\Debug\netcoreapp2.0\02.CharacterMultiplier.runtimeconfig.dev.json
+D:\CodeProekts\TechModule2018-StringsTextProcessing-Exercise\02.CharacterMultiplier\bin\Debug\netcoreapp2.0\02.CharacterMultiplier.dll
+D:\CodeProekts\TechModule2018-StringsTextProcessing-Exercise\02.CharacterMultiplier\bin\Debug\netcoreapp2.0\02.CharacterMultiplier.pdb
+D:\CodeProekts\TechModule2018-StringsTextProcessing-Exercise\02.CharacterMultiplier\obj\Debug\netcoreapp2.0\02.CharacterMultiplier.csproj.CoreCompileInputs.cache
+D:\CodeProekts\TechModule2018-StringsTextProcessing-Exercise\02.CharacterMultiplier\obj\Debug\netcoreapp2.0\02.CharacterMultiplier.AssemblyInfoInputs.cache
+D:\CodeProekts\TechModule2018-StringsTextProcessing-Exercise\02.CharacterMultiplier\obj\Debug\netcoreapp2.0\02.CharacterMultiplier.AssemblyInfo.cs
+D:\CodeProekts\TechModule2018-StringsTextProcessing-Exercise\02.CharacterMultiplier\obj\Debug\netcoreapp2.0\02.CharacterMultiplier.dll
+D:\CodeProekts\TechModule2018-StringsTextProcessing-Exercise\02.CharacterMultiplier\obj\Debug\netcoreapp2.0\02.CharacterMultiplier.pdb

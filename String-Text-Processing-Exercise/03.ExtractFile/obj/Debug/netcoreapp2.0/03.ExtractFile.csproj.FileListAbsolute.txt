@@ -1,0 +1,11 @@
+D:\CodeProekts\TechModule2018-StringsTextProcessing-Exercise\03.ExtractFile\bin\Debug\netcoreapp2.0\03.ExtractFile.deps.json
+D:\CodeProekts\TechModule2018-StringsTextProcessing-Exercise\03.ExtractFile\bin\Debug\netcoreapp2.0\03.ExtractFile.runtimeconfig.json
+D:\CodeProekts\TechModule2018-StringsTextProcessing-Exercise\03.ExtractFile\bin\Debug\netcoreapp2.0\03.ExtractFile.runtimeconfig.dev.json
+D:\CodeProekts\TechModule2018-StringsTextProcessing-Exercise\03.ExtractFile\bin\Debug\netcoreapp2.0\03.ExtractFile.dll
+D:\CodeProekts\TechModule2018-StringsTextProcessing-Exercise\03.ExtractFile\bin\Debug\netcoreapp2.0\03.ExtractFile.pdb
+D:\CodeProekts\TechModule2018-StringsTextProcessing-Exercise\03.ExtractFile\obj\Debug\netcoreapp2.0\03.ExtractFile.csprojResolveAssemblyReference.cache
+D:\CodeProekts\TechModule2018-StringsTextProcessing-Exercise\03.ExtractFile\obj\Debug\netcoreapp2.0\03.ExtractFile.csproj.CoreCompileInputs.cache
+D:\CodeProekts\TechModule2018-StringsTextProcessing-Exercise\03.ExtractFile\obj\Debug\netcoreapp2.0\03.ExtractFile.AssemblyInfoInputs.cache
+D:\CodeProekts\TechModule2018-StringsTextProcessing-Exercise\03.ExtractFile\obj\Debug\netcoreapp2.0\03.ExtractFile.AssemblyInfo.cs
+D:\CodeProekts\TechModule2018-StringsTextProcessing-Exercise\03.ExtractFile\obj\Debug\netcoreapp2.0\03.ExtractFile.dll
+D:\CodeProekts\TechModule2018-StringsTextProcessing-Exercise\03.ExtractFile\obj\Debug\netcoreapp2.0\03.ExtractFile.pdb

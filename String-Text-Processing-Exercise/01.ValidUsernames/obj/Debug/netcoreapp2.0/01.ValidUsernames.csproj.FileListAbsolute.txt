@@ -1,0 +1,11 @@
+D:\CodeProekts\TechModule2018-StringsTextProcessing-Exercise\01.ValidUsernames\bin\Debug\netcoreapp2.0\01.ValidUsernames.deps.json
+D:\CodeProekts\TechModule2018-StringsTextProcessing-Exercise\01.ValidUsernames\bin\Debug\netcoreapp2.0\01.ValidUsernames.runtimeconfig.json
+D:\CodeProekts\TechModule2018-StringsTextProcessing-Exercise\01.ValidUsernames\bin\Debug\netcoreapp2.0\01.ValidUsernames.runtimeconfig.dev.json
+D:\CodeProekts\TechModule2018-StringsTextProcessing-Exercise\01.ValidUsernames\bin\Debug\netcoreapp2.0\01.ValidUsernames.dll
+D:\CodeProekts\TechModule2018-StringsTextProcessing-Exercise\01.ValidUsernames\bin\Debug\netcoreapp2.0\01.ValidUsernames.pdb
+D:\CodeProekts\TechModule2018-StringsTextProcessing-Exercise\01.ValidUsernames\obj\Debug\netcoreapp2.0\01.ValidUsernames.csprojResolveAssemblyReference.cache
+D:\CodeProekts\TechModule2018-StringsTextProcessing-Exercise\01.ValidUsernames\obj\Debug\netcoreapp2.0\01.ValidUsernames.csproj.CoreCompileInputs.cache
+D:\CodeProekts\TechModule2018-StringsTextProcessing-Exercise\01.ValidUsernames\obj\Debug\netcoreapp2.0\01.ValidUsernames.AssemblyInfoInputs.cache
+D:\CodeProekts\TechModule2018-StringsTextProcessing-Exercise\01.ValidUsernames\obj\Debug\netcoreapp2.0\01.ValidUsernames.AssemblyInfo.cs
+D:\CodeProekts\TechModule2018-StringsTextProcessing-Exercise\01.ValidUsernames\obj\Debug\netcoreapp2.0\01.ValidUsernames.dll
+D:\CodeProekts\TechModule2018-StringsTextProcessing-Exercise\01.ValidUsernames\obj\Debug\netcoreapp2.0\01.ValidUsernames.pdb

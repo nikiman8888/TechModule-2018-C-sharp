@@ -1,0 +1,10 @@
+D:\CodeProekts\TechModule2018-StringsTextProcessing-Exercise\04.CaesarCipher\bin\Debug\netcoreapp2.0\04.CaesarCipher.deps.json
+D:\CodeProekts\TechModule2018-StringsTextProcessing-Exercise\04.CaesarCipher\bin\Debug\netcoreapp2.0\04.CaesarCipher.runtimeconfig.json
+D:\CodeProekts\TechModule2018-StringsTextProcessing-Exercise\04.CaesarCipher\bin\Debug\netcoreapp2.0\04.CaesarCipher.runtimeconfig.dev.json
+D:\CodeProekts\TechModule2018-StringsTextProcessing-Exercise\04.CaesarCipher\bin\Debug\netcoreapp2.0\04.CaesarCipher.dll
+D:\CodeProekts\TechModule2018-StringsTextProcessing-Exercise\04.CaesarCipher\bin\Debug\netcoreapp2.0\04.CaesarCipher.pdb
+D:\CodeProekts\TechModule2018-StringsTextProcessing-Exercise\04.CaesarCipher\obj\Debug\netcoreapp2.0\04.CaesarCipher.csproj.CoreCompileInputs.cache
+D:\CodeProekts\TechModule2018-StringsTextProcessing-Exercise\04.CaesarCipher\obj\Debug\netcoreapp2.0\04.CaesarCipher.AssemblyInfoInputs.cache
+D:\CodeProekts\TechModule2018-StringsTextProcessing-Exercise\04.CaesarCipher\obj\Debug\netcoreapp2.0\04.CaesarCipher.AssemblyInfo.cs
+D:\CodeProekts\TechModule2018-StringsTextProcessing-Exercise\04.CaesarCipher\obj\Debug\netcoreapp2.0\04.CaesarCipher.dll
+D:\CodeProekts\TechModule2018-StringsTextProcessing-Exercise\04.CaesarCipher\obj\Debug\netcoreapp2.0\04.CaesarCipher.pdb
