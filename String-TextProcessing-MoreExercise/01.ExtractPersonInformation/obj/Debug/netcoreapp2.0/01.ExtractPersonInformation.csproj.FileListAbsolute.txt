@@ -1,0 +1,11 @@
+D:\CodeProekts\TechModule2018-String-TextProcessing-MoreExercise\01.ExtractPersonInformation\bin\Debug\netcoreapp2.0\01.ExtractPersonInformation.deps.json
+D:\CodeProekts\TechModule2018-String-TextProcessing-MoreExercise\01.ExtractPersonInformation\bin\Debug\netcoreapp2.0\01.ExtractPersonInformation.runtimeconfig.json
+D:\CodeProekts\TechModule2018-String-TextProcessing-MoreExercise\01.ExtractPersonInformation\bin\Debug\netcoreapp2.0\01.ExtractPersonInformation.runtimeconfig.dev.json
+D:\CodeProekts\TechModule2018-String-TextProcessing-MoreExercise\01.ExtractPersonInformation\bin\Debug\netcoreapp2.0\01.ExtractPersonInformation.dll
+D:\CodeProekts\TechModule2018-String-TextProcessing-MoreExercise\01.ExtractPersonInformation\bin\Debug\netcoreapp2.0\01.ExtractPersonInformation.pdb
+D:\CodeProekts\TechModule2018-String-TextProcessing-MoreExercise\01.ExtractPersonInformation\obj\Debug\netcoreapp2.0\01.ExtractPersonInformation.csprojResolveAssemblyReference.cache
+D:\CodeProekts\TechModule2018-String-TextProcessing-MoreExercise\01.ExtractPersonInformation\obj\Debug\netcoreapp2.0\01.ExtractPersonInformation.csproj.CoreCompileInputs.cache
+D:\CodeProekts\TechModule2018-String-TextProcessing-MoreExercise\01.ExtractPersonInformation\obj\Debug\netcoreapp2.0\01.ExtractPersonInformation.AssemblyInfoInputs.cache
+D:\CodeProekts\TechModule2018-String-TextProcessing-MoreExercise\01.ExtractPersonInformation\obj\Debug\netcoreapp2.0\01.ExtractPersonInformation.AssemblyInfo.cs
+D:\CodeProekts\TechModule2018-String-TextProcessing-MoreExercise\01.ExtractPersonInformation\obj\Debug\netcoreapp2.0\01.ExtractPersonInformation.dll
+D:\CodeProekts\TechModule2018-String-TextProcessing-MoreExercise\01.ExtractPersonInformation\obj\Debug\netcoreapp2.0\01.ExtractPersonInformation.pdb

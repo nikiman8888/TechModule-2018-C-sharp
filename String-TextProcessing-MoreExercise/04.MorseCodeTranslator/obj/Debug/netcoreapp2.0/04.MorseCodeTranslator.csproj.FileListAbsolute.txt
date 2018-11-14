@@ -1,0 +1,11 @@
+D:\CodeProekts\TechModule2018-String-TextProcessing-MoreExercise\04.MorseCodeTranslator\bin\Debug\netcoreapp2.0\04.MorseCodeTranslator.deps.json
+D:\CodeProekts\TechModule2018-String-TextProcessing-MoreExercise\04.MorseCodeTranslator\bin\Debug\netcoreapp2.0\04.MorseCodeTranslator.runtimeconfig.json
+D:\CodeProekts\TechModule2018-String-TextProcessing-MoreExercise\04.MorseCodeTranslator\bin\Debug\netcoreapp2.0\04.MorseCodeTranslator.runtimeconfig.dev.json
+D:\CodeProekts\TechModule2018-String-TextProcessing-MoreExercise\04.MorseCodeTranslator\bin\Debug\netcoreapp2.0\04.MorseCodeTranslator.dll
+D:\CodeProekts\TechModule2018-String-TextProcessing-MoreExercise\04.MorseCodeTranslator\bin\Debug\netcoreapp2.0\04.MorseCodeTranslator.pdb
+D:\CodeProekts\TechModule2018-String-TextProcessing-MoreExercise\04.MorseCodeTranslator\obj\Debug\netcoreapp2.0\04.MorseCodeTranslator.csprojResolveAssemblyReference.cache
+D:\CodeProekts\TechModule2018-String-TextProcessing-MoreExercise\04.MorseCodeTranslator\obj\Debug\netcoreapp2.0\04.MorseCodeTranslator.csproj.CoreCompileInputs.cache
+D:\CodeProekts\TechModule2018-String-TextProcessing-MoreExercise\04.MorseCodeTranslator\obj\Debug\netcoreapp2.0\04.MorseCodeTranslator.AssemblyInfoInputs.cache
+D:\CodeProekts\TechModule2018-String-TextProcessing-MoreExercise\04.MorseCodeTranslator\obj\Debug\netcoreapp2.0\04.MorseCodeTranslator.AssemblyInfo.cs
+D:\CodeProekts\TechModule2018-String-TextProcessing-MoreExercise\04.MorseCodeTranslator\obj\Debug\netcoreapp2.0\04.MorseCodeTranslator.dll
+D:\CodeProekts\TechModule2018-String-TextProcessing-MoreExercise\04.MorseCodeTranslator\obj\Debug\netcoreapp2.0\04.MorseCodeTranslator.pdb

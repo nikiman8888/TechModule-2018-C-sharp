@@ -1,0 +1,11 @@
+D:\CodeProekts\TechModule2018-String-TextProcessing-MoreExercise\02.Ascii-Sumator\obj\Debug\netcoreapp2.0\02.Ascii-Sumator.csproj.CoreCompileInputs.cache
+D:\CodeProekts\TechModule2018-String-TextProcessing-MoreExercise\02.Ascii-Sumator\obj\Debug\netcoreapp2.0\02.Ascii-Sumator.AssemblyInfoInputs.cache
+D:\CodeProekts\TechModule2018-String-TextProcessing-MoreExercise\02.Ascii-Sumator\obj\Debug\netcoreapp2.0\02.Ascii-Sumator.AssemblyInfo.cs
+D:\CodeProekts\TechModule2018-String-TextProcessing-MoreExercise\02.Ascii-Sumator\obj\Debug\netcoreapp2.0\02.Ascii-Sumator.csprojResolveAssemblyReference.cache
+D:\CodeProekts\TechModule2018-String-TextProcessing-MoreExercise\02.Ascii-Sumator\bin\Debug\netcoreapp2.0\02.Ascii-Sumator.deps.json
+D:\CodeProekts\TechModule2018-String-TextProcessing-MoreExercise\02.Ascii-Sumator\bin\Debug\netcoreapp2.0\02.Ascii-Sumator.runtimeconfig.json
+D:\CodeProekts\TechModule2018-String-TextProcessing-MoreExercise\02.Ascii-Sumator\bin\Debug\netcoreapp2.0\02.Ascii-Sumator.runtimeconfig.dev.json
+D:\CodeProekts\TechModule2018-String-TextProcessing-MoreExercise\02.Ascii-Sumator\bin\Debug\netcoreapp2.0\02.Ascii-Sumator.dll
+D:\CodeProekts\TechModule2018-String-TextProcessing-MoreExercise\02.Ascii-Sumator\bin\Debug\netcoreapp2.0\02.Ascii-Sumator.pdb
+D:\CodeProekts\TechModule2018-String-TextProcessing-MoreExercise\02.Ascii-Sumator\obj\Debug\netcoreapp2.0\02.Ascii-Sumator.dll
+D:\CodeProekts\TechModule2018-String-TextProcessing-MoreExercise\02.Ascii-Sumator\obj\Debug\netcoreapp2.0\02.Ascii-Sumator.pdb

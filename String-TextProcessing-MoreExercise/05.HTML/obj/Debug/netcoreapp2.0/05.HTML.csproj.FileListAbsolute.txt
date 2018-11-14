@@ -1,0 +1,10 @@
+D:\CodeProekts\TechModule2018-String-TextProcessing-MoreExercise\05.HTML\bin\Debug\netcoreapp2.0\05.HTML.deps.json
+D:\CodeProekts\TechModule2018-String-TextProcessing-MoreExercise\05.HTML\bin\Debug\netcoreapp2.0\05.HTML.runtimeconfig.json
+D:\CodeProekts\TechModule2018-String-TextProcessing-MoreExercise\05.HTML\bin\Debug\netcoreapp2.0\05.HTML.runtimeconfig.dev.json
+D:\CodeProekts\TechModule2018-String-TextProcessing-MoreExercise\05.HTML\bin\Debug\netcoreapp2.0\05.HTML.dll
+D:\CodeProekts\TechModule2018-String-TextProcessing-MoreExercise\05.HTML\bin\Debug\netcoreapp2.0\05.HTML.pdb
+D:\CodeProekts\TechModule2018-String-TextProcessing-MoreExercise\05.HTML\obj\Debug\netcoreapp2.0\05.HTML.csproj.CoreCompileInputs.cache
+D:\CodeProekts\TechModule2018-String-TextProcessing-MoreExercise\05.HTML\obj\Debug\netcoreapp2.0\05.HTML.AssemblyInfoInputs.cache
+D:\CodeProekts\TechModule2018-String-TextProcessing-MoreExercise\05.HTML\obj\Debug\netcoreapp2.0\05.HTML.AssemblyInfo.cs
+D:\CodeProekts\TechModule2018-String-TextProcessing-MoreExercise\05.HTML\obj\Debug\netcoreapp2.0\05.HTML.dll
+D:\CodeProekts\TechModule2018-String-TextProcessing-MoreExercise\05.HTML\obj\Debug\netcoreapp2.0\05.HTML.pdb
